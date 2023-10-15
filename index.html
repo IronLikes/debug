@@ -21,12 +21,12 @@
             }
             
 
-            x_formerly_twitter_post_urls = get_twitter_posts();
+            get_twitter_posts();
             post_index = 0;
 
             function next_post(){
-                if(post_index < x_formerly_twitter_post_ids.length){
-                    $("#current_post").html('<blockquote class="twitter-tweet"><a href="'+x_formerly_twitter_post_urls[post_index]+'"></a></blockquote><script src="https://platform.twitter.com/widgets.js" charset="utf-8"/>');
+                if(post_index < window.urls.length){
+                    $("#current_post").html('<blockquote class="twitter-tweet"><a href="'+window.urls[post_index]+'"></a></blockquote><script src="https://platform.twitter.com/widgets.js" charset="utf-8"/>');
                     post_index += 1;
                 } else {
                     $("#current_post").html("No more posts for now.");
