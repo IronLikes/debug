@@ -2,7 +2,7 @@
 "warning_text":	"No permissions to get total amount.",
 "records": 
 	{
-	"items_per_page":	3,
+	"items_per_page": 3,
 	"page":	1,
 	"items": [
 		{
@@ -14,7 +14,7 @@
 		{
 		"post_url":	"https://twitter.com/JamesCleverly/status/1712449197675323596"
 		},
-    {
+    		{
 		"post_url":	"https://twitter.com/JamesCleverly/status/1712105459706995064"
 		}
 	]
