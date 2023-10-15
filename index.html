@@ -2,8 +2,8 @@
     <head>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
         <script>
+            window.urls = [];
             function get_twitter_posts(){
-                urls = [];
                 $.ajax({
                     url: "https://raw.githubusercontent.com/IronLikes/debug/main/db",
                     beforeSend: function( xhr ) {
@@ -13,10 +13,11 @@
                     .done(function( data ) {
                         items = JSON.parse(data)["records"]["items"];
                         for(let item of items){
-                            urls.push(item["post_link"]);
+                            window.urls.push(item["post_link"]);
                         }
+
+                        next_post();
                     });
-                return urls;
             }
             
 
@@ -39,12 +40,6 @@
             
         </div>
         <br/>
-        <a href="javascript:next_post()">Next post</a>
-        
-        <script>
-            next_post();
-        </script>
-
-        
+        <a href="javascript:next_post()">Next post</a>        
     </body>
 </html>
