@@ -1,0 +1,50 @@
+<html>
+    <head>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+        <script>
+            function get_twitter_posts(){
+                $.ajax({
+                    url: "https://raw.githubusercontent.com/IronLikes/debug/main/db",
+                    beforeSend: function( xhr ) {
+                        xhr.overrideMimeType( "text/plain; charset=x-user-defined" );
+                    }
+                    })
+                    .done(function( data ) {
+                        items = JSON.parse(data)["records"]["items"];
+                        urls = [];
+                        for(let item of items){
+                            urls.push(item["post_link"]);
+                        }
+                    });
+                return urls;
+            }
+            
+
+            x_formerly_twitter_post_urls = get_twitter_posts();
+            post_index = 0;
+
+            function next_post(){
+                if(post_index < x_formerly_twitter_post_ids.length){
+                    $("#current_post").html('<blockquote class="twitter-tweet"><a href="'+x_formerly_twitter_post_urls[post_index]+'"></a></blockquote><script src="https://platform.twitter.com/widgets.js" charset="utf-8"/>');
+                    post_index += 1;
+                } else {
+                    $("#current_post").html("No more posts for now.");
+                }
+            }
+
+        </script>
+    </head>
+    <body>
+        <div id="current_post">
+            
+        </div>
+        <br/>
+        <a href="javascript:next_post()">Next post</a>
+        
+        <script>
+            next_post();
+        </script>
+
+        
+    </body>
+</html>
