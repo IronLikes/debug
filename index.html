@@ -2138,6 +2138,9 @@ body {
         function next_post() {
             if (post_index < window.urls.length) {
                 $("#current_post").html('<blockquote class="twitter-tweet"><a href="' + window.urls[post_index] + '"></a></blockquote><script src="https://platform.twitter.com/widgets.js" charset="utf-8"/>');
+                id = window.urls[post_index].split("/");
+                id = id[id.length -1]
+                $("#like_url").attr("href", "https://twitter.com/intent/like?tweet_id="+id);
                 post_index += 1;
             } else {
                 $("#current_post").html("No more posts for now.");
@@ -2208,7 +2211,8 @@ body {
                         </div>
                     </div>
                     <div class="px-4 mt-4">
-                        <div class="flex w-full justify-center gap-4 px-4"><button
+                        <div class="flex w-full justify-center gap-4 px-4">
+                            <a id="like_url" href="">
                                 class="rtl:flex-reverse gap-2 inline-flex items-center justify-center rounded-xl text-base font-semibold ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-primary text-primary-foreground hover:bg-primary/90 h-14 py-2 flex-grow px-0"><svg
                                     xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
                                     fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
@@ -2218,7 +2222,9 @@ body {
                                     <circle cx="18" cy="19" r="3"></circle>
                                     <line x1="8.59" x2="15.42" y1="13.51" y2="17.49"></line>
                                     <line x1="15.41" x2="8.59" y1="6.51" y2="10.49"></line>
-                                </svg>הפץ/י</button>
+                                </svg>
+                                לייק
+                            </a>
                             <button onclick="next_post()" id="next_post_button"
                                 class="rtl:flex-reverse gap-2 inline-flex items-center justify-center rounded-xl text-base font-semibold ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-secondary text-secondary-foreground hover:bg-secondary/80 h-14 py-2 flex-grow px-0">
                                 <svg
