@@ -1,45 +1,157 @@
 <html>
-    <head>
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
-        <script>
-            window.urls = [];
-            function get_twitter_posts(){
-                $.ajax({
-                    url: "https://raw.githubusercontent.com/IronLikes/debug/main/db",
-                    beforeSend: function( xhr ) {
-                        xhr.overrideMimeType( "text/plain; charset=x-user-defined" );
-                    }
-                    })
-                    .done(function( data ) {
-                        items = JSON.parse(data)["records"]["items"];
-                        for(let item of items){
-                            window.urls.push(item["post_link"]);
-                        }
 
-                        next_post();
-                    });
-            }
-            
+<head>
+    <script async="" src="https://www.clarity.ms/s/0.7.12/clarity.js"></script>
+    <script type="text/javascript" async=""
+        src="https://www.googletagmanager.com/gtag/js?id=G-0G9357XEY5&amp;l=dataLayer&amp;cx=c"></script>
+    <script async="" src="https://www.clarity.ms/tag/jaj7l412ap"></script>
+    <script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-N97VJCM6"></script>
+    <meta charset="UTF-8">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
 
-            get_twitter_posts();
-            post_index = 0;
+    <title>Iron Likes</title>
 
-            function next_post(){
-                if(post_index < window.urls.length){
-                    $("#current_post").html('<blockquote class="twitter-tweet"><a href="'+window.urls[post_index]+'"></a></blockquote><script src="https://platform.twitter.com/widgets.js" charset="utf-8"/>');
-                    post_index += 1;
-                } else {
-                    $("#current_post").html("No more posts for now.");
+    <script>
+        window.urls = [];
+        function get_twitter_posts() {
+            $.ajax({
+                url: "https://raw.githubusercontent.com/IronLikes/debug/main/db",
+                beforeSend: function (xhr) {
+                    xhr.overrideMimeType("text/plain; charset=x-user-defined");
                 }
-            }
+            })
+                .done(function (data) {
+                    items = JSON.parse(data)["records"]["items"];
+                    for (let item of items) {
+                        window.urls.push(item["post_link"]);
+                    }
 
-        </script>
-    </head>
-    <body>
-        <div id="current_post">
-            
+                    next_post();
+                });
+        }
+
+
+        get_twitter_posts();
+        post_index = 0;
+
+        function next_post() {
+            if (post_index < window.urls.length) {
+                $("#current_post").html('<blockquote class="twitter-tweet"><a href="' + window.urls[post_index] + '"></a></blockquote><script src="https://platform.twitter.com/widgets.js" charset="utf-8"/>');
+                post_index += 1;
+            } else {
+                $("#current_post").html("No more posts for now.");
+            }
+        }
+
+    </script>
+</head>
+
+<body>
+
+    <div id="root">
+        <div dir="rtl">
+            <div class="flex h-full w-full flex-col items-center justify-center bg-slate-50 lg:bg-white  lg:py-8">
+                <div
+                    class="h-full w-full bg-slate-50 pb-4 lg:max-w-xl lg:overflow-hidden lg:rounded-xl lg:shadow-lg lg:ring-1 lg:ring-slate-300">
+                    <div
+                        class="overflow-hidden relative flex bg-slate-950 [background:radial-gradient(125%_125%_at_50%_10%,#000_30%,#3730a3_100%)] flex-col items-center w-full text-slate-50 text-center">
+                        <div class="flex flex-col items-center mt-10 mb-8 w-full text-center z-[2]">
+                            <div class="flex gap-2 justify-center items-center mb-2"><img
+                                    class="w-10 h-10 lg:w-10 lg:h-10" src="/words_of_iron_logo.svg"
+                                    alt="Words of Iron Logo" width="60" height="12">
+                                <h1 class="text-3xl font-extrabold lg:text-4xl rtl:text-5xl rtl:-mt-1">לייקים של ברזל</h1>
+                            </div>
+                            <h2 class="max-w-prose text-lg px-8 [&amp;:not(:first-child)]:mt-0">נלחמים בזירה הדיגיטלית
+                            </h2>
+                        </div>
+                        <div
+                            class="absolute h-full w-full bg-[radial-gradient(rgba(255,255,255,0.2)_1px,transparent_1px)] [background-size:16px_16px] [mask-image:radial-gradient(ellipse_50%_90%_at_50%_0%,#000_70%,transparent_100%)]">
+                        </div>
+                    </div>
+                    <div class="mt-4 flex flex-col items-center justify-center gap-4 px-4">
+                        <div
+                            class="relative z-10 w-full overflow-hidden rounded-xl border  border-slate-300 bg-white text-center shadow-2xl  ">
+                            <div class="px-6 py-6">
+                                <h5 class="mb-1.5  text-2xl font-bold leading-tight text-gray-900 ">מפיצים פוסטים
+                                    פרו-ישראליים ברשתות החברתיות</h5>
+                                <p class="mb-5 px-1 text-base leading-snug tracking-tight text-gray-500 sm:text-lg ">
+                                    הצטרפו למאמץ ההסברה הישראלי בקליק והפיצו את התוכן מפה</p>
+                                <div class="items-center justify-center space-y-4 sm:flex sm:space-x-4 sm:space-y-0">
+                                    <div class="flex w-full justify-center gap-2"><button
+                                            class="rtl:flex-reverse gap-2 inline-flex items-center justify-center rounded-xl text-base font-semibold ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-primary text-primary-foreground hover:bg-primary/90 h-14 py-2 flex-grow px-0"><svg
+                                                xmlns="http://www.w3.org/2000/svg" width="24" height="24"
+                                                viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                                                stroke-linecap="round" stroke-linejoin="round"
+                                                class="h-4 w-4 rtl:scale-x-[-1] rtl:transform">
+                                                <circle cx="18" cy="5" r="3"></circle>
+                                                <circle cx="6" cy="12" r="3"></circle>
+                                                <circle cx="18" cy="19" r="3"></circle>
+                                                <line x1="8.59" x2="15.42" y1="13.51" y2="17.49"></line>
+                                                <line x1="15.41" x2="8.59" y1="6.51" y2="10.49"></line>
+                                            </svg>הפץ/י</button></div>
+                                </div>
+                            </div>
+                            <div
+                                class="absolute top-0 z-[-2] h-full w-full bg-white bg-[radial-gradient(ellipse_100%_100%_at_100%_0%,rgba(55,48,163,0.3),rgba(255,255,255,0))]">
+                            </div>
+                        </div>
+                        <div dir="ltr" class="flex flex-col justify-center items-center w-full">
+                            <div class="react-tweet-theme _root_98iqw_1" id="current_post">
+                                
+                            </div>
+                        </div>
+                    </div>
+                    <div class="px-4 mt-4">
+                        <div class="flex w-full justify-center gap-4 px-4"><button
+                                class="rtl:flex-reverse gap-2 inline-flex items-center justify-center rounded-xl text-base font-semibold ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-primary text-primary-foreground hover:bg-primary/90 h-14 py-2 flex-grow px-0"><svg
+                                    xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                                    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                    stroke-linejoin="round" class="h-4 w-4 rtl:scale-x-[-1] rtl:transform">
+                                    <circle cx="18" cy="5" r="3"></circle>
+                                    <circle cx="6" cy="12" r="3"></circle>
+                                    <circle cx="18" cy="19" r="3"></circle>
+                                    <line x1="8.59" x2="15.42" y1="13.51" y2="17.49"></line>
+                                    <line x1="15.41" x2="8.59" y1="6.51" y2="10.49"></line>
+                                </svg>הפץ/י</button><button
+                                class="rtl:flex-reverse gap-2 inline-flex items-center justify-center rounded-xl text-base font-semibold ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 bg-secondary text-secondary-foreground hover:bg-secondary/80 h-14 py-2 flex-grow px-0"><svg
+                                    xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                                    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                    stroke-linejoin="round" class="h-4 w-4">
+                                    <path d="M21 12a9 9 0 0 0-9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"></path>
+                                    <path d="M3 3v5h5"></path>
+                                    <path d="M3 12a9 9 0 0 0 9 9 9.75 9.75 0 0 0 6.74-2.74L21 16"></path>
+                                    <path d="M16 16h5v5"></path>
+                                </svg>פוסט נוסף</button></div>
+                        <footer class="bg-white w-full rounded-lg shadow ">
+                            <div class="w-full mx-auto max-w-screen-xl p-4 md:flex md:items-center md:justify-between">
+                                <span class=" text-slate-950 sm:text-center ">2023<span
+                                        class="text-slate-400 mx-1">•</span><a href="https://wordsofiron.com"
+                                        class="hover:underline">מילות ברזל</a></span>
+                                <ul
+                                    class="flex flex-wrap gap-3 items-center mt-3  text-slate-500 dark:text-gray-400 sm:mt-0">
+                                    <li><a href="https://forms.monday.com/forms/12de33afd252bc105f8bd555f67c4a26?r=euc1"
+                                            class="hover:underline" target="_blank">הצטרפו אלינו</a></li>
+                                    <li><a href="https://forms.monday.com/forms/a5907a0ccc2ed8d29e451efa2850ce05?r=euc1"
+                                            class="hover:underline" target="_blank">השאירו משוב</a></li>
+                                    <li><a href="/he" class="hover:underline">עברית</a><span
+                                            class="text-slate-400 mx-1">/</span><a href="/en"
+                                            class="hover:underline">English</a></li>
+                                </ul>
+                            </div>
+                        </footer>
+                    </div>
+                </div>
+            </div>
         </div>
-        <br/>
-        <a id="next_post_button" href="javascript:next_post()">Next post</a>        
-    </body>
+    </div>
+
+
+
+    <div id="_current_post">
+
+    </div>
+    <br />
+    <a id="next_post_button" href="javascript:next_post()">Next post</a>
+</body>
+
 </html>
