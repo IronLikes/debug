@@ -21,14 +21,25 @@ var App = {
         if (lang == "en") {
             $("body").attr("data-direction", "ltr");
             Texts = Language.English;
+            $("h1 .txt").html(Texts.title);
+            $("h2").html(Texts.subtitle);
+            $(".subtitle_container .txt").html(Texts.description_text);
+            $(".subtitle_container a .txt").html(Texts.description_link_text);
+            $("#start_automation_button .txt").html(Texts.start_automation_button);
+            $("#like_button a").html(Texts.like_post);
+            $("#next_post_button .txt").html(Texts.new_post);
+
+            $(".popup-1").html(Texts.popup_wrong_browser);
+            $(".popup-2").html(Texts.popup_not_installed);
+
+            $("meta[name='description']").attr("content", Texts.description);
         }
 
     },
 
     setButtons: function () {
 
-        console.log ($("#start_automation_button .play.not_installed").get(0));
-        if (!IronLikes.is_chrome()) {
+        if (!IronLikes.is_chrome() || Utils.Browser.isMobileBrowser()) {
 
             // User not in Chrome
             $("#start_automation_button").on("click", function () {
@@ -87,27 +98,6 @@ var IronLikes = {
         }
     },
 
-    detect_extension: function (extensionId, callback) { 
-        var img; 
-        img = new Image(); 
-        img.src = "chrome-extension://" + extensionId + "/test.png"; 
-        console.log (img);
-        img.onload = function() { 
-            callback(true); 
-        }; 
-        img.onerror = function() { 
-            callback(false); 
-        };
-    },
-
-    has_extension: function (callback){
-        var _this = this;
-        _this.detect_extension("hbgbekianmmcbkenheennefojoemjaol", function (result) {
-            _this.userInstalledExtension = result;
-            callback();
-        });
-    },
-
     get_twitter_posts: function () {
         var _this = this;
         $.ajax({
@@ -121,6 +111,7 @@ var IronLikes = {
             for (let item of items) {
                 _this.urls.push(item["post_link"]);
             }
+            _this.urls = Utils.Arrays.shuffleArray(_this.urls);
             _this.next_post();
         });
     },
@@ -130,8 +121,13 @@ var IronLikes = {
         if (_this.post_index < _this.urls.length) {
             $("#current_post").html('<blockquote class="twitter-tweet"><a href="' + _this.urls[_this.post_index] + '"></a></blockquote><script src="https://platform.twitter.com/widgets.js" charset="utf-8"/>');
             id = _this.urls[_this.post_index].split("/");
-            id = id[id.length -1]
-            $("#like_url").attr("href", "https://twitter.com/intent/like?tweet_id="+id);
+            id = id[id.length -1];
+            if (Utils.Browser.isMobileBrowser()) {
+                // TODO: Better use https://twitter.com/{{username}}/status/1713899878349205748
+                $("#like_url").attr("href", "https://twitter.com/i/status/" + id);
+            } else {
+                $("#like_url").attr("href", "https://twitter.com/intent/like?tweet_id="+id);
+            }
             _this.post_index += 1;
         } else {
             $("#current_post").html("No more posts for now.");
@@ -206,7 +202,40 @@ var Utils = {
             return "";
         }
 
-    }
+    },
+
+    Arrays: {
+
+        /**
+         * Returns a shuffled array
+         * @param {Array} originArr   The original array to shuffle
+         */
+        shuffleArray: function (originArr) {
+            var newArr = [];
+            while (originArr.length > 0) {
+                var curIndx = Math.floor(Math.random() * originArr.length);
+                var curEl = originArr[curIndx];
+                newArr.push(curEl);
+                originArr.splice(curIndx, 1);
+            }
+            return newArr;
+        }
+
+    },
+
+    Browser: {
+
+        isMobileBrowser: function () {
+
+            if (/Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)) {
+                return true;
+            } else {
+                return false;
+            }
+
+        }
+
+    },
     
 }
 
