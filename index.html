@@ -59,6 +59,7 @@
 
         a.link {
             text-decoration: underline;
+            color:darkblue;
         }
         a.link:hover {
             color: red;
@@ -123,6 +124,40 @@
     <title>Iron Likes</title>
 
     <script>
+        function is_chrome(){
+            var isChromium = window.chrome;
+            var winNav = window.navigator;
+            var vendorName = winNav.vendor;
+            var isOpera = typeof window.opr !== "undefined";
+            var isIEedge = winNav.userAgent.indexOf("Edg") > -1;
+            var isIOSChrome = winNav.userAgent.match("CriOS");
+
+            if (isIOSChrome) {
+              return false; //
+            } else if(
+                isChromium !== null &&
+                typeof isChromium !== "undefined" &&
+                vendorName === "Google Inc." &&
+                isOpera === false &&
+                isIEedge === false
+            ) {
+                return true;
+            } else { 
+                return false;
+            }
+        }
+
+        function has_extension(){
+            chrome.runtime.sendMessage("hbgbekianmmcbkenheennefojoemjaol", { message: "version" },
+            function (reply) {
+                if (reply && reply.version) {
+                    
+                } else {
+                    $("#no_extension").show();
+                }
+            });
+        }
+
         window.urls = [];
         function get_twitter_posts() {
             $.ajax({
@@ -169,9 +204,21 @@
             <h2>עושים לייקים, מפיצים את האמת</h2>
 
             <div style="margin-bottom: 10px;">
-                <a class="link" href="https://chrome.google.com/webstore/detail/words-of-iron-automation/hbgbekianmmcbkenheennefojoemjaol">מתקינים את הפלאגין לכרום</a>,
+                <a class="link" target="_blank" href="https://chrome.google.com/webstore/detail/iron-likes-automation/hbgbekianmmcbkenheennefojoemjaol">
+                    <span class="material-symbols-outlined" style="font-size:20px;vertical-align: middle;">
+                    download
+                    </span>מתקינים את התוסף לכרום</a>,
                 לוחצים "הפעל",
                 ונותנים למערכת לעשות לייקים לפוסטים אחד-אחד!
+            </div>
+            <div id="no_chrome" style="color: red;margin-bottom: 10px;display: none;">
+                על מנת לבצע לייקים באופן אוטומטי, נא להשתמש בדפדפן Chrome ולהתקין את התוסף.
+            </div>
+            <div id="no_extension" style="color: red;margin-bottom: 10px;display: none;">
+                <a class="link" target="_blank" href="https://chrome.google.com/webstore/detail/iron-likes-automation/hbgbekianmmcbkenheennefojoemjaol">
+                    <span class="material-symbols-outlined" style="font-size:20px;vertical-align: middle;">
+                    download
+                    </span>נא להתקין את התוסף על מנת לבצע לייקים באופן אוטומטי!</a>
             </div>
 
             <div id="buttons">
@@ -201,6 +248,16 @@
             </div>
         </div>
     </div>
+
+    <script>
+        $( document ).ready(function() {
+            if(! is_chrome()){
+                $("#no_chrome").show();
+            } else {
+                has_extension();
+            }
+        });
+    </script>
 </body>
 
 </html>
