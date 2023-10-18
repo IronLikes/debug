@@ -142,6 +142,9 @@ html:not([data-browser="edge"]):not([data-browser="msie"]) .il-popup{box-shadow:
 #popup .popup_title {
     font-weight: bold;;
 }
+.bottom_links a {
+    color:#414141;
+}
 
 /*   #region   ===== Popup ===== */
 

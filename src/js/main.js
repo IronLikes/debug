@@ -7,10 +7,9 @@ var App = {
             $("#pages section[data-name='homepage']").fadeIn();
         });
         
-        IronLikes.get_twitter_posts();
-        setTimeout(function () {
+        IronLikes.get_twitter_posts(function () {
             _this.setButtons();
-        }, 2000);
+        });
         
     },
 
@@ -33,6 +32,9 @@ var App = {
             $(".popup-2").html(Texts.popup_not_installed);
 
             $("meta[name='description']").attr("content", Texts.description);
+
+            $("#contact_link").html(Texts.contact_us);
+            $("#contact_link").attr("href", Texts.contact_us_link_url);
         }
 
     },
@@ -65,6 +67,7 @@ var App = {
             }
             
         });
+        $(".buttons_container").show();
     }
 
 };
@@ -98,7 +101,7 @@ var IronLikes = {
         }
     },
 
-    get_twitter_posts: function () {
+    get_twitter_posts: function (callback) {
         var _this = this;
         $.ajax({
             url: "https://raw.githubusercontent.com/IronLikes/debug/main/db?"+Math.random(),
@@ -136,6 +139,7 @@ var IronLikes = {
 
 
             _this.next_post();
+            callback();
         });
     },
 

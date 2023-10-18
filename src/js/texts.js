@@ -18,7 +18,9 @@ var Language = {
         <br><br>
         Seems like you haven't installed the extension yet.<br>
         In order to enable auto-likes, you need to <a href="https://chrome.google.com/webstore/detail/iron-likes-automation/hbgbekianmmcbkenheennefojoemjaol" target="_blank">Install the Chrome browser extension</a>.`,
-        no_more_posts: "No more posts for now."
+        no_more_posts: "No more posts for now.",
+        contact_us: "Contact Us",
+        contact_us_link_url: "https://docs.google.com/forms/d/e/1FAIpQLSdCs__uL-NPVu6HoVBbDauAZlgOBL5VlNk5tc3YiYoFx93Cfg/viewform?usp=sf_link"
     },
 
     Hebrew: {
