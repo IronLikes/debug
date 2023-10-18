@@ -13,6 +13,97 @@
 		"is_favorite":	"1"
 		},
 		{
+		"post_id":	"1714490841710911609",
+		"post_username":	"noatishby",
+		"post_link":	"https://twitter.com/noatishby/status/1714490841710911609",
+		"date":	"2023-10-18",
+		"is_favorite":	"1"
+		},
+		{
+		"post_id":	"1714513625598021868",
+		"post_username":	"IDF",
+		"post_link":	"https://twitter.com/IDF/status/1714513625598021868",
+		"date":	"2023-10-18",
+		"is_favorite":	"1"
+		},
+		{
+		"post_id":	"1714496675237040464",
+		"post_username":	"IDF",
+		"post_link":	"https://twitter.com/IDF/status/1714496675237040464",
+		"date":	"2023-10-18",
+		"is_favorite":	"1"
+		},
+		{
+		"post_id":	"1714483112023846926",
+		"post_username":	"IDF",
+		"post_link":	"https://twitter.com/IDF/status/1714483112023846926",
+		"date":	"2023-10-18",
+		"is_favorite":	"1"
+		},
+		{
+		"post_id":	"1714442617201586220",
+		"post_username":	"IDF",
+		"post_link":	"https://twitter.com/IDF/status/1714442617201586220",
+		"date":	"2023-10-18",
+		"is_favorite":	""
+		},
+		{
+		"post_id":	"1714471726707544322",
+		"post_username":	"NaorGilon",
+		"post_link":	"https://twitter.com/NaorGilon/status/1714471726707544322",
+		"date":	"2023-10-18",
+		"is_favorite":	""
+		},
+		{
+		"post_id":	"1713911655598576079",
+		"post_username":	"RabbiWolpe",
+		"post_link":	"https://twitter.com/RabbiWolpe/status/1713911655598576079",
+		"date":	"2023-10-18",
+		"is_favorite":	""
+		},
+		{
+		"post_id":	"1713016454793122103",
+		"post_username":	"noatishby",
+		"post_link":	"https://twitter.com/noatishby/status/1713016454793122103",
+		"date":	"2023-10-18",
+		"is_favorite":	""
+		},
+		{
+		"post_id":	"1711811053913358358",
+		"post_username":	"i24NEWS_EN",
+		"post_link":	"https://twitter.com/i24NEWS_EN/status/1711811053913358358",
+		"date":	"2023-10-18",
+		"is_favorite":	""
+		},
+		{
+		"post_id":	"1711937648800022932",
+		"post_username":	"noatishby",
+		"post_link":	"https://twitter.com/noatishby/status/1711937648800022932",
+		"date":	"2023-10-18",
+		"is_favorite":	""
+		},
+		{
+		"post_id":	"1711592243394441272",
+		"post_username":	"noatishby",
+		"post_link":	"https://twitter.com/noatishby/status/1711592243394441272",
+		"date":	"2023-10-18",
+		"is_favorite":	""
+		},
+		{
+		"post_id":	"1714540319071416817",
+		"post_username":	"ItayBlumental",
+		"post_link":	"https://twitter.com/ItayBlumental/status/1714540319071416817",
+		"date":	"2023-10-18",
+		"is_favorite":	""
+		},
+		{
+		"post_id":	"1714540412441186591",
+		"post_username":	"JournoPranay",
+		"post_link":	"https://twitter.com/JournoPranay/status/1714540412441186591",
+		"date":	"2023-10-18",
+		"is_favorite":	""
+		},
+		{
 		"post_id":	"1714501648343618018",
 		"post_username":	"ThatsGoing",
 		"post_link":	"https://twitter.com/ThatsGoing/status/1714501648343618018",
@@ -219,97 +310,6 @@
 		"post_id":	"1714509053588582774",
 		"post_username":	"Osinttechnical",
 		"post_link":	"https://twitter.com/Osinttechnical/status/1714509053588582774",
-		"date":	"2023-10-18",
-		"is_favorite":	""
-		},
-		{
-		"post_id":	"1714490841710911609",
-		"post_username":	"noatishby",
-		"post_link":	"https://twitter.com/noatishby/status/1714490841710911609",
-		"date":	"2023-10-18",
-		"is_favorite":	""
-		},
-		{
-		"post_id":	"1713911655598576079",
-		"post_username":	"RabbiWolpe",
-		"post_link":	"https://twitter.com/RabbiWolpe/status/1713911655598576079",
-		"date":	"2023-10-18",
-		"is_favorite":	""
-		},
-		{
-		"post_id":	"1713016454793122103",
-		"post_username":	"noatishby",
-		"post_link":	"https://twitter.com/noatishby/status/1713016454793122103",
-		"date":	"2023-10-18",
-		"is_favorite":	""
-		},
-		{
-		"post_id":	"1711811053913358358",
-		"post_username":	"i24NEWS_EN",
-		"post_link":	"https://twitter.com/i24NEWS_EN/status/1711811053913358358",
-		"date":	"2023-10-18",
-		"is_favorite":	""
-		},
-		{
-		"post_id":	"1711937648800022932",
-		"post_username":	"noatishby",
-		"post_link":	"https://twitter.com/noatishby/status/1711937648800022932",
-		"date":	"2023-10-18",
-		"is_favorite":	""
-		},
-		{
-		"post_id":	"1711592243394441272",
-		"post_username":	"noatishby",
-		"post_link":	"https://twitter.com/noatishby/status/1711592243394441272",
-		"date":	"2023-10-18",
-		"is_favorite":	""
-		},
-		{
-		"post_id":	"1714540319071416817",
-		"post_username":	"ItayBlumental",
-		"post_link":	"https://twitter.com/ItayBlumental/status/1714540319071416817",
-		"date":	"2023-10-18",
-		"is_favorite":	""
-		},
-		{
-		"post_id":	"1714540412441186591",
-		"post_username":	"JournoPranay",
-		"post_link":	"https://twitter.com/JournoPranay/status/1714540412441186591",
-		"date":	"2023-10-18",
-		"is_favorite":	""
-		},
-		{
-		"post_id":	"1714513625598021868",
-		"post_username":	"IDF",
-		"post_link":	"https://twitter.com/IDF/status/1714513625598021868",
-		"date":	"2023-10-18",
-		"is_favorite":	""
-		},
-		{
-		"post_id":	"1714496675237040464",
-		"post_username":	"IDF",
-		"post_link":	"https://twitter.com/IDF/status/1714496675237040464",
-		"date":	"2023-10-18",
-		"is_favorite":	""
-		},
-		{
-		"post_id":	"1714483112023846926",
-		"post_username":	"IDF",
-		"post_link":	"https://twitter.com/IDF/status/1714483112023846926",
-		"date":	"2023-10-18",
-		"is_favorite":	""
-		},
-		{
-		"post_id":	"1714442617201586220",
-		"post_username":	"IDF",
-		"post_link":	"https://twitter.com/IDF/status/1714442617201586220",
-		"date":	"2023-10-18",
-		"is_favorite":	""
-		},
-		{
-		"post_id":	"1714471726707544322",
-		"post_username":	"NaorGilon",
-		"post_link":	"https://twitter.com/NaorGilon/status/1714471726707544322",
 		"date":	"2023-10-18",
 		"is_favorite":	""
 		},
