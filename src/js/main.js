@@ -101,17 +101,40 @@ var IronLikes = {
     get_twitter_posts: function () {
         var _this = this;
         $.ajax({
-            url: "https://raw.githubusercontent.com/IronLikes/debug/main/db",
+            url: "https://raw.githubusercontent.com/IronLikes/debug/main/db?"+Math.random(),
+            //url: "https://ironlikes.github.io/debug/db",
             beforeSend: function (xhr) {
                 xhr.overrideMimeType("text/plain; charset=x-user-defined");
             }
         })
         .done(function (data) {
             items = JSON.parse(data)["records"]["items"];
-            for (let item of items) {
-                _this.urls.push(item["post_link"]);
+
+            // Group items by date
+            var groupedByDateItems = items.reduce(function (r, a) {
+                r[a.date] = r[a.date] || [];
+                r[a.date].push(a);
+                return r;
+            }, Object.create(null));
+
+            for (var i in groupedByDateItems) {
+
+                // Group items by favorites
+                var groupedByFavItems = groupedByDateItems[i].reduce(function (r, a) {
+                    r[a.is_favorite] = r[a.is_favorite] || [];
+                    r[a.is_favorite].push(a);
+                    return r;
+                }, Object.create(null));
+
+                for (var j in groupedByFavItems) {
+                    var curUrls = Utils.Arrays.shuffleArray(groupedByFavItems[j]);
+                    for (let item of curUrls) {
+                        _this.urls.push(item["post_link"]);
+                    }
+                }
             }
-            _this.urls = Utils.Arrays.shuffleArray(_this.urls);
+
+
             _this.next_post();
         });
     },
@@ -130,7 +153,7 @@ var IronLikes = {
             }
             _this.post_index += 1;
         } else {
-            $("#current_post").html("No more posts for now.");
+            $("#current_post").html("<span style='padding-top: 40px; text-align: center; font-weight: bold; display: inline-block; width: 100%;'>" + Texts.no_more_posts + "</span>");
         }
     }
 
