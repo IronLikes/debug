@@ -13,20 +13,6 @@
 		"is_favorite":	"1"
 		},
 		{
-		"post_id":	"1714496675237040464",
-		"post_username":	"IDF",
-		"post_link":	"https://twitter.com/IDF/status/1714496675237040464",
-		"date":	"2023-10-18",
-		"is_favorite":	"1"
-		},
-		{
-		"post_id":	"1714483112023846926",
-		"post_username":	"IDF",
-		"post_link":	"https://twitter.com/IDF/status/1714483112023846926",
-		"date":	"2023-10-18",
-		"is_favorite":	"1"
-		},
-		{
 		"post_id":	"1714378839055344026",
 		"post_username":	"YosephHaddad",
 		"post_link":	"https://twitter.com/YosephHaddad/status/1714378839055344026",
@@ -74,6 +60,307 @@
 		"post_link":	"https://twitter.com/TheMossadIL/status/1714578819544195234",
 		"date":	"2023-10-18",
 		"is_favorite":	"1"
+		},
+		{
+		"post_id":	"1714496675237040464",
+		"post_username":	"IDF",
+		"post_link":	"https://twitter.com/IDF/status/1714496675237040464",
+		"date":	"2023-10-18",
+		"is_favorite":	"0"
+		},
+		{
+		"post_id":	"1714483112023846926",
+		"post_username":	"IDF",
+		"post_link":	"https://twitter.com/IDF/status/1714483112023846926",
+		"date":	"2023-10-18",
+		"is_favorite":	"0"
+		},
+		{
+		"post_id":	"1714442617201586220",
+		"post_username":	"IDF",
+		"post_link":	"https://twitter.com/IDF/status/1714442617201586220",
+		"date":	"2023-10-18",
+		"is_favorite":	""
+		},
+		{
+		"post_id":	"1714547026547839263",
+		"post_username":	"meidankan",
+		"post_link":	"https://twitter.com/meidankan/status/1714547026547839263",
+		"date":	"2023-10-18",
+		"is_favorite":	""
+		},
+		{
+		"post_id":	"1714406091109396982",
+		"post_username":	"almog_tamar",
+		"post_link":	"https://twitter.com/almog_tamar/status/1714406091109396982",
+		"date":	"2023-10-18",
+		"is_favorite":	""
+		},
+		{
+		"post_id":	"1714525126115447126",
+		"post_username":	"NiohBerg",
+		"post_link":	"https://twitter.com/NiohBerg/status/1714525126115447126",
+		"date":	"2023-10-18",
+		"is_favorite":	""
+		},
+		{
+		"post_id":	"1714525708867735768",
+		"post_username":	"Intellinews3",
+		"post_link":	"https://twitter.com/Intellinews3/status/1714525708867735768",
+		"date":	"2023-10-18",
+		"is_favorite":	""
+		},
+		{
+		"post_id":	"1714242406118289681",
+		"post_username":	"HananyaNaftali",
+		"post_link":	"https://twitter.com/HananyaNaftali/status/1714242406118289681",
+		"date":	"2023-10-18",
+		"is_favorite":	""
+		},
+		{
+		"post_id":	"1714550442938564781",
+		"post_username":	"moshik_o",
+		"post_link":	"https://twitter.com/moshik_o/status/1714550442938564781",
+		"date":	"2023-10-18",
+		"is_favorite":	""
+		},
+		{
+		"post_id":	"1714481549490770009",
+		"post_username":	"tammybenhaim",
+		"post_link":	"https://twitter.com/tammybenhaim/status/1714481549490770009",
+		"date":	"2023-10-18",
+		"is_favorite":	""
+		},
+		{
+		"post_id":	"1713970761168208223",
+		"post_username":	"FakeNitzanShai",
+		"post_link":	"https://twitter.com/FakeNitzanShai/status/1713970761168208223",
+		"date":	"2023-10-18",
+		"is_favorite":	""
+		},
+		{
+		"post_id":	"1714542559781949544",
+		"post_username":	"costa1black",
+		"post_link":	"https://twitter.com/costa1black/status/1714542559781949544",
+		"date":	"2023-10-18",
+		"is_favorite":	""
+		},
+		{
+		"post_id":	"1714406991383130476",
+		"post_username":	"DrEliDavid",
+		"post_link":	"https://twitter.com/DrEliDavid/status/1714406991383130476",
+		"date":	"2023-10-18",
+		"is_favorite":	""
+		},
+		{
+		"post_id":	"1714569292597899341",
+		"post_username":	"BarkolAmir",
+		"post_link":	"https://twitter.com/BarkolAmir/status/1714569292597899341",
+		"date":	"2023-10-18",
+		"is_favorite":	""
+		},
+		{
+		"post_id":	"1714539311914266931",
+		"post_username":	"manniefabian",
+		"post_link":	"https://twitter.com/manniefabian/status/1714539311914266931",
+		"date":	"2023-10-18",
+		"is_favorite":	""
+		},
+		{
+		"post_id":	"1714539274400669837",
+		"post_username":	"ArmandDoma",
+		"post_link":	"https://twitter.com/ArmandDoma/status/1714539274400669837",
+		"date":	"2023-10-18",
+		"is_favorite":	""
+		},
+		{
+		"post_id":	"1714571268484125066",
+		"post_username":	"disclosetv",
+		"post_link":	"https://twitter.com/disclosetv/status/1714571268484125066",
+		"date":	"2023-10-18",
+		"is_favorite":	""
+		},
+		{
+		"post_id":	"1714546086340104315",
+		"post_username":	"attilus",
+		"post_link":	"https://twitter.com/attilus/status/1714546086340104315",
+		"date":	"2023-10-18",
+		"is_favorite":	""
+		},
+		{
+		"post_id":	"1714336381906952251",
+		"post_username":	"Rereshef",
+		"post_link":	"https://twitter.com/Rereshef/status/1714336381906952251",
+		"date":	"2023-10-18",
+		"is_favorite":	""
+		},
+		{
+		"post_id":	"1714241540833321313",
+		"post_username":	"BarkolAmir",
+		"post_link":	"https://twitter.com/BarkolAmir/status/1714241540833321313",
+		"date":	"2023-10-18",
+		"is_favorite":	""
+		},
+		{
+		"post_id":	"1714400242823537008",
+		"post_username":	"HenMazzig",
+		"post_link":	"https://twitter.com/HenMazzig/status/1714400242823537008",
+		"date":	"2023-10-18",
+		"is_favorite":	""
+		},
+		{
+		"post_id":	"1714545680562184434",
+		"post_username":	"Israel",
+		"post_link":	"https://twitter.com/Israel/status/1714545680562184434",
+		"date":	"2023-10-18",
+		"is_favorite":	""
+		},
+		{
+		"post_id":	"1714365541945672117",
+		"post_username":	"mishtal",
+		"post_link":	"https://twitter.com/mishtal/status/1714365541945672117",
+		"date":	"2023-10-18",
+		"is_favorite":	""
+		},
+		{
+		"post_id":	"1714572499092988048",
+		"post_username":	"YosephHaddad",
+		"post_link":	"https://twitter.com/YosephHaddad/status/1714572499092988048",
+		"date":	"2023-10-18",
+		"is_favorite":	""
+		},
+		{
+		"post_id":	"1714535882399559838",
+		"post_username":	"OzraeliAvi",
+		"post_link":	"https://twitter.com/OzraeliAvi/status/1714535882399559838",
+		"date":	"2023-10-18",
+		"is_favorite":	""
+		},
+		{
+		"post_id":	"1714459731715125518",
+		"post_username":	"KareemRifai",
+		"post_link":	"https://twitter.com/KareemRifai/status/1714459731715125518",
+		"date":	"2023-10-18",
+		"is_favorite":	""
+		},
+		{
+		"post_id":	"1714392985918476580",
+		"post_username":	"segal_eran",
+		"post_link":	"https://twitter.com/segal_eran/status/1714392985918476580",
+		"date":	"2023-10-18",
+		"is_favorite":	""
+		},
+		{
+		"post_id":	"1714554455725592833",
+		"post_username":	"eyalredler",
+		"post_link":	"https://twitter.com/eyalredler/status/1714554455725592833",
+		"date":	"2023-10-18",
+		"is_favorite":	""
+		},
+		{
+		"post_id":	"1714459970094182759",
+		"post_username":	"RubinReport",
+		"post_link":	"https://twitter.com/RubinReport/status/1714459970094182759",
+		"date":	"2023-10-18",
+		"is_favorite":	""
+		},
+		{
+		"post_id":	"1714423464558289328",
+		"post_username":	"AvivaKlompas",
+		"post_link":	"https://twitter.com/AvivaKlompas/status/1714423464558289328",
+		"date":	"2023-10-18",
+		"is_favorite":	""
+		},
+		{
+		"post_id":	"1714411470052864382",
+		"post_username":	"billmaher",
+		"post_link":	"https://twitter.com/billmaher/status/1714411470052864382",
+		"date":	"2023-10-18",
+		"is_favorite":	""
+		},
+		{
+		"post_id":	"1714441099920515365",
+		"post_username":	"ezralevant",
+		"post_link":	"https://twitter.com/ezralevant/status/1714441099920515365",
+		"date":	"2023-10-18",
+		"is_favorite":	""
+		},
+		{
+		"post_id":	"1714552640905114087",
+		"post_username":	"Bitt2DA",
+		"post_link":	"https://twitter.com/Bitt2DA/status/1714552640905114087",
+		"date":	"2023-10-18",
+		"is_favorite":	""
+		},
+		{
+		"post_id":	"1714363774856052870",
+		"post_username":	"SenTedBuddNC",
+		"post_link":	"https://twitter.com/SenTedBuddNC/status/1714363774856052870",
+		"date":	"2023-10-18",
+		"is_favorite":	""
+		},
+		{
+		"post_id":	"1714531452191482296",
+		"post_username":	"Singodiya21",
+		"post_link":	"https://twitter.com/Singodiya21/status/1714531452191482296",
+		"date":	"2023-10-18",
+		"is_favorite":	""
+		},
+		{
+		"post_id":	"1714515963083665501",
+		"post_username":	"BellaWallerstei",
+		"post_link":	"https://twitter.com/BellaWallerstei/status/1714515963083665501",
+		"date":	"2023-10-18",
+		"is_favorite":	""
+		},
+		{
+		"post_id":	"1714412357940617250",
+		"post_username":	"shuvmajumdar",
+		"post_link":	"https://twitter.com/shuvmajumdar/status/1714412357940617250",
+		"date":	"2023-10-18",
+		"is_favorite":	""
+		},
+		{
+		"post_id":	"1714517643288260716",
+		"post_username":	"me_adar",
+		"post_link":	"https://twitter.com/me_adar/status/1714517643288260716",
+		"date":	"2023-10-18",
+		"is_favorite":	""
+		},
+		{
+		"post_id":	"1714340991149203767",
+		"post_username":	"DemocratFront",
+		"post_link":	"https://twitter.com/DemocratFront/status/1714340991149203767",
+		"date":	"2023-10-18",
+		"is_favorite":	""
+		},
+		{
+		"post_id":	"1712842558290727233",
+		"post_username":	"AviMoscovich",
+		"post_link":	"https://twitter.com/AviMoscovich/status/1712842558290727233",
+		"date":	"2023-10-18",
+		"is_favorite":	""
+		},
+		{
+		"post_id":	"1714556711909118174",
+		"post_username":	"Noahpinion",
+		"post_link":	"https://twitter.com/Noahpinion/status/1714556711909118174",
+		"date":	"2023-10-18",
+		"is_favorite":	""
+		},
+		{
+		"post_id":	"1714310487591264584",
+		"post_username":	"lporiginalg",
+		"post_link":	"https://twitter.com/lporiginalg/status/1714310487591264584",
+		"date":	"2023-10-18",
+		"is_favorite":	""
+		},
+		{
+		"post_id":	"1714565922181022192",
+		"post_username":	"YosephHaddad",
+		"post_link":	"https://twitter.com/YosephHaddad/status/1714565922181022192",
+		"date":	"2023-10-18",
+		"is_favorite":	""
 		},
 		{
 		"post_id":	"1714471726707544322",
@@ -566,291 +853,11 @@
 		"is_favorite":	""
 		},
 		{
-		"post_id":	"1714442617201586220",
-		"post_username":	"IDF",
-		"post_link":	"https://twitter.com/IDF/status/1714442617201586220",
-		"date":	"2023-10-18",
-		"is_favorite":	""
-		},
-		{
-		"post_id":	"1714547026547839263",
-		"post_username":	"meidankan",
-		"post_link":	"https://twitter.com/meidankan/status/1714547026547839263",
-		"date":	"2023-10-18",
-		"is_favorite":	""
-		},
-		{
-		"post_id":	"1714406091109396982",
-		"post_username":	"almog_tamar",
-		"post_link":	"https://twitter.com/almog_tamar/status/1714406091109396982",
-		"date":	"2023-10-18",
-		"is_favorite":	""
-		},
-		{
-		"post_id":	"1714525126115447126",
-		"post_username":	"NiohBerg",
-		"post_link":	"https://twitter.com/NiohBerg/status/1714525126115447126",
-		"date":	"2023-10-18",
-		"is_favorite":	""
-		},
-		{
-		"post_id":	"1714525708867735768",
-		"post_username":	"Intellinews3",
-		"post_link":	"https://twitter.com/Intellinews3/status/1714525708867735768",
-		"date":	"2023-10-18",
-		"is_favorite":	""
-		},
-		{
-		"post_id":	"1714242406118289681",
-		"post_username":	"HananyaNaftali",
-		"post_link":	"https://twitter.com/HananyaNaftali/status/1714242406118289681",
-		"date":	"2023-10-18",
-		"is_favorite":	""
-		},
-		{
-		"post_id":	"1714550442938564781",
-		"post_username":	"moshik_o",
-		"post_link":	"https://twitter.com/moshik_o/status/1714550442938564781",
-		"date":	"2023-10-18",
-		"is_favorite":	""
-		},
-		{
-		"post_id":	"1714481549490770009",
-		"post_username":	"tammybenhaim",
-		"post_link":	"https://twitter.com/tammybenhaim/status/1714481549490770009",
-		"date":	"2023-10-18",
-		"is_favorite":	""
-		},
-		{
-		"post_id":	"1713970761168208223",
-		"post_username":	"FakeNitzanShai",
-		"post_link":	"https://twitter.com/FakeNitzanShai/status/1713970761168208223",
-		"date":	"2023-10-18",
-		"is_favorite":	""
-		},
-		{
-		"post_id":	"1714542559781949544",
-		"post_username":	"costa1black",
-		"post_link":	"https://twitter.com/costa1black/status/1714542559781949544",
-		"date":	"2023-10-18",
-		"is_favorite":	""
-		},
-		{
-		"post_id":	"1714406991383130476",
-		"post_username":	"DrEliDavid",
-		"post_link":	"https://twitter.com/DrEliDavid/status/1714406991383130476",
-		"date":	"2023-10-18",
-		"is_favorite":	""
-		},
-		{
-		"post_id":	"1714569292597899341",
-		"post_username":	"BarkolAmir",
-		"post_link":	"https://twitter.com/BarkolAmir/status/1714569292597899341",
-		"date":	"2023-10-18",
-		"is_favorite":	""
-		},
-		{
-		"post_id":	"1714539311914266931",
-		"post_username":	"manniefabian",
-		"post_link":	"https://twitter.com/manniefabian/status/1714539311914266931",
-		"date":	"2023-10-18",
-		"is_favorite":	""
-		},
-		{
-		"post_id":	"1714539274400669837",
-		"post_username":	"ArmandDoma",
-		"post_link":	"https://twitter.com/ArmandDoma/status/1714539274400669837",
-		"date":	"2023-10-18",
-		"is_favorite":	""
-		},
-		{
-		"post_id":	"1714571268484125066",
-		"post_username":	"disclosetv",
-		"post_link":	"https://twitter.com/disclosetv/status/1714571268484125066",
-		"date":	"2023-10-18",
-		"is_favorite":	""
-		},
-		{
-		"post_id":	"1714546086340104315",
-		"post_username":	"attilus",
-		"post_link":	"https://twitter.com/attilus/status/1714546086340104315",
-		"date":	"2023-10-18",
-		"is_favorite":	""
-		},
-		{
-		"post_id":	"1714336381906952251",
-		"post_username":	"Rereshef",
-		"post_link":	"https://twitter.com/Rereshef/status/1714336381906952251",
-		"date":	"2023-10-18",
-		"is_favorite":	""
-		},
-		{
-		"post_id":	"1714241540833321313",
-		"post_username":	"BarkolAmir",
-		"post_link":	"https://twitter.com/BarkolAmir/status/1714241540833321313",
-		"date":	"2023-10-18",
-		"is_favorite":	""
-		},
-		{
-		"post_id":	"1714400242823537008",
-		"post_username":	"HenMazzig",
-		"post_link":	"https://twitter.com/HenMazzig/status/1714400242823537008",
-		"date":	"2023-10-18",
-		"is_favorite":	""
-		},
-		{
-		"post_id":	"1714545680562184434",
-		"post_username":	"Israel",
-		"post_link":	"https://twitter.com/Israel/status/1714545680562184434",
-		"date":	"2023-10-18",
-		"is_favorite":	""
-		},
-		{
-		"post_id":	"1714365541945672117",
-		"post_username":	"mishtal",
-		"post_link":	"https://twitter.com/mishtal/status/1714365541945672117",
-		"date":	"2023-10-18",
-		"is_favorite":	""
-		},
-		{
-		"post_id":	"1714572499092988048",
+		"post_id":	"1713824371813372306",
 		"post_username":	"YosephHaddad",
-		"post_link":	"https://twitter.com/YosephHaddad/status/1714572499092988048",
-		"date":	"2023-10-18",
-		"is_favorite":	""
-		},
-		{
-		"post_id":	"1714535882399559838",
-		"post_username":	"OzraeliAvi",
-		"post_link":	"https://twitter.com/OzraeliAvi/status/1714535882399559838",
-		"date":	"2023-10-18",
-		"is_favorite":	""
-		},
-		{
-		"post_id":	"1714459731715125518",
-		"post_username":	"KareemRifai",
-		"post_link":	"https://twitter.com/KareemRifai/status/1714459731715125518",
-		"date":	"2023-10-18",
-		"is_favorite":	""
-		},
-		{
-		"post_id":	"1714392985918476580",
-		"post_username":	"segal_eran",
-		"post_link":	"https://twitter.com/segal_eran/status/1714392985918476580",
-		"date":	"2023-10-18",
-		"is_favorite":	""
-		},
-		{
-		"post_id":	"1714554455725592833",
-		"post_username":	"eyalredler",
-		"post_link":	"https://twitter.com/eyalredler/status/1714554455725592833",
-		"date":	"2023-10-18",
-		"is_favorite":	""
-		},
-		{
-		"post_id":	"1714459970094182759",
-		"post_username":	"RubinReport",
-		"post_link":	"https://twitter.com/RubinReport/status/1714459970094182759",
-		"date":	"2023-10-18",
-		"is_favorite":	""
-		},
-		{
-		"post_id":	"1714423464558289328",
-		"post_username":	"AvivaKlompas",
-		"post_link":	"https://twitter.com/AvivaKlompas/status/1714423464558289328",
-		"date":	"2023-10-18",
-		"is_favorite":	""
-		},
-		{
-		"post_id":	"1714411470052864382",
-		"post_username":	"billmaher",
-		"post_link":	"https://twitter.com/billmaher/status/1714411470052864382",
-		"date":	"2023-10-18",
-		"is_favorite":	""
-		},
-		{
-		"post_id":	"1714441099920515365",
-		"post_username":	"ezralevant",
-		"post_link":	"https://twitter.com/ezralevant/status/1714441099920515365",
-		"date":	"2023-10-18",
-		"is_favorite":	""
-		},
-		{
-		"post_id":	"1714552640905114087",
-		"post_username":	"Bitt2DA",
-		"post_link":	"https://twitter.com/Bitt2DA/status/1714552640905114087",
-		"date":	"2023-10-18",
-		"is_favorite":	""
-		},
-		{
-		"post_id":	"1714363774856052870",
-		"post_username":	"SenTedBuddNC",
-		"post_link":	"https://twitter.com/SenTedBuddNC/status/1714363774856052870",
-		"date":	"2023-10-18",
-		"is_favorite":	""
-		},
-		{
-		"post_id":	"1714531452191482296",
-		"post_username":	"Singodiya21",
-		"post_link":	"https://twitter.com/Singodiya21/status/1714531452191482296",
-		"date":	"2023-10-18",
-		"is_favorite":	""
-		},
-		{
-		"post_id":	"1714515963083665501",
-		"post_username":	"BellaWallerstei",
-		"post_link":	"https://twitter.com/BellaWallerstei/status/1714515963083665501",
-		"date":	"2023-10-18",
-		"is_favorite":	""
-		},
-		{
-		"post_id":	"1714412357940617250",
-		"post_username":	"shuvmajumdar",
-		"post_link":	"https://twitter.com/shuvmajumdar/status/1714412357940617250",
-		"date":	"2023-10-18",
-		"is_favorite":	""
-		},
-		{
-		"post_id":	"1714517643288260716",
-		"post_username":	"me_adar",
-		"post_link":	"https://twitter.com/me_adar/status/1714517643288260716",
-		"date":	"2023-10-18",
-		"is_favorite":	""
-		},
-		{
-		"post_id":	"1714340991149203767",
-		"post_username":	"DemocratFront",
-		"post_link":	"https://twitter.com/DemocratFront/status/1714340991149203767",
-		"date":	"2023-10-18",
-		"is_favorite":	""
-		},
-		{
-		"post_id":	"1712842558290727233",
-		"post_username":	"AviMoscovich",
-		"post_link":	"https://twitter.com/AviMoscovich/status/1712842558290727233",
-		"date":	"2023-10-18",
-		"is_favorite":	""
-		},
-		{
-		"post_id":	"1714556711909118174",
-		"post_username":	"Noahpinion",
-		"post_link":	"https://twitter.com/Noahpinion/status/1714556711909118174",
-		"date":	"2023-10-18",
-		"is_favorite":	""
-		},
-		{
-		"post_id":	"1714310487591264584",
-		"post_username":	"lporiginalg",
-		"post_link":	"https://twitter.com/lporiginalg/status/1714310487591264584",
-		"date":	"2023-10-18",
-		"is_favorite":	""
-		},
-		{
-		"post_id":	"1714565922181022192",
-		"post_username":	"YosephHaddad",
-		"post_link":	"https://twitter.com/YosephHaddad/status/1714565922181022192",
-		"date":	"2023-10-18",
-		"is_favorite":	""
+		"post_link":	"https://twitter.com/YosephHaddad/status/1713824371813372306",
+		"date":	"2023-10-17",
+		"is_favorite":	"1"
 		},
 		{
 		"post_id":	"1714090576076038360",
@@ -933,13 +940,6 @@
 		"post_id":	"1714321694901346527",
 		"post_username":	"JoeBiden",
 		"post_link":	"https://twitter.com/JoeBiden/status/1714321694901346527",
-		"date":	"2023-10-17",
-		"is_favorite":	"1"
-		},
-		{
-		"post_id":	"1713824371813372306",
-		"post_username":	"YosephHaddad",
-		"post_link":	"https://twitter.com/YosephHaddad/status/1713824371813372306",
 		"date":	"2023-10-17",
 		"is_favorite":	"1"
 		},
