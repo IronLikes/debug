@@ -1,5 +1,8 @@
 *{margin:0px;padding:0px;font-family:'Arial', sans-serif;}
-html:not([data-accessibility-use='plugin_and_html']) *:focus{outline:none;}
+html {
+    overflow-y: scroll;
+}
+html *:focus{outline:none;}
 body{position:relative;min-height:100%;}
 body{min-width:100%;-webkit-overflow-scrolling:touch;-webkit-text-size-adjust:100%;-webkit-tap-highlight-color:transparent;-webkit-touch-callout:none;display:inline-block;vertical-align:top;touch-action:manipulation;}
 a:not(:disabled),button:not(:disabled){cursor:pointer;}
