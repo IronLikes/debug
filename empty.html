@@ -1,0 +1,23 @@
+
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Iron Likes</title>
+
+</head>
+
+<body>
+
+<script>
+    var curUrl = window.location.href;
+    var redirectParam = "redirect";
+    if (curUrl.indexOf(redirectParam) != -1) {
+        var redirectTo = curUrl.substr(curUrl.indexOf(redirectParam) + redirectParam.length + 1);
+        window.location.href = decodeURIComponent(redirectTo);
+    }
+</script>
+
+</body>
+
+</html>
