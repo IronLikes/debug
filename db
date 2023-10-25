@@ -2,7 +2,7 @@
 "warning_text":	"No permissions to get total amount.",
 "records": 
 	{
-	"items_per_page":	1365,
+	"items_per_page":	1378,
 	"page":	1,
 	"items": [
 		{
@@ -36,6 +36,12 @@
 		"date":	"2023-10-25"
 		},
 		{
+		"post_link":	"https://www.instagram.com//p/Cy0VH3dtBCq/",
+		"is_favorite":	true,
+		"is_favorite_val":	true,
+		"date":	"2023-10-25"
+		},
+		{
 		"post_link":	"https://twitter.com/IDF/status/1717029249205358763",
 		"is_favorite":	true,
 		"is_favorite_val":	true,
@@ -48,13 +54,85 @@
 		"date":	"2023-10-25"
 		},
 		{
-		"post_link":	"https://www.instagram.com//p/Cy0VH3dtBCq/",
-		"is_favorite":	true,
-		"is_favorite_val":	true,
+		"post_link":	"https://twitter.com/AvivaKlompas/status/1717011675319066993",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
 		"date":	"2023-10-25"
 		},
 		{
-		"post_link":	"https://twitter.com/AvivaKlompas/status/1717011675319066993",
+		"post_link":	"https://www.instagram.com/p/CyyLKkntrbT/",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://www.instagram.com/p/CyzllxRLlRA/",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://www.instagram.com/p/Cyyrzw_tlYC/",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://www.instagram.com/p/CypzwamLgZ2/",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://www.instagram.com/p/CywP1IpxrQU/",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://www.instagram.com/p/CyySpnCsiL1/",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://www.instagram.com/p/CyyydhOt8HN/",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://www.instagram.com/p/Cyycc9yN_c8/",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://www.instagram.com/p/Cyx9l0OoqKb/",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://www.instagram.com/p/CywRsNgowcQ/",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://www.instagram.com/p/CyyQiejMZ7a/",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://www.instagram.com/p/Cyy63UUIYMD/",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://www.instagram.com/p/Cywh4YzvftG/",
 		"is_favorite":	false,
 		"is_favorite_val":	false,
 		"date":	"2023-10-25"
