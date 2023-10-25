@@ -2,7 +2,7 @@
 "warning_text":	"No permissions to get total amount.",
 "records": 
 	{
-	"items_per_page":	1349,
+	"items_per_page":	1363,
 	"page":	1,
 	"items": [
 		{
@@ -25,6 +25,24 @@
 		},
 		{
 		"post_link":	"https://twitter.com/IDF/status/1717014181440892946",
+		"is_favorite":	true,
+		"is_favorite_val":	true,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://twitter.com/AC360/status/1716627197237043268",
+		"is_favorite":	true,
+		"is_favorite_val":	true,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://www.instagram.com//p/CyyuzC6IbCB/",
+		"is_favorite":	true,
+		"is_favorite_val":	true,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://www.instagram.com//p/Cyom3gwoqUj/",
 		"is_favorite":	true,
 		"is_favorite_val":	true,
 		"date":	"2023-10-25"
@@ -283,6 +301,72 @@
 		},
 		{
 		"post_link":	"https://twitter.com/CotlerWunsh/status/1716231329224781966",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://twitter.com/DebojyotiGoswa9/status/1717075289929593248",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://twitter.com/omrip7/status/1716921651722694786",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://twitter.com/ptr_dvd/status/1716890068869369908",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://twitter.com/lion_4_zion/status/1716844259008041068",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://twitter.com/noatishby/status/1716467371269882035",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://twitter.com/noatishby/status/1716192154668740664",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://twitter.com/noatishby/status/1716223320624951530",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://twitter.com/noatishby/status/1716595413233316322",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://twitter.com/YosephHaddad/status/1717059539499995552",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://twitter.com/YosephHaddad/status/1717035060702953792",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://twitter.com/YosephHaddad/status/1716839924316406107",
 		"is_favorite":	false,
 		"is_favorite_val":	false,
 		"date":	"2023-10-25"
