@@ -2,7 +2,7 @@
 "warning_text":	"No permissions to get total amount.",
 "records": 
 	{
-	"items_per_page":	1309,
+	"items_per_page":	1349,
 	"page":	1,
 	"items": [
 		{
@@ -43,6 +43,246 @@
 		},
 		{
 		"post_link":	"https://twitter.com/devorah555/status/1716916810728280548",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://twitter.com/Hamasis_ISIS/status/1716828106068271499",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://twitter.com/Hamasis_ISIS/status/1716798360202383615",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://twitter.com/Hamasis_ISIS/status/1716773345100747058",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://twitter.com/Hamasis_ISIS/status/1716753416397976035",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://twitter.com/Hamasis_ISIS/status/1716744577162347007",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://twitter.com/Hamasis_ISIS/status/1716743898922357138",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://twitter.com/Hamasis_ISIS/status/1716684910163865609",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://twitter.com/Hamasis_ISIS/status/1716675302233940229",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://twitter.com/Hamasis_ISIS/status/1716656596690853956",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://twitter.com/Hamasis_ISIS/status/1716359392059134337",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://twitter.com/Hamasis_ISIS/status/1716358519677431894",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://twitter.com/Hamasis_ISIS/status/1714293315028595013",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://twitter.com/Hamasis_ISIS/status/1713682505218293835",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://twitter.com/Hamasis_ISIS/status/1713548178912420298",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://twitter.com/Hamasis_ISIS/status/1713533328823902670",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://twitter.com/Hamasis_ISIS/status/1713531944644796571",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://twitter.com/Hamasis_ISIS/status/1713529244666495356",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://twitter.com/Hamasis_ISIS/status/1713529708560691613",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://twitter.com/YosephHaddad/status/1716940159105806507",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://twitter.com/IDF/status/1716884494131868138",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://twitter.com/DrEliDavid/status/1716910664156094814",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://twitter.com/segal_eran/status/1716886283413565880",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://twitter.com/Israel/status/1716866876418949602",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://twitter.com/yaelbt/status/1716907714448613832",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://twitter.com/TheMossadIL/status/1716920366650785823",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://twitter.com/YosephHaddad/status/1716939418119122955",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://twitter.com/yaelbt/status/1716804668813119610",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://twitter.com/Israel/status/1716873289182949799",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://twitter.com/HananyaNaftali/status/1716952887031697417",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://twitter.com/EretzIsrael/status/1716841336324718997",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://twitter.com/Six9_420/status/1716466605159297502",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://twitter.com/CotlerWunsh/status/1716836180900122659",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://twitter.com/CarlosSimancas/status/1716032447857516697",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://twitter.com/Hamasis_ISIS/status/1716357984190656545",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://twitter.com/CotlerWunsh/status/1716479868215390370",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://twitter.com/endislam/status/1713780636375507300",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://twitter.com/CotlerWunsh/status/1716394683817979981",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://twitter.com/teamsanatani6/status/1717076437466005611",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://twitter.com/orenbarsky/status/1716864031351328796",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://twitter.com/CotlerWunsh/status/1716231329224781966",
 		"is_favorite":	false,
 		"is_favorite_val":	false,
 		"date":	"2023-10-25"
