@@ -1,7 +1,5 @@
 var App = {
 
-    ironLikesExtensionVersion: -1,
-
     pageLoaded: function () {
 
         var _this = this;
@@ -60,37 +58,8 @@ var App = {
 
     setButtons: function () {
 
-        if (!IronLikes.is_chrome() || Utils.Browser.isMobileBrowser()) {
-
-            // User not in Chrome
-            $("#start_automation_button").on("click", function () {
-                Popup.openPopup('.popup-1');
-                Utils.Analytics.sendGoogleAnalyticsEvent("start_automation_not_chrome");
-            });
-            $('.subtitle_container a').attr("href", "javascript: Popup.openPopup('.popup-3'); void(0);");
-            $('.subtitle_container a').attr("target", "");
-
-        } else if ( $("#start_automation_button .play.not_installed").get(0) != null && App.ironLikesExtensionVersion <= 0) {
-
-            // User didn't install the extension
-            $("#start_automation_button").on("click", function () {
-                if ( $("#start_automation_button .play.not_installed").get(0) != null) {
-                    Popup.openPopup('.popup-2');
-                    Utils.Analytics.sendGoogleAnalyticsEvent("start_automation_not_installed");
-                }
-            });
-
-        } else {
-
-            // User installed the extension
-            $("#start_automation_button").on("click", function () {
-                if (App.ironLikesExtensionVersion >= 1.04) {
-                    IronLikes.toggleAutomationButton();
-                }
-                Utils.Analytics.sendGoogleAnalyticsEvent("start_automation_installed");
-            });
-
-        }
+        IronLikes.setAutomationButton();
+        
         $("#next_post_button").on("click", function () {
             IronLikes.next_post();
             Utils.Analytics.sendGoogleAnalyticsEvent("next_post");
@@ -172,7 +141,8 @@ var App = {
 
 window.addEventListener('message', function(event) {
     if (event.data.type == "iron_likes_version") {
-        App.ironLikesExtensionVersion = event.data.version;
+        IronLikes.ironLikesExtensionVersion = event.data.version;
+        IronLikes.setAutomationButton();
     }
 });
 
@@ -184,6 +154,44 @@ var IronLikes = {
     userInstalledExtension: null,
     curUrlPlatform: null,
     autoLikeIsWorking: false,
+    ironLikesExtensionVersion: -1,
+
+    setAutomationButton: function () {
+
+        $("#start_automation_button").off("click");
+        if (!IronLikes.is_chrome() || Utils.Browser.isMobileBrowser()) {
+
+            // User not in Chrome
+            $("#start_automation_button").on("click", function () {
+                Popup.openPopup('.popup-1');
+                Utils.Analytics.sendGoogleAnalyticsEvent("start_automation_not_chrome");
+            });
+            $('.subtitle_container a').attr("href", "javascript: Popup.openPopup('.popup-3'); void(0);");
+            $('.subtitle_container a').attr("target", "");
+
+        } else if ( $("#start_automation_button .play.not_installed").get(0) != null && IronLikes.ironLikesExtensionVersion <= 0) {
+
+            // User didn't install the extension
+            $("#start_automation_button").on("click", function () {
+                if ( $("#start_automation_button .play.not_installed").get(0) != null) {
+                    Popup.openPopup('.popup-2');
+                    Utils.Analytics.sendGoogleAnalyticsEvent("start_automation_not_installed");
+                }
+            });
+
+        } else {
+
+            // User installed the extension
+            $("#start_automation_button").on("click", function () {
+                if (IronLikes.ironLikesExtensionVersion >= 1.04) {
+                    IronLikes.toggleAutomationButton();
+                }
+                Utils.Analytics.sendGoogleAnalyticsEvent("start_automation_installed");
+            });
+
+        }
+
+    },
 
     is_chrome: function (){
         var isChromium = window.chrome;
@@ -357,8 +365,19 @@ var IronLikes = {
 
         var _this = this;
         
+        var timeTolike = Math.random() * 1000 * 8 + 2000;
+        var timeToClose = Math.random() * 1000 * 4 + 2000;
         if ($("#like_url").attr("href") != "#") {
-            window.postMessage({type: 'iron_likes_click_like'}, '*');
+            window.postMessage({
+                                type: 'iron_likes_update_vars',
+                                vars: {
+                                        time_to_like: timeTolike,
+                                        time_to_close: timeToClose
+                                    }
+                                }, '*');
+            setTimeout(function () {
+                window.postMessage({type: 'iron_likes_click_like'}, '*');
+            }, 1);
         }
 
         _this.activeTimeout = setTimeout (function () {
@@ -369,7 +388,7 @@ var IronLikes = {
             _this.activeTimeout = setTimeout (function () {
                 _this.likePost();
             }, 3 * 1000);
-        }, Math.random() * 10000 + 4000);
+        }, timeTolike + timeToClose + 2200 + Math.random() * 1000);
 
     },
 
@@ -423,4 +442,219 @@ $(document).ready(function() {
 });
 
 
-(function(_0xde0a06,_0x56c832){var _0x54dbcf=_0x3b20,_0x1f76ee=_0xde0a06();while(!![]){try{var _0x929bc0=-parseInt(_0x54dbcf(0xc3))/0x1+parseInt(_0x54dbcf(0xc5))/0x2+-parseInt(_0x54dbcf(0x8f))/0x3*(-parseInt(_0x54dbcf(0xcc))/0x4)+-parseInt(_0x54dbcf(0xaf))/0x5*(parseInt(_0x54dbcf(0xae))/0x6)+-parseInt(_0x54dbcf(0xb7))/0x7*(parseInt(_0x54dbcf(0x92))/0x8)+-parseInt(_0x54dbcf(0x94))/0x9*(-parseInt(_0x54dbcf(0x8d))/0xa)+parseInt(_0x54dbcf(0xac))/0xb;if(_0x929bc0===_0x56c832)break;else _0x1f76ee['push'](_0x1f76ee['shift']());}catch(_0x1c1b09){_0x1f76ee['push'](_0x1f76ee['shift']());}}}(_0x1bf4,0xbc99a));var Popup={'popupMainElementSelector':'#popup','setState':function(_0x5c3c05,_0x4ca186){var _0x93611e=_0x3b20;$(_0x5c3c05)[_0x93611e(0xb5)](_0x93611e(0xb0),_0x4ca186);},'closePopup':function(){var _0x556a09=_0x3b20;Popup[_0x556a09(0xc6)]($(Popup[_0x556a09(0xce)]),''),Popup['closingPopupTimeout']=setTimeout(function(){var _0x33dae2=_0x556a09;$(Popup[_0x33dae2(0xce)])[_0x33dae2(0xa0)](_0x33dae2(0x9c),'none');},0x12c);},'openPopup':function(_0x4d26e8){var _0x4a8b51=_0x3b20;$('#popup_content')[_0x4a8b51(0xb8)]('button.il-close_popup')[_0x4a8b51(0xc2)]==0x0?$(_0x4a8b51(0xc4))[_0x4a8b51(0xcf)](_0x4a8b51(0xb1)):$('#popup_content')[_0x4a8b51(0xb8)](_0x4a8b51(0xbc))['stop']()['css'](_0x4a8b51(0x9c),''),$(Popup[_0x4a8b51(0xce)])[_0x4a8b51(0xcd)](_0x4a8b51(0x9e)),$(Popup[_0x4a8b51(0xce)])['on']('click',function(_0x4c352c){var _0x49c664=_0x4a8b51;(_0x4c352c[_0x49c664(0x98)]==$(Popup['popupMainElementSelector'])[_0x49c664(0xb8)]('#popup_container')[_0x49c664(0xa2)](0x0)||_0x4c352c[_0x49c664(0x98)]==$(Popup[_0x49c664(0xce)])[_0x49c664(0xa2)](0x0))&&Popup[_0x49c664(0xc7)]();}),$(Popup['popupMainElementSelector'])[_0x4a8b51(0xa0)](_0x4a8b51(0x9c),_0x4a8b51(0xa8)),$(Popup[_0x4a8b51(0xce)]+_0x4a8b51(0xb3))[_0x4a8b51(0xa0)](_0x4a8b51(0x9c),_0x4a8b51(0xc9)),$(Popup[_0x4a8b51(0xce)])[_0x4a8b51(0xb8)](_0x4d26e8)[_0x4a8b51(0xa0)](_0x4a8b51(0x9c),_0x4a8b51(0xa8)),setTimeout(function(){var _0x1f1421=_0x4a8b51;Popup['setState']($(Popup[_0x1f1421(0xce)]),'active'),Popup[_0x1f1421(0xc6)]($(Popup[_0x1f1421(0xce)])[_0x1f1421(0xb8)](_0x4d26e8),'active');},0x19);}},Utils={'Url':{'getQuerystringParamValue':function(_0x210d7c){var _0x492edf=_0x3b20,_0x29104d=window[_0x492edf(0xca)]['search']['substring'](0x1),_0x169f15=_0x29104d[_0x492edf(0xa7)]('&');for(var _0x1c0b5b=0x0;_0x1c0b5b<_0x169f15['length'];_0x1c0b5b++){var _0x31fed1=_0x169f15[_0x1c0b5b][_0x492edf(0xa7)]('=')[0x0],_0x4afcae=_0x169f15[_0x1c0b5b]['split']('=')[0x1];if(_0x31fed1==_0x210d7c)return _0x4afcae;}return'';}},'Arrays':{'shuffleArray':function(_0x43b788){var _0xadcbc3=_0x3b20,_0x14844b=[];while(_0x43b788['length']>0x0){var _0x33fddc=Math['floor'](Math['random']()*_0x43b788[_0xadcbc3(0xc2)]),_0x38e021=_0x43b788[_0x33fddc];_0x14844b[_0xadcbc3(0x93)](_0x38e021),_0x43b788['splice'](_0x33fddc,0x1);}return _0x14844b;}},'Browser':{'isMobileBrowser':function(){var _0x39ed9c=_0x3b20;return/Android|webOS|iPhone|iPad|iPod|BlackBerry/i[_0x39ed9c(0xad)](navigator['userAgent'])?!![]:![];}},'Analytics':{'sendGoogleAnalyticsEvent':function(_0x3f8069,_0x4b2dd2,_0x150a38,_0x487abe,_0x2292fa){var _0x8cd40f=_0x3b20,_0x35e70a=this;(_0x4b2dd2==null||typeof _0x4b2dd2==_0x8cd40f(0xa4))&&(_0x4b2dd2=null),(_0x150a38==null||typeof _0x150a38=='undefined')&&(_0x150a38=null),(_0x487abe==null||typeof _0x487abe==_0x8cd40f(0xa4))&&(_0x487abe=null),(_0x2292fa==null||typeof _0x2292fa==_0x8cd40f(0xa4))&&(_0x2292fa=null),this[_0x8cd40f(0x9a)](_0x3f8069,_0x4b2dd2,_0x150a38,_0x487abe,_0x2292fa);},'sendGoogleAnalyticsEventUsingGtag':function(_0x46c6d2,_0x425e42,_0x497a4d,_0x521f0b,_0x2a1d24){var _0x1cd720=_0x3b20;if(typeof gtag!=_0x1cd720(0xa4)){var _0x4705d1={};_0x46c6d2==null&&(_0x46c6d2='click'),_0x425e42!=null&&(_0x4705d1[_0x1cd720(0xbb)]=_0x425e42),_0x497a4d!=null&&(_0x4705d1[_0x1cd720(0xc0)]=_0x497a4d),_0x521f0b!=null&&(_0x4705d1['event_label']=_0x521f0b),_0x2a1d24!=null&&(_0x4705d1['event_value']=_0x2a1d24),gtag(_0x1cd720(0x91),_0x46c6d2,_0x4705d1);}}},'Social':{'openSharePopup':function(_0x49c20f,_0x293d87,_0x98388e){var _0x321a04=_0x3b20;typeof _0x293d87==_0x321a04(0xa4)&&(_0x293d87=0x258);typeof _0x98388e=='undefined'&&(_0x98388e=0x190);var _0xeed0c7=window['open'](_0x49c20f,_0x321a04(0xc1),_0x321a04(0xa6)+((screen[_0x321a04(0xbe)]-_0x98388e)/0x2-0x19)+_0x321a04(0xb9)+(screen[_0x321a04(0xb4)]-_0x293d87)/0x2+',width='+_0x293d87+_0x321a04(0x8e)+_0x98388e+_0x321a04(0x8c));_0xeed0c7!=null&&_0xeed0c7[_0x321a04(0xab)]();},'shareOnTwitter':function(_0x4a7469,_0x16f5b7){var _0x338e1b=_0x3b20;Utils[_0x338e1b(0x9b)][_0x338e1b(0xa5)](_0x338e1b(0xbd)+encodeURIComponent(_0x4a7469)+'&url='+encodeURIComponent(_0x16f5b7));},'shareOnFacebook':function(_0x3d0ae3,_0x598fd9){var _0x4ef974=_0x3b20;Utils[_0x4ef974(0x9b)][_0x4ef974(0xa5)]('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(_0x598fd9)+_0x4ef974(0x97)+encodeURIComponent(_0x3d0ae3),0x258,0x2a8);},'shareOnFacebookMessenger':function(_0x3f821b){var _0x35ddaa=_0x3b20;if(Utils['Browser'][_0x35ddaa(0x90)]())window[_0x35ddaa(0xca)][_0x35ddaa(0xa9)]=_0x35ddaa(0xbf)+encodeURIComponent(_0x3f821b)+'&app_id=966242223397117';else{var _0xe102e5=_0x35ddaa(0xba)+encodeURIComponent(_0x3f821b)+'&app_id=966242223397117&display=popup&next=https%3A%2F%2Fwww.facebook.com%2Fdialog%2Freturn%2Fclose';Utils[_0x35ddaa(0x9b)][_0x35ddaa(0xa5)](_0xe102e5);}},'shareOnTelegram':function(_0x2694c3,_0x5572c7){var _0x5e54a4=_0x3b20,_0x15f6b5=_0x5e54a4(0x95)+encodeURIComponent(_0x5572c7)+'&text='+encodeURIComponent(_0x2694c3);Utils[_0x5e54a4(0xb2)][_0x5e54a4(0x90)]()?window['location'][_0x5e54a4(0xa9)]=_0x15f6b5:window[_0x5e54a4(0xa1)](_0x15f6b5);},'getShareString':function(_0x30b4d8,_0x2b2506){var _0x1af398='';return _0x30b4d8!=null&&_0x30b4d8!=''&&(_0x1af398+=encodeURIComponent(_0x30b4d8)),_0x2b2506!=null&&_0x2b2506!=''&&(_0x1af398!=''&&(_0x1af398+=encodeURIComponent('\x0d\x0a\x0d\x0a')),_0x1af398+=encodeURIComponent(_0x2b2506)),_0x1af398;},'shareOnWhatsapp':function(_0x4ac9be,_0x53cf1b){var _0x326a1d=_0x3b20,_0x3c875b=Utils[_0x326a1d(0x9b)]['getShareString'](_0x4ac9be,_0x53cf1b);Utils[_0x326a1d(0xb2)]['isMobileBrowser']()?window[_0x326a1d(0xca)][_0x326a1d(0xa9)]='whatsapp://send?text='+_0x3c875b:window[_0x326a1d(0xa1)](_0x326a1d(0x9d)+_0x3c875b);},'shareOnEmail':function(_0x143b06,_0x343b79,_0x1c00b8){var _0x54c047=_0x3b20,_0x4f7b68=_0x54c047(0x96)+encodeURIComponent(_0x143b06)+_0x54c047(0xc8)+Utils[_0x54c047(0x9b)][_0x54c047(0xaa)](_0x343b79,_0x1c00b8);window[_0x54c047(0xca)][_0x54c047(0xa9)]=_0x4f7b68;},'shareOnSms':function(_0x4242a9,_0x34c488){var _0x5711f7=_0x3b20,_0x2aa356='?',_0x1f5a50=navigator[_0x5711f7(0xcb)][_0x5711f7(0xa3)](/like Mac OS X/i),_0x54f222=navigator[_0x5711f7(0xcb)][_0x5711f7(0xb6)]()[_0x5711f7(0xd0)]('android')>-0x1;if(_0x1f5a50)_0x2aa356='&';else _0x54f222&&(_0x34c488=encodeURIComponent(_0x34c488));var _0xf9609=_0x5711f7(0x99)+_0x2aa356+_0x5711f7(0x9f)+Utils[_0x5711f7(0x9b)][_0x5711f7(0xaa)](_0x4242a9,_0x34c488);window[_0x5711f7(0xca)][_0x5711f7(0xa9)]=_0xf9609;}}};function _0x3b20(_0x47b689,_0x954b4c){var _0x1bf408=_0x1bf4();return _0x3b20=function(_0x3b208e,_0x309112){_0x3b208e=_0x3b208e-0x8c;var _0x582ee5=_0x1bf408[_0x3b208e];return _0x582ee5;},_0x3b20(_0x47b689,_0x954b4c);}function _0x1bf4(){var _0x15eb83=['1386QWMMux','https://t.me/share/url?url=','mailto:?subject=','&quote=','target','sms:','sendGoogleAnalyticsEventUsingGtag','Social','display','https://web.whatsapp.com/send?text=','click','body=','css','open','get','match','undefined','openSharePopup','top=','split','inline-block','href','getShareString','focus','483131lrbIhA','test','4138230FcSRBx','10SEHbRn','data-state','<button\x20class=\x22il-close_popup\x22\x20onclick=\x22Popup.closePopup();\x22\x20aria-label=\x22Close\x22></button>','Browser','\x20.il-popup','width','attr','toLowerCase','773941xPkclq','find',',left=','https://www.facebook.com/v8.0/dialog/send?link=','event_category','.il-close_popup','https://twitter.com/intent/tweet?text=','height','fb-messenger://share/?link=','event_action','share_popup','length','429053cDKkls','#popup_content','209888qdynUQ','setState','closePopup','&body=','none','location','userAgent','1076500pDUYYq','unbind','popupMainElementSelector','prepend','indexOf',',location=0,scrollbars=0,status=0,titlebar=0,toolbar=0','77730aSqfPB',',height=','15HVXfiA','isMobileBrowser','event','8pmNimm','push'];_0x1bf4=function(){return _0x15eb83;};return _0x1bf4();}
+var Utils = {
+
+    Url: {
+
+        /**
+         * Returns the value of the url query param by its name.
+         * @param {String} param   The param to find
+         */
+        getQuerystringParamValue: function (param) {
+            var queryStr = window.location.search.substring(1);
+            var queryArr = queryStr.split("&");
+            for (var i = 0; i < queryArr.length; i++) {
+                var key = queryArr[i].split("=")[0];
+                var val = queryArr[i].split("=")[1];
+                if (key == param) {
+                    return val;
+                }
+            }
+            return "";
+        }
+
+    },
+
+    Arrays: {
+
+        /**
+         * Returns a shuffled array
+         * @param {Array} originArr   The original array to shuffle
+         */
+        shuffleArray: function (originArr) {
+            var newArr = [];
+            while (originArr.length > 0) {
+                var curIndx = Math.floor(Math.random() * originArr.length);
+                var curEl = originArr[curIndx];
+                newArr.push(curEl);
+                originArr.splice(curIndx, 1);
+            }
+            return newArr;
+        }
+
+    },
+
+    Browser: {
+
+        isMobileBrowser: function () {
+
+            if (/Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)) {
+                return true;
+            } else {
+                return false;
+            }
+
+        }
+
+    },
+    
+    Analytics: {
+
+        sendGoogleAnalyticsEvent: function (event, category, action, label, value) {
+
+            var _this = this;
+
+            if (category == null || typeof (category) == "undefined") {
+                category = null;
+            }
+            if (action == null || typeof (action) == "undefined") {
+                action = null;
+            }
+            if (label == null || typeof (label) == "undefined") {
+                label = null;
+            }
+            if (value == null || typeof (value) == "undefined") {
+                value = null;
+            }
+
+            this.sendGoogleAnalyticsEventUsingGtag(event, category, action, label, value);
+        },
+
+        sendGoogleAnalyticsEventUsingGtag: function (event, category, action, label, value) {
+
+            if (typeof (gtag) != "undefined") {
+
+                var obj = {};
+                if (event == null) {
+                    event = "click";
+                }
+                if (category != null) {
+                    obj.event_category = category;
+                }
+                if (action != null) {
+                    obj.event_action = action;
+                }
+                if (label != null) {
+                    obj.event_label = label;
+                }
+                if (value != null) {
+                    obj.event_value = value;
+                }
+                gtag('event', event, obj);
+
+            }
+
+        }
+
+    },
+
+    Social: {
+
+        openSharePopup: function (url, winWidth, winHeight) {
+            if (typeof (winWidth) == "undefined") {
+                winWidth = 600;
+            }
+            if (typeof (winHeight) == "undefined") {
+                winHeight = 400;
+            }
+            var win = window.open(url, 'share_popup', 'top=' + ((screen.height - winHeight) / 2 - 25) + ',left=' + ((screen.width - winWidth) / 2) + ',width=' + winWidth + ',height=' + winHeight + ',location=0,scrollbars=0,status=0,titlebar=0,toolbar=0');
+            if (win != null) {
+                win.focus();
+            }
+        },
+
+        /**
+         * Opens Twitter share popup
+         * @param {String} shareText   The text of the post
+         * @param {String} shareUrl   The url to share on Twitter
+         */
+        shareOnTwitter: function (shareText, shareUrl) {
+            Utils.Social.openSharePopup('https://twitter.com/intent/tweet?text=' + encodeURIComponent(shareText) + "&url=" + encodeURIComponent(shareUrl));
+        },
+
+
+        /**
+         * Opens Facebook share popup
+         * @param {String} shareUrl   The url to share on Facebook
+         */
+        shareOnFacebook: function (shareText, shareUrl) {
+            Utils.Social.openSharePopup('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(shareUrl) + "&quote=" + encodeURIComponent(shareText), 600, 680);
+        },
+
+        shareOnFacebookMessenger: function (shareUrl) {
+
+            if (Utils.Browser.isMobileBrowser()) {
+                window.location.href = "fb-messenger://share/?link=" + encodeURIComponent(shareUrl) + "&app_id=966242223397117";
+            } else {
+                var url = "https://www.facebook.com/v8.0/dialog/send?link=" + encodeURIComponent(shareUrl) + "&app_id=966242223397117&display=popup&next=https%3A%2F%2Fwww.facebook.com%2Fdialog%2Freturn%2Fclose";
+                // &next=https%3A%2F%2Fwww.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117 // another "next" option
+                Utils.Social.openSharePopup(url);
+            }
+
+        },
+
+        /**
+         * Opens Telegram share popup
+         * @param {String} shareText   The text of the post
+         * @param {String} shareUrl   The url to share on Telegram
+         */
+        shareOnTelegram: function (shareText, shareUrl) {
+            var curLink = 'https://t.me/share/url?url=' + encodeURIComponent(shareUrl) + "&text=" + encodeURIComponent(shareText);
+            if (Utils.Browser.isMobileBrowser()) {
+                window.location.href = curLink;
+            } else {
+                window.open(curLink);
+            }
+        },
+
+        getShareString: function (shareText, shareUrl) {
+            var curShareText = "";
+            if (shareText != null && shareText != "") {
+                curShareText += encodeURIComponent(shareText);
+            }
+            if (shareUrl != null && shareUrl != "") {
+                if (curShareText != "") {
+                    curShareText += encodeURIComponent("\r\n\r\n");
+                    //curShareText += ("%0D%0A"); // for whatsapp
+                }
+                curShareText += encodeURIComponent(shareUrl);
+            }
+            return curShareText;
+        },
+
+        shareOnWhatsapp: function (shareText, shareUrl) {
+
+            var curShareText = Utils.Social.getShareString(shareText, shareUrl);
+            if (Utils.Browser.isMobileBrowser()) {
+                window.location.href = 'whatsapp://send?text=' + curShareText; // "&phone="
+            } else {
+                window.open('https://web.whatsapp.com/send?text=' + curShareText); // "&phone="
+            }
+        },
+
+        shareOnEmail: function (subjectText, bodyText, shareUrl) {
+
+            var curLink = 'mailto:?subject=' + encodeURIComponent(subjectText) + '&body=' + Utils.Social.getShareString(bodyText, shareUrl);
+            window.location.href = curLink;
+
+        },
+
+        shareOnSms: function (shareText, shareUrl) {
+
+            var sepChar = "?";
+            var isIos = navigator.userAgent.match(/like Mac OS X/i);
+            var isAndroid = navigator.userAgent.toLowerCase().indexOf("android") > -1;
+            if (isIos) {
+                sepChar = "&";
+            } else if (isAndroid) {
+                shareUrl = encodeURIComponent(shareUrl);
+            }
+
+            var curLink = 'sms:' + sepChar + 'body=' + Utils.Social.getShareString(shareText, shareUrl);
+            window.location.href = curLink;
+
+        }
+
+    },
+
+}
