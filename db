@@ -2,9 +2,51 @@
 "warning_text":	"No permissions to get total amount.",
 "records": 
 	{
-	"items_per_page":	1302,
+	"items_per_page":	1306,
 	"page":	1,
 	"items": [
+		{
+		"post_link":	"https://twitter.com/IDF/status/1717029249205358763",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://twitter.com/IDF/status/1717014181440892946",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://twitter.com/AvivaKlompas/status/1717011675319066993",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://twitter.com/AvivaKlompas/status/1716979558782558431",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-25"
+		},
+		{
+		"post_link":	"https://twitter.com/Israel/status/1716717170011316318",
+		"is_favorite":	true,
+		"is_favorite_val":	true,
+		"date":	"2023-10-24"
+		},
+		{
+		"post_link":	"https://www.instagram.com//p/Cyi84j3I9LK/",
+		"is_favorite":	true,
+		"is_favorite_val":	true,
+		"date":	"2023-10-24"
+		},
+		{
+		"post_link":	"https://www.instagram.com//p/Cyg-ZwVNb58/",
+		"is_favorite":	true,
+		"is_favorite_val":	true,
+		"date":	"2023-10-24"
+		},
 		{
 		"post_link":	"https://twitter.com/IDF/status/1716462311370633484",
 		"is_favorite":	true,
@@ -39,90 +81,6 @@
 		"post_link":	"https://twitter.com/leekern13/status/1716482273829134377",
 		"is_favorite":	true,
 		"is_favorite_val":	true,
-		"date":	"2023-10-24"
-		},
-		{
-		"post_link":	"https://www.instagram.com//p/Cyi84j3I9LK/",
-		"is_favorite":	true,
-		"is_favorite_val":	true,
-		"date":	"2023-10-24"
-		},
-		{
-		"post_link":	"https://www.instagram.com//p/Cyg-ZwVNb58/",
-		"is_favorite":	true,
-		"is_favorite_val":	true,
-		"date":	"2023-10-24"
-		},
-		{
-		"post_link":	"https://twitter.com/Israel/status/1716717170011316318",
-		"is_favorite":	true,
-		"is_favorite_val":	true,
-		"date":	"2023-10-24"
-		},
-		{
-		"post_link":	"https://twitter.com/israel_advocacy/status/1716721806344696298",
-		"is_favorite":	false,
-		"is_favorite_val":	false,
-		"date":	"2023-10-24"
-		},
-		{
-		"post_link":	"https://twitter.com/IDF/status/1716627394415481196",
-		"is_favorite":	false,
-		"is_favorite_val":	false,
-		"date":	"2023-10-24"
-		},
-		{
-		"post_link":	"https://twitter.com/VerminusM/status/1716743716168253945",
-		"is_favorite":	false,
-		"is_favorite_val":	false,
-		"date":	"2023-10-24"
-		},
-		{
-		"post_link":	"https://twitter.com/AvivaKlompas/status/1716740664883368378",
-		"is_favorite":	false,
-		"is_favorite_val":	false,
-		"date":	"2023-10-24"
-		},
-		{
-		"post_link":	"https://twitter.com/Israel/status/1716741604759707696",
-		"is_favorite":	false,
-		"is_favorite_val":	false,
-		"date":	"2023-10-24"
-		},
-		{
-		"post_link":	"https://www.instagram.com//p/CysuhR9NpRk/",
-		"is_favorite":	false,
-		"is_favorite_val":	false,
-		"date":	"2023-10-24"
-		},
-		{
-		"post_link":	"https://www.instagram.com//p/CygDHZmtcWe/",
-		"is_favorite":	false,
-		"is_favorite_val":	false,
-		"date":	"2023-10-24"
-		},
-		{
-		"post_link":	"https://www.instagram.com//p/Cyf9KAGMWmN/",
-		"is_favorite":	false,
-		"is_favorite_val":	false,
-		"date":	"2023-10-24"
-		},
-		{
-		"post_link":	"https://www.instagram.com//p/Cyf7STlrJV4/",
-		"is_favorite":	false,
-		"is_favorite_val":	false,
-		"date":	"2023-10-24"
-		},
-		{
-		"post_link":	"https://www.instagram.com//p/Cvfp2XQt08C/",
-		"is_favorite":	false,
-		"is_favorite_val":	false,
-		"date":	"2023-10-24"
-		},
-		{
-		"post_link":	"https://www.instagram.com//p/CywEs-FvHwN/",
-		"is_favorite":	false,
-		"is_favorite_val":	false,
 		"date":	"2023-10-24"
 		},
 		{
@@ -601,6 +559,72 @@
 		},
 		{
 		"post_link":	"https://twitter.com/Israel/status/1716473402637091272",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-24"
+		},
+		{
+		"post_link":	"https://twitter.com/VerminusM/status/1716743716168253945",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-24"
+		},
+		{
+		"post_link":	"https://twitter.com/AvivaKlompas/status/1716740664883368378",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-24"
+		},
+		{
+		"post_link":	"https://twitter.com/Israel/status/1716741604759707696",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-24"
+		},
+		{
+		"post_link":	"https://www.instagram.com//p/CysuhR9NpRk/",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-24"
+		},
+		{
+		"post_link":	"https://www.instagram.com//p/CygDHZmtcWe/",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-24"
+		},
+		{
+		"post_link":	"https://www.instagram.com//p/Cyf9KAGMWmN/",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-24"
+		},
+		{
+		"post_link":	"https://www.instagram.com//p/Cyf7STlrJV4/",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-24"
+		},
+		{
+		"post_link":	"https://www.instagram.com//p/Cvfp2XQt08C/",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-24"
+		},
+		{
+		"post_link":	"https://www.instagram.com//p/CywEs-FvHwN/",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-24"
+		},
+		{
+		"post_link":	"https://twitter.com/israel_advocacy/status/1716721806344696298",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-24"
+		},
+		{
+		"post_link":	"https://twitter.com/IDF/status/1716627394415481196",
 		"is_favorite":	false,
 		"is_favorite_val":	false,
 		"date":	"2023-10-24"
