@@ -2,7 +2,7 @@
 "warning_text":	"No permissions to get total amount.",
 "records": 
 	{
-	"items_per_page":	1450,
+	"items_per_page":	1451,
 	"page":	1,
 	"items": [
 		{
@@ -343,6 +343,12 @@
 		},
 		{
 		"post_link":	"https://www.instagram.com/p/CytBAmYIGL3/",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-26"
+		},
+		{
+		"post_link":	"https://www.instagram.com//p/Cy1J_znNuDw/",
 		"is_favorite":	false,
 		"is_favorite_val":	false,
 		"date":	"2023-10-26"
