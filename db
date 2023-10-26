@@ -2,15 +2,9 @@
 "warning_text":	"No permissions to get total amount.",
 "records": 
 	{
-	"items_per_page":	1400,
+	"items_per_page":	1402,
 	"page":	1,
 	"items": [
-		{
-		"post_link":	"https://twitter.com/leekern13/status/1717249442363949364",
-		"is_favorite":	true,
-		"is_favorite_val":	true,
-		"date":	"2023-10-26"
-		},
 		{
 		"post_link":	"https://twitter.com/jacobkornbluh/status/1717239348251197805",
 		"is_favorite":	true,
@@ -30,6 +24,12 @@
 		"date":	"2023-10-26"
 		},
 		{
+		"post_link":	"https://twitter.com/leekern13/status/1717249442363949364",
+		"is_favorite":	true,
+		"is_favorite_val":	true,
+		"date":	"2023-10-26"
+		},
+		{
 		"post_link":	"https://twitter.com/leekern13/status/1717083646497022192",
 		"is_favorite":	false,
 		"is_favorite_val":	false,
@@ -37,6 +37,18 @@
 		},
 		{
 		"post_link":	"https://twitter.com/leekern13/status/1717245729616327128",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-26"
+		},
+		{
+		"post_link":	"https://twitter.com/EllaTravelsLove/status/1717099106823250264",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-26"
+		},
+		{
+		"post_link":	"https://twitter.com/Israel4109/status/1717108823633125760",
 		"is_favorite":	false,
 		"is_favorite_val":	false,
 		"date":	"2023-10-26"
