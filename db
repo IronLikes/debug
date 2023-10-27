@@ -2,7 +2,7 @@
 "warning_text":	"No permissions to get total amount.",
 "records": 
 	{
-	"items_per_page":	1453,
+	"items_per_page":	1468,
 	"page":	1,
 	"items": [
 		{
@@ -13,6 +13,96 @@
 		},
 		{
 		"post_link":	"https://twitter.com/LucyLipiner/status/1717591725647012004",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-27"
+		},
+		{
+		"post_link":	"https://twitter.com/noatishby/status/1717768023598117366",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-27"
+		},
+		{
+		"post_link":	"https://twitter.com/IDF/status/1717840051491541077",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-27"
+		},
+		{
+		"post_link":	"https://twitter.com/IDF/status/1717775899238584737",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-27"
+		},
+		{
+		"post_link":	"https://twitter.com/IDF/status/1717691501063401703",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-27"
+		},
+		{
+		"post_link":	"https://twitter.com/IDF/status/1717623428935483740",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-27"
+		},
+		{
+		"post_link":	"https://twitter.com/IDF/status/1717583240481960133",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-27"
+		},
+		{
+		"post_link":	"https://twitter.com/IDF/status/1717571449626468578",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-27"
+		},
+		{
+		"post_link":	"https://twitter.com/IDF/status/1717558740436554221",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-27"
+		},
+		{
+		"post_link":	"https://twitter.com/IDF/status/1717382143452627420",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-27"
+		},
+		{
+		"post_link":	"https://twitter.com/IDF/status/1717257834415476846",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-27"
+		},
+		{
+		"post_link":	"https://twitter.com/IDF/status/1717165555860320541",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-27"
+		},
+		{
+		"post_link":	"https://twitter.com/IDF/status/1717142549620576689",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-27"
+		},
+		{
+		"post_link":	"https://twitter.com/IDF/status/1717114079720992848",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-27"
+		},
+		{
+		"post_link":	"https://twitter.com/YosephHaddad/status/1717801772301877687",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-27"
+		},
+		{
+		"post_link":	"https://twitter.com/naftalibennett/status/1717784890454704473",
 		"is_favorite":	false,
 		"is_favorite_val":	false,
 		"date":	"2023-10-27"
