@@ -2,7 +2,7 @@
 "warning_text":	"No permissions to get total amount.",
 "records": 
 	{
-	"items_per_page":	1488,
+	"items_per_page":	1487,
 	"page":	1,
 	"items": [
 		{
@@ -8401,12 +8401,6 @@
 		},
 		{
 		"post_link":	"https://twitter.com/andreypl/status/1713512011538043249",
-		"is_favorite":	false,
-		"is_favorite_val":	false,
-		"date":	"2023-10-16"
-		},
-		{
-		"post_link":	"https://twitter.com/MoranT555/status/1713814315726205435",
 		"is_favorite":	false,
 		"is_favorite_val":	false,
 		"date":	"2023-10-16"
