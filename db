@@ -2,9 +2,15 @@
 "warning_text":	"No permissions to get total amount.",
 "records": 
 	{
-	"items_per_page":	1477,
+	"items_per_page":	1484,
 	"page":	1,
 	"items": [
+		{
+		"post_link":	"https://twitter.com/Israel/status/1717992005433704521",
+		"is_favorite":	true,
+		"is_favorite_val":	true,
+		"date":	"2023-10-28"
+		},
 		{
 		"post_link":	"https://twitter.com/IDF/status/1718010359397634252",
 		"is_favorite":	true,
@@ -18,13 +24,49 @@
 		"date":	"2023-10-28"
 		},
 		{
-		"post_link":	"https://twitter.com/Israel/status/1717992005433704521",
-		"is_favorite":	true,
-		"is_favorite_val":	true,
+		"post_link":	"https://twitter.com/Israel/status/1717994285893595177",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
 		"date":	"2023-10-28"
 		},
 		{
-		"post_link":	"https://twitter.com/Israel/status/1717994285893595177",
+		"post_link":	"https://twitter.com/YosephHaddad/status/1718141645739221065",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-28"
+		},
+		{
+		"post_link":	"https://twitter.com/YosephHaddad/status/1718134410405450007",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-28"
+		},
+		{
+		"post_link":	"https://twitter.com/noatishby/status/1718142386746912870",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-28"
+		},
+		{
+		"post_link":	"https://twitter.com/EllaTravelsLove/status/1717824382901326110",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-28"
+		},
+		{
+		"post_link":	"https://twitter.com/EllaTravelsLove/status/1717612606867775970",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-28"
+		},
+		{
+		"post_link":	"https://twitter.com/AvivaKlompas/status/1717534410294100073",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-28"
+		},
+		{
+		"post_link":	"https://twitter.com/YosephHaddad/status/1717524198287954252",
 		"is_favorite":	false,
 		"is_favorite_val":	false,
 		"date":	"2023-10-28"
