@@ -2,14 +2,14 @@
 "warning_text":	"No permissions to get total amount.",
 "records": 
 	{
-	"items_per_page":	1487,
+	"items_per_page":	1488,
 	"page":	1,
 	"items": [
 		{
-		"post_link":	"https://twitter.com/Israel/status/1717992005433704521",
-		"is_favorite":	true,
-		"is_favorite_val":	true,
-		"date":	"2023-10-28"
+		"post_link":	"https://twitter.com/Israel18444024/status/1718423175329907165",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-29"
 		},
 		{
 		"post_link":	"https://twitter.com/IDF/status/1718010359397634252",
@@ -24,9 +24,9 @@
 		"date":	"2023-10-28"
 		},
 		{
-		"post_link":	"https://twitter.com/Israel/status/1717994285893595177",
-		"is_favorite":	false,
-		"is_favorite_val":	false,
+		"post_link":	"https://twitter.com/Israel/status/1717992005433704521",
+		"is_favorite":	true,
+		"is_favorite_val":	true,
 		"date":	"2023-10-28"
 		},
 		{
@@ -91,6 +91,12 @@
 		},
 		{
 		"post_link":	"https://twitter.com/StopAntisemites/status/1718271507263033466",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-28"
+		},
+		{
+		"post_link":	"https://twitter.com/Israel/status/1717994285893595177",
 		"is_favorite":	false,
 		"is_favorite_val":	false,
 		"date":	"2023-10-28"
