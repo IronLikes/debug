@@ -2,9 +2,51 @@
 "warning_text":	"No permissions to get total amount.",
 "records": 
 	{
-	"items_per_page":	1490,
+	"items_per_page":	1497,
 	"page":	1,
 	"items": [
+		{
+		"post_link":	"https://twitter.com/IsraeliDefend/status/1718699952484790329",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-30"
+		},
+		{
+		"post_link":	"https://twitter.com/attilus/status/1718746166748119398",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-30"
+		},
+		{
+		"post_link":	"https://twitter.com/AvivaKlompas/status/1718816261365203291",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-30"
+		},
+		{
+		"post_link":	"https://twitter.com/GadSaad/status/1718774875844731350",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-30"
+		},
+		{
+		"post_link":	"https://twitter.com/visegrad24/status/1715688707183837257",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-30"
+		},
+		{
+		"post_link":	"https://twitter.com/IsraeliDefend/status/1718750910220804353",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-30"
+		},
+		{
+		"post_link":	"https://twitter.com/LizaRosen0000/status/1718605978357088270",
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-10-30"
+		},
 		{
 		"post_link":	"https://twitter.com/Israel18444024/status/1718423175329907165",
 		"is_favorite":	false,
