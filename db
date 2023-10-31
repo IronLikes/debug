@@ -2,9 +2,41 @@
 "warning_text":	"No permissions to get total amount.",
 "records": 
 	{
-	"items_per_page":	1520,
+	"items_per_page":	1524,
 	"page":	1,
 	"items": [
+		{
+		"item_id":	"swzr7w2442",
+		"post_link":	"https://www.instagram.com//p/CzEHMdLKnUb/",
+		"post_id":	"CzEHMdLKnUb",
+		"post_username":	"",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"bnm72umeup",
+		"post_link":	"https://twitter.com/TIgerNS3/status/1719408307906203853",
+		"post_id":	"1719408307906203853",
+		"post_username":	"TIgerNS3",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"zy816bvqka",
+		"post_link":	"https://twitter.com/GilBitan/status/1719443700953084331",
+		"post_id":	"1719443700953084331",
+		"post_username":	"GilBitan",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"wingb7vgvi",
+		"post_link":	"https://twitter.com/KobbiShoshani/status/1718251796878283076",
+		"post_id":	"1718251796878283076",
+		"post_username":	"KobbiShoshani",
+		"active":	false,
+		"is_favorite":	false
+		},
 		{
 		"item_id":	"xgp8uifuaj",
 		"post_link":	"https://twitter.com/IDF/status/1718651903343554851",
