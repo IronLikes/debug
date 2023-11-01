@@ -2,9 +2,49 @@
 "warning_text":	"No permissions to get total amount.",
 "records": 
 	{
-	"items_per_page":	1532,
+	"items_per_page":	1537,
 	"page":	1,
 	"items": [
+		{
+		"item_id":	"f7trqa1wte",
+		"post_link":	"https://twitter.com/Jonathan_Elk/status/1718935223499403752",
+		"post_id":	"1718935223499403752",
+		"post_username":	"Jonathan_Elk",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"me4yq3fiw1",
+		"post_link":	"https://twitter.com/srikosuri/status/1719362611454923174",
+		"post_id":	"1719362611454923174",
+		"post_username":	"srikosuri",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"xlof38y1u2",
+		"post_link":	"https://twitter.com/Israel4109/status/1719437544209731887",
+		"post_id":	"1719437544209731887",
+		"post_username":	"Israel4109",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"wfjrxocbpq",
+		"post_link":	"https://twitter.com/lirishavit/status/1719424828162113823",
+		"post_id":	"1719424828162113823",
+		"post_username":	"lirishavit",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"bxue4878sn",
+		"post_link":	"https://twitter.com/IDF/status/1719578288912314715",
+		"post_id":	"1719578288912314715",
+		"post_username":	"IDF",
+		"active":	false,
+		"is_favorite":	false
+		},
 		{
 		"item_id":	"496n9wtu9c",
 		"post_link":	"https://www.instagram.com/p/Cy96qHuIK78/",
