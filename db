@@ -2,9 +2,49 @@
 "warning_text":	"No permissions to get total amount.",
 "records": 
 	{
-	"items_per_page":	1538,
+	"items_per_page":	1543,
 	"page":	1,
 	"items": [
+		{
+		"item_id":	"1624rfyi7v",
+		"post_link":	"https://twitter.com/VP/status/1719833418869981388",
+		"post_id":	"1719833418869981388",
+		"post_username":	"VP",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"iil9waf653",
+		"post_link":	"https://twitter.com/IDF/status/1719928376582943135",
+		"post_id":	"1719928376582943135",
+		"post_username":	"IDF",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"vxr1tpjam7",
+		"post_link":	"https://twitter.com/DrEliDavid/status/1719697102383554730",
+		"post_id":	"1719697102383554730",
+		"post_username":	"DrEliDavid",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"8rt5hnbwwm",
+		"post_link":	"https://twitter.com/talfriedman1/status/1719961045681258697",
+		"post_id":	"1719961045681258697",
+		"post_username":	"talfriedman1",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"v9n86udgod",
+		"post_link":	"https://twitter.com/IDF/status/1719751762301551033",
+		"post_id":	"1719751762301551033",
+		"post_username":	"IDF",
+		"active":	false,
+		"is_favorite":	false
+		},
 		{
 		"item_id":	"d014u0jg4w",
 		"post_link":	"https://www.instagram.com//p/CzHWEiKI3Gn/",
