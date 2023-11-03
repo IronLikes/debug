@@ -2,9 +2,49 @@
 "warning_text":	"No permissions to get total amount.",
 "records": 
 	{
-	"items_per_page":	1576,
+	"items_per_page":	1581,
 	"page":	1,
 	"items": [
+		{
+		"item_id":	"errbha4a85",
+		"post_link":	"https://twitter.com/IDF/status/1720349136707281072",
+		"post_id":	"1720349136707281072",
+		"post_username":	"IDF",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"7f44txdvrp",
+		"post_link":	"https://twitter.com/DouglasKMurray/status/1720381842660933765",
+		"post_id":	"1720381842660933765",
+		"post_username":	"DouglasKMurray",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"lkkgun4kj7",
+		"post_link":	"https://twitter.com/LahavHarkov/status/1720362898319409308",
+		"post_id":	"1720362898319409308",
+		"post_username":	"LahavHarkov",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"l5482clr0h",
+		"post_link":	"https://twitter.com/YosephHaddad/status/1720392873026224432",
+		"post_id":	"1720392873026224432",
+		"post_username":	"YosephHaddad",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"iv37cgrl2u",
+		"post_link":	"https://twitter.com/DrEliDavid/status/1720225439426158962",
+		"post_id":	"1720225439426158962",
+		"post_username":	"DrEliDavid",
+		"active":	false,
+		"is_favorite":	false
+		},
 		{
 		"item_id":	"okkhai5trw",
 		"post_link":	"https://twitter.com/DrEliDavid/status/1720143632756597037",
