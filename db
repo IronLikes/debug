@@ -2,9 +2,105 @@
 "warning_text":	"No permissions to get total amount.",
 "records": 
 	{
-	"items_per_page":	1564,
+	"items_per_page":	1576,
 	"page":	1,
 	"items": [
+		{
+		"item_id":	"okkhai5trw",
+		"post_link":	"https://twitter.com/DrEliDavid/status/1720143632756597037",
+		"post_id":	"1720143632756597037",
+		"post_username":	"DrEliDavid",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"ud4rm5h736",
+		"post_link":	"https://twitter.com/NikkiHaley/status/1720183766717542518",
+		"post_id":	"1720183766717542518",
+		"post_username":	"NikkiHaley",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"r0l30zu0nm",
+		"post_link":	"https://twitter.com/HeidiBachram/status/1720357114621669546",
+		"post_id":	"1720357114621669546",
+		"post_username":	"HeidiBachram",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"gtyc21chmr",
+		"post_link":	"https://twitter.com/StandWithUs/status/1720133922003222646",
+		"post_id":	"1720133922003222646",
+		"post_username":	"StandWithUs",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"w2t5ynxyq2",
+		"post_link":	"https://twitter.com/HenMazzig/status/1720118473357951186",
+		"post_id":	"1720118473357951186",
+		"post_username":	"HenMazzig",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"o40e20kj5t",
+		"post_link":	"https://twitter.com/AvivaKlompas/status/1720419192065704375",
+		"post_id":	"1720419192065704375",
+		"post_username":	"AvivaKlompas",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"l1z6dvq599",
+		"post_link":	"https://twitter.com/IDF/status/1720290103505932586",
+		"post_id":	"1720290103505932586",
+		"post_username":	"IDF",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"r3qe6a6e9s",
+		"post_link":	"https://twitter.com/Israel/status/1720101971430875584",
+		"post_id":	"1720101971430875584",
+		"post_username":	"Israel",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"vosamzoyzi",
+		"post_link":	"https://twitter.com/DouglasKMurray/status/1720156160144146585",
+		"post_id":	"1720156160144146585",
+		"post_username":	"DouglasKMurray",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"cknohmri06",
+		"post_link":	"https://twitter.com/EllaTravelsLove/status/1720376792911843609",
+		"post_id":	"1720376792911843609",
+		"post_username":	"EllaTravelsLove",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"gs3ftm1ku6",
+		"post_link":	"https://twitter.com/DrEliDavid/status/1720212775459340569",
+		"post_id":	"1720212775459340569",
+		"post_username":	"DrEliDavid",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"5z3cavyfll",
+		"post_link":	"https://twitter.com/visegrad24/status/1720166220257697994",
+		"post_id":	"1720166220257697994",
+		"post_username":	"visegrad24",
+		"active":	false,
+		"is_favorite":	false
+		},
 		{
 		"item_id":	"fciow5dusi",
 		"post_link":	"https://twitter.com/benjaminbutter/status/1720114810191282512",
