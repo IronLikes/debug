@@ -2,9 +2,161 @@
 "warning_text":	"No permissions to get total amount.",
 "records": 
 	{
-	"items_per_page":	1581,
+	"items_per_page":	1600,
 	"page":	1,
 	"items": [
+		{
+		"item_id":	"ez65giaaml",
+		"post_link":	"https://twitter.com/Israel/status/1720451872610295870",
+		"post_id":	"1720451872610295870",
+		"post_username":	"Israel",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"jxt1yrs5aj",
+		"post_link":	"https://twitter.com/IDF/status/1720510816930157050",
+		"post_id":	"1720510816930157050",
+		"post_username":	"IDF",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"v8wkdqrh7y",
+		"post_link":	"https://twitter.com/ZechariahSharab/status/1720387023272370574",
+		"post_id":	"1720387023272370574",
+		"post_username":	"ZechariahSharab",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"ryk9eg0pxx",
+		"post_link":	"https://twitter.com/EylonALevy/status/1720479098017829193",
+		"post_id":	"1720479098017829193",
+		"post_username":	"EylonALevy",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"o987q7f2gd",
+		"post_link":	"https://twitter.com/sentdefender/status/1720504537931292948",
+		"post_id":	"1720504537931292948",
+		"post_username":	"sentdefender",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"ipq8md2rsx",
+		"post_link":	"https://twitter.com/TheMossadIL/status/1720548247805026369",
+		"post_id":	"1720548247805026369",
+		"post_username":	"TheMossadIL",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"kexhhafe5p",
+		"post_link":	"https://twitter.com/attilus/status/1720527242336342414",
+		"post_id":	"1720527242336342414",
+		"post_username":	"attilus",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"3mvfsy9xbd",
+		"post_link":	"https://twitter.com/DouglasKMurray/status/1720491235486355810",
+		"post_id":	"1720491235486355810",
+		"post_username":	"DouglasKMurray",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"gbcgspnjd7",
+		"post_link":	"https://twitter.com/jconricus/status/1720529807493001633",
+		"post_id":	"1720529807493001633",
+		"post_username":	"jconricus",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"lyc3vngjtg",
+		"post_link":	"https://twitter.com/DrEliDavid/status/1720546223982043516",
+		"post_id":	"1720546223982043516",
+		"post_username":	"DrEliDavid",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"vr3fpvgxwe",
+		"post_link":	"https://twitter.com/visegrad24/status/1720532066528284802",
+		"post_id":	"1720532066528284802",
+		"post_username":	"visegrad24",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"63kfe10lzo",
+		"post_link":	"https://twitter.com/YosephHaddad/status/1720542847282168221",
+		"post_id":	"1720542847282168221",
+		"post_username":	"YosephHaddad",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"f4t85hek4x",
+		"post_link":	"https://twitter.com/AvivaKlompas/status/1720538317744169412",
+		"post_id":	"1720538317744169412",
+		"post_username":	"AvivaKlompas",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"dp29ubirqs",
+		"post_link":	"https://twitter.com/DrEliDavid/status/1720560400725336530",
+		"post_id":	"1720560400725336530",
+		"post_username":	"DrEliDavid",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"i1a5zho9mf",
+		"post_link":	"https://twitter.com/EllaTravelsLove/status/1720383249149489477",
+		"post_id":	"1720383249149489477",
+		"post_username":	"EllaTravelsLove",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"nu20ouq8ik",
+		"post_link":	"https://twitter.com/Imamofpeace/status/1720323576698441898",
+		"post_id":	"1720323576698441898",
+		"post_username":	"Imamofpeace",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"jn7uvdb2u9",
+		"post_link":	"https://twitter.com/TheMossadIL/status/1720562339492061487",
+		"post_id":	"1720562339492061487",
+		"post_username":	"TheMossadIL",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"jgqrcn1pz4",
+		"post_link":	"https://www.instagram.com/p/CynjHYotOwL/",
+		"post_id":	"CynjHYotOwL",
+		"post_username":	"",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"85uiwtyvv9",
+		"post_link":	"https://www.instagram.com/p/Cy33ISttlAE/",
+		"post_id":	"Cy33ISttlAE",
+		"post_username":	"",
+		"active":	false,
+		"is_favorite":	false
+		},
 		{
 		"item_id":	"errbha4a85",
 		"post_link":	"https://twitter.com/IDF/status/1720349136707281072",
