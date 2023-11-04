@@ -2,9 +2,49 @@
 "warning_text":	"No permissions to get total amount.",
 "records": 
 	{
-	"items_per_page":	1600,
+	"items_per_page":	1605,
 	"page":	1,
 	"items": [
+		{
+		"item_id":	"m6y0hy7dpd",
+		"post_link":	"https://twitter.com/HenMazzig/status/1720572307301708150",
+		"post_id":	"1720572307301708150",
+		"post_username":	"HenMazzig",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"czqagdfga9",
+		"post_link":	"https://twitter.com/BMWK/status/1719757619471008148",
+		"post_id":	"1719757619471008148",
+		"post_username":	"BMWK",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"sxo6mm8avy",
+		"post_link":	"https://twitter.com/Israel/status/1720726277865320616",
+		"post_id":	"1720726277865320616",
+		"post_username":	"Israel",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"o7pf7fvyys",
+		"post_link":	"https://twitter.com/DrEliDavid/status/1720602773161484754",
+		"post_id":	"1720602773161484754",
+		"post_username":	"DrEliDavid",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"w5ftga4rvn",
+		"post_link":	"https://twitter.com/Imamofpeace/status/1720672334023938488",
+		"post_id":	"1720672334023938488",
+		"post_username":	"Imamofpeace",
+		"active":	false,
+		"is_favorite":	false
+		},
 		{
 		"item_id":	"ez65giaaml",
 		"post_link":	"https://twitter.com/Israel/status/1720451872610295870",
