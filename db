@@ -2,9 +2,89 @@
 "warning_text":	"No permissions to get total amount.",
 "records": 
 	{
-	"items_per_page":	1605,
+	"items_per_page":	1615,
 	"page":	1,
 	"items": [
+		{
+		"item_id":	"hk84ua8jrj",
+		"post_link":	"https://twitter.com/DrEliDavid/status/1720578578192998882",
+		"post_id":	"1720578578192998882",
+		"post_username":	"DrEliDavid",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"9y1mzrmh4a",
+		"post_link":	"https://twitter.com/ImtiazMadmood/status/1720512836621722101",
+		"post_id":	"1720512836621722101",
+		"post_username":	"ImtiazMadmood",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"p173576307",
+		"post_link":	"https://twitter.com/amjadt25/status/1720582816742637767",
+		"post_id":	"1720582816742637767",
+		"post_username":	"amjadt25",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"799eza6cjm",
+		"post_link":	"https://twitter.com/Israel/status/1720770584592646211",
+		"post_id":	"1720770584592646211",
+		"post_username":	"Israel",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"99gftxunla",
+		"post_link":	"https://twitter.com/YosephHaddad/status/1720769266926968851",
+		"post_id":	"1720769266926968851",
+		"post_username":	"YosephHaddad",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"vis9etswva",
+		"post_link":	"https://twitter.com/AvivaKlompas/status/1720584434015969629",
+		"post_id":	"1720584434015969629",
+		"post_username":	"AvivaKlompas",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"09wad5nze4",
+		"post_link":	"https://twitter.com/sentdefender/status/1720615180982243723",
+		"post_id":	"1720615180982243723",
+		"post_username":	"sentdefender",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"zk98vhb5mj",
+		"post_link":	"https://twitter.com/BenCaspit/status/1720724155614601720",
+		"post_id":	"1720724155614601720",
+		"post_username":	"BenCaspit",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"6qbktvpkt0",
+		"post_link":	"https://twitter.com/DrEliDavid/status/1720777797961228637",
+		"post_id":	"1720777797961228637",
+		"post_username":	"DrEliDavid",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"h92kiyi843",
+		"post_link":	"https://twitter.com/Israel/status/1720764211561734565",
+		"post_id":	"1720764211561734565",
+		"post_username":	"Israel",
+		"active":	false,
+		"is_favorite":	false
+		},
 		{
 		"item_id":	"m6y0hy7dpd",
 		"post_link":	"https://twitter.com/HenMazzig/status/1720572307301708150",
