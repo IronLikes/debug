@@ -2,9 +2,105 @@
 "warning_text":	"No permissions to get total amount.",
 "records": 
 	{
-	"items_per_page":	1621,
+	"items_per_page":	1633,
 	"page":	1,
 	"items": [
+		{
+		"item_id":	"nxg4yb7xti",
+		"post_link":	"https://twitter.com/DrEliDavid/status/1721274948256141380",
+		"post_id":	"1721274948256141380",
+		"post_username":	"DrEliDavid",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"wcqu6a3ebp",
+		"post_link":	"https://twitter.com/kylieoralobell/status/1721272812969898490",
+		"post_id":	"1721272812969898490",
+		"post_username":	"kylieoralobell",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"4oxrjfmjdb",
+		"post_link":	"https://twitter.com/IDFSpokesperson/status/1721574660288991544",
+		"post_id":	"1721574660288991544",
+		"post_username":	"IDFSpokesperson",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"bje04sc2m3",
+		"post_link":	"https://twitter.com/MarioNawfal/status/1721259836740964662",
+		"post_id":	"1721259836740964662",
+		"post_username":	"MarioNawfal",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"7hlvxg2eg0",
+		"post_link":	"https://twitter.com/Israel/status/1721572200170311881",
+		"post_id":	"1721572200170311881",
+		"post_username":	"Israel",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"bjf8ko3lgf",
+		"post_link":	"https://twitter.com/IsraelWarRoom/status/1721567312140992567",
+		"post_id":	"1721567312140992567",
+		"post_username":	"IsraelWarRoom",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"05rdqyy8zd",
+		"post_link":	"https://twitter.com/AvivaKlompas/status/1721598977290756273",
+		"post_id":	"1721598977290756273",
+		"post_username":	"AvivaKlompas",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"rjei9aapj5",
+		"post_link":	"https://twitter.com/sentdefender/status/1721565388662600191",
+		"post_id":	"1721565388662600191",
+		"post_username":	"sentdefender",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"gm3xqluxml",
+		"post_link":	"https://twitter.com/YosephHaddad/status/1721588615103349034",
+		"post_id":	"1721588615103349034",
+		"post_username":	"YosephHaddad",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"15iimg0z0q",
+		"post_link":	"https://twitter.com/IDF/status/1721581716802855398",
+		"post_id":	"1721581716802855398",
+		"post_username":	"IDF",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"k2d2gu1oul",
+		"post_link":	"https://twitter.com/TheMossadIL/status/1721501483521253568",
+		"post_id":	"1721501483521253568",
+		"post_username":	"TheMossadIL",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"kupqenlyqg",
+		"post_link":	"https://twitter.com/visegrad24/status/1721560609693557050",
+		"post_id":	"1721560609693557050",
+		"post_username":	"visegrad24",
+		"active":	false,
+		"is_favorite":	false
+		},
 		{
 		"item_id":	"lph8re3w5v",
 		"post_link":	"https://www.instagram.com//p/CzPhPLCNbM1/",
