@@ -2,9 +2,33 @@
 "warning_text":	"No permissions to get total amount.",
 "records": 
 	{
-	"items_per_page":	1635,
+	"items_per_page":	1638,
 	"page":	1,
 	"items": [
+		{
+		"item_id":	"mi5nbi2n4h",
+		"post_link":	"https://twitter.com/IDF/status/1722395571636371505",
+		"post_id":	"1722395571636371505",
+		"post_username":	"IDF",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"yqn997rqin",
+		"post_link":	"https://twitter.com/IDF/status/1722037457217048961",
+		"post_id":	"1722037457217048961",
+		"post_username":	"IDF",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"1eemv8vyk5",
+		"post_link":	"https://twitter.com/AvivaKlompas/status/1722519517748760649",
+		"post_id":	"1722519517748760649",
+		"post_username":	"AvivaKlompas",
+		"active":	false,
+		"is_favorite":	false
+		},
 		{
 		"item_id":	"dcydrgjc6q",
 		"post_link":	"https://twitter.com/AvivaKlompas/status/1722504086539403566",
