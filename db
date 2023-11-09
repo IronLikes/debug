@@ -2,9 +2,25 @@
 "warning_text":	"No permissions to get total amount.",
 "records": 
 	{
-	"items_per_page":	1639,
+	"items_per_page":	1641,
 	"page":	1,
 	"items": [
+		{
+		"item_id":	"uxi1a82nqk",
+		"post_link":	"https://twitter.com/leekern13/status/1722527063955866063",
+		"post_id":	"1722527063955866063",
+		"post_username":	"leekern13",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"p5lm7xqzxs",
+		"post_link":	"https://twitter.com/AvivaKlompas/status/1722556765760295163",
+		"post_id":	"1722556765760295163",
+		"post_username":	"AvivaKlompas",
+		"active":	false,
+		"is_favorite":	false
+		},
 		{
 		"item_id":	"kfe5zs98kk",
 		"post_link":	"https://twitter.com/YosephHaddad/status/1722532015784726805",
