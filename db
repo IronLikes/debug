@@ -2,9 +2,169 @@
 "warning_text":	"No permissions to get total amount.",
 "records": 
 	{
-	"items_per_page":	1643,
+	"items_per_page":	1663,
 	"page":	1,
 	"items": [
+		{
+		"item_id":	"1fsh5pdgts",
+		"post_link":	"https://twitter.com/KingOfLevant6/status/1723329431240905001",
+		"post_id":	"1723329431240905001",
+		"post_username":	"KingOfLevant6",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"xwtxpq1ijc",
+		"post_link":	"https://twitter.com/lordflashhe4rt/status/1723124178235134015",
+		"post_id":	"1723124178235134015",
+		"post_username":	"lordflashhe4rt",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"yvnttbjr79",
+		"post_link":	"https://twitter.com/AvivaKlompas/status/1723341358709010806",
+		"post_id":	"1723341358709010806",
+		"post_username":	"AvivaKlompas",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"zhe7qkkxwd",
+		"post_link":	"https://twitter.com/AvivaKlompas/status/1723367327733805407",
+		"post_id":	"1723367327733805407",
+		"post_username":	"AvivaKlompas",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"r3iau70ozr",
+		"post_link":	"https://twitter.com/AvivaKlompas/status/1723367905314652281",
+		"post_id":	"1723367905314652281",
+		"post_username":	"AvivaKlompas",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"cohqbcwoy4",
+		"post_link":	"https://twitter.com/AvivaKlompas/status/1723371042935091658",
+		"post_id":	"1723371042935091658",
+		"post_username":	"AvivaKlompas",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"8x1cxj0hls",
+		"post_link":	"https://twitter.com/YosephHaddad/status/1723093273969905845",
+		"post_id":	"1723093273969905845",
+		"post_username":	"YosephHaddad",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"w7ye3kltd3",
+		"post_link":	"https://twitter.com/YosephHaddad/status/1723270238563631234",
+		"post_id":	"1723270238563631234",
+		"post_username":	"YosephHaddad",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"cx3lz7q8gw",
+		"post_link":	"https://twitter.com/YosephHaddad/status/1723298543811657973",
+		"post_id":	"1723298543811657973",
+		"post_username":	"YosephHaddad",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"ekgavr5es6",
+		"post_link":	"https://twitter.com/YosephHaddad/status/1723304440269004869",
+		"post_id":	"1723304440269004869",
+		"post_username":	"YosephHaddad",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"sbnzeslgx5",
+		"post_link":	"https://twitter.com/YosephHaddad/status/1723317069280604388",
+		"post_id":	"1723317069280604388",
+		"post_username":	"YosephHaddad",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"agfzxpgwlf",
+		"post_link":	"https://twitter.com/YosephHaddad/status/1723356709031178620",
+		"post_id":	"1723356709031178620",
+		"post_username":	"YosephHaddad",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"sj13qkmmb1",
+		"post_link":	"https://twitter.com/bennyjohnson/status/1723233412180234541",
+		"post_id":	"1723233412180234541",
+		"post_username":	"bennyjohnson",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"op96orul4t",
+		"post_link":	"https://twitter.com/AvivaKlompas/status/1723374012430950554",
+		"post_id":	"1723374012430950554",
+		"post_username":	"AvivaKlompas",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"0q7mkozevp",
+		"post_link":	"https://twitter.com/leekern13/status/1723375318977692046",
+		"post_id":	"1723375318977692046",
+		"post_username":	"leekern13",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"i7th5hq0wb",
+		"post_link":	"https://twitter.com/YosephHaddad/status/1723375144398102735",
+		"post_id":	"1723375144398102735",
+		"post_username":	"YosephHaddad",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"kitnx2wzhf",
+		"post_link":	"https://twitter.com/yanircozin/status/1723373166129459375",
+		"post_id":	"1723373166129459375",
+		"post_username":	"yanircozin",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"vzbqmblozm",
+		"post_link":	"https://twitter.com/hindusabhaorg/status/1722837702062547129",
+		"post_id":	"1722837702062547129",
+		"post_username":	"hindusabhaorg",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"6oprg4zab9",
+		"post_link":	"https://twitter.com/hagarsi/status/1723361103822901568",
+		"post_id":	"1723361103822901568",
+		"post_username":	"hagarsi",
+		"active":	false,
+		"is_favorite":	false
+		},
+		{
+		"item_id":	"wa6wirsldh",
+		"post_link":	"https://twitter.com/HerryRodinNapit/status/1723289170981064935",
+		"post_id":	"1723289170981064935",
+		"post_username":	"HerryRodinNapit",
+		"active":	false,
+		"is_favorite":	false
+		},
 		{
 		"item_id":	"vvao351fw6",
 		"post_link":	"https://twitter.com/Israel/status/1722943750291222671",
