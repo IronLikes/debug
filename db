@@ -2,9 +2,169 @@
 "warning_text":	"No permissions to get total amount.",
 "records": 
 	{
-	"items_per_page":	3622,
+	"items_per_page":	3638,
 	"page":	1,
 	"items": [
+		{
+		"item_id":	"0shdbnqmxr",
+		"post_link":	"https://twitter.com/ACOM_es/status/1725352055819112737",
+		"post_id":	"1725352055819112737",
+		"post_username":	"ACOM_es",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-17"
+		},
+		{
+		"item_id":	"j4rgsuqi7x",
+		"post_link":	"https://twitter.com/StandWithUs/status/1725355830642381100",
+		"post_id":	"1725355830642381100",
+		"post_username":	"StandWithUs",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-17"
+		},
+		{
+		"item_id":	"x6eqmopd5v",
+		"post_link":	"https://twitter.com/IDF/status/1725364994135515436",
+		"post_id":	"1725364994135515436",
+		"post_username":	"IDF",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-17"
+		},
+		{
+		"item_id":	"zb2oa88a5q",
+		"post_link":	"https://twitter.com/LahavHarkov/status/1723949696903713231",
+		"post_id":	"1723949696903713231",
+		"post_username":	"LahavHarkov",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-17"
+		},
+		{
+		"item_id":	"8b7f3tnreo",
+		"post_link":	"https://twitter.com/LahavHarkov/status/1720312043897544772",
+		"post_id":	"1720312043897544772",
+		"post_username":	"LahavHarkov",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-17"
+		},
+		{
+		"item_id":	"yk2at2kf8g",
+		"post_link":	"https://twitter.com/HilzFuld/status/1725384973069238623",
+		"post_id":	"1725384973069238623",
+		"post_username":	"HilzFuld",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-17"
+		},
+		{
+		"item_id":	"4tdupn4kg1",
+		"post_link":	"https://twitter.com/IDF/status/1725385474091458824",
+		"post_id":	"1725385474091458824",
+		"post_username":	"IDF",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-17"
+		},
+		{
+		"item_id":	"m3dwxf5cit",
+		"post_link":	"https://twitter.com/IDF/status/1725399996277620765",
+		"post_id":	"1725399996277620765",
+		"post_username":	"IDF",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-17"
+		},
+		{
+		"item_id":	"vqk3m7ovb0",
+		"post_link":	"https://www.instagram.com/reel/CzuyH5uLJzH",
+		"post_id":	"CzuyH5uLJzH",
+		"post_username":	"blackandjewishunity",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-17"
+		},
+		{
+		"item_id":	"62bmf8futq",
+		"post_link":	"https://www.instagram.com/reel/CzrKuYVON8T",
+		"post_id":	"CzrKuYVON8T",
+		"post_username":	"tomerperetzart",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-17"
+		},
+		{
+		"item_id":	"n3t76h8gjk",
+		"post_link":	"https://www.instagram.com/reel/CzrUmt7C2Pu",
+		"post_id":	"CzrUmt7C2Pu",
+		"post_username":	"ann.gelov_bridal",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-17"
+		},
+		{
+		"item_id":	"e9td9lku2o",
+		"post_link":	"https://www.instagram.com/reel/CzvHzPntvGI",
+		"post_id":	"CzvHzPntvGI",
+		"post_username":	"xabaroyjuuro",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-17"
+		},
+		{
+		"item_id":	"8dwxe0utfc",
+		"post_link":	"https://www.instagram.com/reel/CzuZOxyv_xq",
+		"post_id":	"CzuZOxyv_xq",
+		"post_username":	"louder.israel",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-17"
+		},
+		{
+		"item_id":	"tkpy3t4ozw",
+		"post_link":	"https://www.instagram.com/reel/CzvGvdqo6zF",
+		"post_id":	"CzvGvdqo6zF",
+		"post_username":	"tiroche_art_auctions",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-17"
+		},
+		{
+		"item_id":	"jfv7flnwx1",
+		"post_link":	"https://www.instagram.com/reel/Czt0gdCsyfe",
+		"post_id":	"Czt0gdCsyfe",
+		"post_username":	"_israelies",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-17"
+		},
+		{
+		"item_id":	"g3ir5ngvg7",
+		"post_link":	"https://www.instagram.com/reel/CzvCfgcudaj",
+		"post_id":	"CzvCfgcudaj",
+		"post_username":	"themisfitpatriot",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-17"
+		},
 		{
 		"item_id":	"1gnudnjynb",
 		"post_link":	"https://www.instagram.com/reel/Czqv5I2MY8L",
