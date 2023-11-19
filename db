@@ -2,9 +2,29 @@
 "warning_text":	"No permissions to get total amount.",
 "records": 
 	{
-	"items_per_page":	4914,
+	"items_per_page":	4916,
 	"page":	1,
 	"items": [
+		{
+		"item_id":	"krtmv35qls",
+		"post_link":	"https://twitter.com/AvivaKlompas/status/1726192110205022336",
+		"post_id":	"1726192110205022336",
+		"post_username":	"AvivaKlompas",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-19"
+		},
+		{
+		"item_id":	"83p3ffjw9o",
+		"post_link":	"https://twitter.com/leekern13/status/1726137940634370192",
+		"post_id":	"1726137940634370192",
+		"post_username":	"leekern13",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-19"
+		},
 		{
 		"item_id":	"67z1ci2w0x",
 		"post_link":	"https://www.instagram.com/reel/CzwjtY2ImHU",
