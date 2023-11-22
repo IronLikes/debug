@@ -2,9 +2,109 @@
 "warning_text":	"No permissions to get total amount.",
 "records": 
 	{
-	"items_per_page":	6794,
+	"items_per_page":	6804,
 	"page":	1,
 	"items": [
+		{
+		"item_id":	"w2zvqvx9mt",
+		"post_link":	"https://www.instagram.com/reel/Cz7dbVFLqKW",
+		"post_id":	"Cz7dbVFLqKW",
+		"post_username":	"jewbelong",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-22"
+		},
+		{
+		"item_id":	"zf7xn7p7m5",
+		"post_link":	"https://www.instagram.com/p/Cz6klPPoe8M",
+		"post_id":	"Cz6klPPoe8M",
+		"post_username":	"mindsetofthetruth",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-22"
+		},
+		{
+		"item_id":	"nw902y9c85",
+		"post_link":	"https://www.instagram.com/reel/Cz83Q4Htf4U",
+		"post_id":	"Cz83Q4Htf4U",
+		"post_username":	"palestinianslovesisraeli",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-22"
+		},
+		{
+		"item_id":	"9dajpop3r6",
+		"post_link":	"https://www.instagram.com/p/Cz83xmrtWcV",
+		"post_id":	"Cz83xmrtWcV",
+		"post_username":	"standwithus",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-22"
+		},
+		{
+		"item_id":	"39dfgfmxss",
+		"post_link":	"https://www.instagram.com/p/Cz8buCXteak",
+		"post_id":	"Cz8buCXteak",
+		"post_username":	"bringhomenow",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-22"
+		},
+		{
+		"item_id":	"9gs3djnqaf",
+		"post_link":	"https://www.instagram.com/reel/Cz60JaBRbSK",
+		"post_id":	"Cz60JaBRbSK",
+		"post_username":	"wejewish",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-22"
+		},
+		{
+		"item_id":	"6owsl65dd9",
+		"post_link":	"https://www.instagram.com/reel/Cz64AWQvPOi",
+		"post_id":	"Cz64AWQvPOi",
+		"post_username":	"wejewish",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-22"
+		},
+		{
+		"item_id":	"nh8ldtuhzv",
+		"post_link":	"https://www.instagram.com/reel/Cz84bHnL2VJ",
+		"post_id":	"Cz84bHnL2VJ",
+		"post_username":	"wejewish",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-22"
+		},
+		{
+		"item_id":	"clz0wevjyq",
+		"post_link":	"https://www.instagram.com/reel/Cz8qqaztUdz",
+		"post_id":	"Cz8qqaztUdz",
+		"post_username":	"jewishbreakingnews",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-22"
+		},
+		{
+		"item_id":	"hx5cn5569b",
+		"post_link":	"https://www.instagram.com/reel/Cz851p_os8v",
+		"post_id":	"Cz851p_os8v",
+		"post_username":	"a_robots",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-22"
+		},
 		{
 		"item_id":	"eecjvaxris",
 		"post_link":	"https://www.instagram.com/reel/Cz8IDTXtoDO",
