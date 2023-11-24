@@ -2,9 +2,149 @@
 "warning_text":	"No permissions to get total amount.",
 "records": 
 	{
-	"items_per_page":	7085,
+	"items_per_page":	7099,
 	"page":	1,
 	"items": [
+		{
+		"item_id":	"wjry4z6hxq",
+		"post_link":	"https://twitter.com/academic_la/status/1727781783746617383",
+		"post_id":	"1727781783746617383",
+		"post_username":	"academic_la",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-24"
+		},
+		{
+		"item_id":	"4ephfm2q2a",
+		"post_link":	"https://twitter.com/academic_la/status/1727807408498770008",
+		"post_id":	"1727807408498770008",
+		"post_username":	"academic_la",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-24"
+		},
+		{
+		"item_id":	"r9qbpqm45t",
+		"post_link":	"https://twitter.com/visegrad24/status/1727781839698378855",
+		"post_id":	"1727781839698378855",
+		"post_username":	"visegrad24",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-24"
+		},
+		{
+		"item_id":	"zug14axcm2",
+		"post_link":	"https://twitter.com/canarymission/status/1727693536160571399",
+		"post_id":	"1727693536160571399",
+		"post_username":	"canarymission",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-24"
+		},
+		{
+		"item_id":	"em0lz1dmjp",
+		"post_link":	"https://twitter.com/DrEliDavid/status/1727766950238163428",
+		"post_id":	"1727766950238163428",
+		"post_username":	"DrEliDavid",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-24"
+		},
+		{
+		"item_id":	"8srf3qh1v9",
+		"post_link":	"https://twitter.com/GabyLob/status/1727762891502141737",
+		"post_id":	"1727762891502141737",
+		"post_username":	"GabyLob",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-24"
+		},
+		{
+		"item_id":	"f7mnbec5hp",
+		"post_link":	"https://twitter.com/MorHogeg/status/1727801879910850727",
+		"post_id":	"1727801879910850727",
+		"post_username":	"MorHogeg",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-24"
+		},
+		{
+		"item_id":	"nrryatsm47",
+		"post_link":	"https://twitter.com/HenMazzig/status/1727789816136274175",
+		"post_id":	"1727789816136274175",
+		"post_username":	"HenMazzig",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-24"
+		},
+		{
+		"item_id":	"zxn3y7r4p0",
+		"post_link":	"https://twitter.com/ImtiazMadmood/status/1727693854218842139",
+		"post_id":	"1727693854218842139",
+		"post_username":	"ImtiazMadmood",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-24"
+		},
+		{
+		"item_id":	"7rnoockcps",
+		"post_link":	"https://twitter.com/EllaTravelsLove/status/1727809896089883109",
+		"post_id":	"1727809896089883109",
+		"post_username":	"EllaTravelsLove",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-24"
+		},
+		{
+		"item_id":	"ggh5fli31p",
+		"post_link":	"https://twitter.com/AvivaKlompas/status/1727667104432693668",
+		"post_id":	"1727667104432693668",
+		"post_username":	"AvivaKlompas",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-24"
+		},
+		{
+		"item_id":	"20s6arapb5",
+		"post_link":	"https://www.instagram.com/reel/C0AWi3TMW0w",
+		"post_id":	"C0AWi3TMW0w",
+		"post_username":	"skyofisrael",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-24"
+		},
+		{
+		"item_id":	"ce72alg2s8",
+		"post_link":	"https://twitter.com/sentdefender/status/1727758567065764271",
+		"post_id":	"1727758567065764271",
+		"post_username":	"sentdefender",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-24"
+		},
+		{
+		"item_id":	"8fmwu775ir",
+		"post_link":	"https://twitter.com/EylonALevy/status/1727700810140651682",
+		"post_id":	"1727700810140651682",
+		"post_username":	"EylonALevy",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-24"
+		},
 		{
 		"item_id":	"fuoysqsbdn",
 		"post_link":	"https://www.instagram.com/reel/Cz-5uerNGDr",
