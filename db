@@ -2,9 +2,39 @@
 "warning_text":	"No permissions to get total amount.",
 "records": 
 	{
-	"items_per_page":	7270,
+	"items_per_page":	7273,
 	"page":	1,
 	"items": [
+		{
+		"item_id":	"bvfs20znfs",
+		"post_link":	"https://twitter.com/comjudiachile/status/1728060058070548599",
+		"post_id":	"1728060058070548599",
+		"post_username":	"comjudiachile",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-24"
+		},
+		{
+		"item_id":	"usvk1habmz",
+		"post_link":	"https://www.instagram.com/reel/C0BZlmKoTAc",
+		"post_id":	"C0BZlmKoTAc",
+		"post_username":	"nadav_gutgoldy",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-24"
+		},
+		{
+		"item_id":	"zn09lrz3c1",
+		"post_link":	"https://www.instagram.com/reel/C0BAX0GtwL0",
+		"post_id":	"C0BAX0GtwL0",
+		"post_username":	"israelinkorea",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-24"
+		},
 		{
 		"item_id":	"98ozb4hmn0",
 		"post_link":	"https://twitter.com/jobjobj32915690/status/1728046838584873125",
