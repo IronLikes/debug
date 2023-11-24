@@ -2,9 +2,79 @@
 "warning_text":	"No permissions to get total amount.",
 "records": 
 	{
-	"items_per_page":	7191,
+	"items_per_page":	7198,
 	"page":	1,
 	"items": [
+		{
+		"item_id":	"mhh51w0brr",
+		"post_link":	"https://twitter.com/GabrielChocron/status/1727467400612794539",
+		"post_id":	"1727467400612794539",
+		"post_username":	"GabrielChocron",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-24"
+		},
+		{
+		"item_id":	"3w9b9atcic",
+		"post_link":	"https://www.instagram.com/reel/Cz-x5-VIjeV",
+		"post_id":	"Cz-x5-VIjeV",
+		"post_username":	"saraigivaty",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-24"
+		},
+		{
+		"item_id":	"l87al1gn82",
+		"post_link":	"https://twitter.com/CptAllenHistory/status/1727826487150064094",
+		"post_id":	"1727826487150064094",
+		"post_username":	"CptAllenHistory",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-24"
+		},
+		{
+		"item_id":	"i6o7ekz8i1",
+		"post_link":	"https://twitter.com/malachovsky/status/1727867433132707888",
+		"post_id":	"1727867433132707888",
+		"post_username":	"malachovsky",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-24"
+		},
+		{
+		"item_id":	"z9kd9z82bx",
+		"post_link":	"https://twitter.com/KeithWoodsYT/status/1727794469720797377",
+		"post_id":	"1727794469720797377",
+		"post_username":	"KeithWoodsYT",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-24"
+		},
+		{
+		"item_id":	"ab8gb2it3n",
+		"post_link":	"https://twitter.com/AvivaKlompas/status/1727876816965165289",
+		"post_id":	"1727876816965165289",
+		"post_username":	"AvivaKlompas",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-24"
+		},
+		{
+		"item_id":	"e9bjw0y0i0",
+		"post_link":	"https://twitter.com/LevittMichael/status/1727863685484302486",
+		"post_id":	"1727863685484302486",
+		"post_username":	"LevittMichael",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-24"
+		},
 		{
 		"item_id":	"fdujxe7kzt",
 		"post_link":	"https://twitter.com/lelefemme/status/1727833088456097979",
