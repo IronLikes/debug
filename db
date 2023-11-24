@@ -2,9 +2,39 @@
 "warning_text":	"No permissions to get total amount.",
 "records": 
 	{
-	"items_per_page":	7251,
+	"items_per_page":	7254,
 	"page":	1,
 	"items": [
+		{
+		"item_id":	"k13behrvon",
+		"post_link":	"https://www.instagram.com/reel/C0BoH0joEJC",
+		"post_id":	"C0BoH0joEJC",
+		"post_username":	"haimetgar1",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-24"
+		},
+		{
+		"item_id":	"6hn7n5x55e",
+		"post_link":	"https://twitter.com/TSchwarzbard/status/1728001763477790838",
+		"post_id":	"1728001763477790838",
+		"post_username":	"TSchwarzbard",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-24"
+		},
+		{
+		"item_id":	"b5frwinxz5",
+		"post_link":	"https://twitter.com/IsraelinGermany/status/1727329023066542163",
+		"post_id":	"1727329023066542163",
+		"post_username":	"IsraelinGermany",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-24"
+		},
 		{
 		"item_id":	"bztpi57f64",
 		"post_link":	"https://www.instagram.com/reel/Cz_2ZZEI0lM",
