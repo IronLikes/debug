@@ -2,9 +2,49 @@
 "warning_text":	"No permissions to get total amount.",
 "records": 
 	{
-	"items_per_page":	7238,
+	"items_per_page":	7242,
 	"page":	1,
 	"items": [
+		{
+		"item_id":	"9aw7g29q1x",
+		"post_link":	"https://twitter.com/ahoova/status/1727661756967797097",
+		"post_id":	"1727661756967797097",
+		"post_username":	"ahoova",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-24"
+		},
+		{
+		"item_id":	"dij014z4mm",
+		"post_link":	"https://www.instagram.com/reel/Cz_q9jWoI18",
+		"post_id":	"Cz_q9jWoI18",
+		"post_username":	"the_jewish_lion",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-24"
+		},
+		{
+		"item_id":	"ivznhelxqa",
+		"post_link":	"https://twitter.com/AvivaKlompas/status/1727849265639157776",
+		"post_id":	"1727849265639157776",
+		"post_username":	"AvivaKlompas",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-24"
+		},
+		{
+		"item_id":	"4zeq4hr30w",
+		"post_link":	"https://twitter.com/leekern13/status/1727952221055463507",
+		"post_id":	"1727952221055463507",
+		"post_username":	"leekern13",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-24"
+		},
 		{
 		"item_id":	"x8dpz4yc56",
 		"post_link":	"https://www.instagram.com/reel/Cz_2TdZs_a3",
