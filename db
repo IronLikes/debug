@@ -2,9 +2,109 @@
 "warning_text":	"No permissions to get total amount.",
 "records": 
 	{
-	"items_per_page":	7302,
+	"items_per_page":	7312,
 	"page":	1,
 	"items": [
+		{
+		"item_id":	"pijymmo0nv",
+		"post_link":	"https://twitter.com/Ostrov_A/status/1728162069122297896",
+		"post_id":	"1728162069122297896",
+		"post_username":	"Ostrov_A",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-25"
+		},
+		{
+		"item_id":	"djgpslrsmt",
+		"post_link":	"https://twitter.com/MotiAnkari/status/1728068260300570763",
+		"post_id":	"1728068260300570763",
+		"post_username":	"MotiAnkari",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-25"
+		},
+		{
+		"item_id":	"pfl0hf4f7i",
+		"post_link":	"https://twitter.com/visegrad24/status/1728159458411389260",
+		"post_id":	"1728159458411389260",
+		"post_username":	"visegrad24",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-25"
+		},
+		{
+		"item_id":	"2rqdzik8gn",
+		"post_link":	"https://twitter.com/YosephHaddad/status/1728163189093756987",
+		"post_id":	"1728163189093756987",
+		"post_username":	"YosephHaddad",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-25"
+		},
+		{
+		"item_id":	"0625zoa6qz",
+		"post_link":	"https://twitter.com/EylonALevy/status/1728167697295237337",
+		"post_id":	"1728167697295237337",
+		"post_username":	"EylonALevy",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-25"
+		},
+		{
+		"item_id":	"lr75c32xuu",
+		"post_link":	"https://www.instagram.com/reel/C0BLIvALA_y",
+		"post_id":	"C0BLIvALA_y",
+		"post_username":	"realdyna_rider",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-25"
+		},
+		{
+		"item_id":	"ap52wxyvow",
+		"post_link":	"https://www.instagram.com/reel/C0Cwj48q_sI",
+		"post_id":	"C0Cwj48q_sI",
+		"post_username":	"therosegrows.trg",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-25"
+		},
+		{
+		"item_id":	"ni4302n6cr",
+		"post_link":	"https://www.instagram.com/reel/C0CmzQXvMnK",
+		"post_id":	"C0CmzQXvMnK",
+		"post_username":	"blackandjewishunity",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-25"
+		},
+		{
+		"item_id":	"znggzu2eqc",
+		"post_link":	"https://twitter.com/HeartsForIsrael/status/1727892618472825067",
+		"post_id":	"1727892618472825067",
+		"post_username":	"HeartsForIsrael",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-25"
+		},
+		{
+		"item_id":	"cssqbqvfak",
+		"post_link":	"https://twitter.com/HenMazzig/status/1728111336616346026",
+		"post_id":	"1728111336616346026",
+		"post_username":	"HenMazzig",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-25"
+		},
 		{
 		"item_id":	"bcmnjmrhtb",
 		"post_link":	"https://www.instagram.com/reel/C0Co3IJsxtG",
