@@ -2,9 +2,29 @@
 "warning_text":	"No permissions to get total amount.",
 "records": 
 	{
-	"items_per_page":	7242,
+	"items_per_page":	7244,
 	"page":	1,
 	"items": [
+		{
+		"item_id":	"ev7lzgdbfw",
+		"post_link":	"https://twitter.com/jconricus/status/1727867235144806541",
+		"post_id":	"1727867235144806541",
+		"post_username":	"jconricus",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-24"
+		},
+		{
+		"item_id":	"5pwv2xm2bl",
+		"post_link":	"https://www.instagram.com/p/C0BUKXJtso2",
+		"post_id":	"C0BUKXJtso2",
+		"post_username":	"newsflashil",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-24"
+		},
 		{
 		"item_id":	"9aw7g29q1x",
 		"post_link":	"https://twitter.com/ahoova/status/1727661756967797097",
