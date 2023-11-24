@@ -2,9 +2,149 @@
 "warning_text":	"No permissions to get total amount.",
 "records": 
 	{
-	"items_per_page":	7211,
+	"items_per_page":	7225,
 	"page":	1,
 	"items": [
+		{
+		"item_id":	"mj0rv1eue1",
+		"post_link":	"https://twitter.com/AvivaKlompas/status/1727718107689431195",
+		"post_id":	"1727718107689431195",
+		"post_username":	"AvivaKlompas",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-24"
+		},
+		{
+		"item_id":	"3oxfbz4of4",
+		"post_link":	"https://twitter.com/DrEliDavid/status/1727725511458041907",
+		"post_id":	"1727725511458041907",
+		"post_username":	"DrEliDavid",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-24"
+		},
+		{
+		"item_id":	"9wpqxw7j2h",
+		"post_link":	"https://www.instagram.com/reel/C0AHltOrjbL",
+		"post_id":	"C0AHltOrjbL",
+		"post_username":	"hamas_is_isis__wake_up",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-24"
+		},
+		{
+		"item_id":	"aogwlmctwa",
+		"post_link":	"https://www.instagram.com/reel/C0ACAFBLFrz",
+		"post_id":	"C0ACAFBLFrz",
+		"post_username":	"helisamuel",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-24"
+		},
+		{
+		"item_id":	"1pz21oir3m",
+		"post_link":	"https://www.instagram.com/reel/Cz_jhFzo0rl",
+		"post_id":	"Cz_jhFzo0rl",
+		"post_username":	"kan_israel",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-24"
+		},
+		{
+		"item_id":	"4ay5gyadsm",
+		"post_link":	"https://www.instagram.com/reel/Cz_tYa-Idi5",
+		"post_id":	"Cz_tYa-Idi5",
+		"post_username":	"jamesmaslow",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-24"
+		},
+		{
+		"item_id":	"py9fmju6tw",
+		"post_link":	"https://twitter.com/Gil_Artzyeli/status/1727708122054021602",
+		"post_id":	"1727708122054021602",
+		"post_username":	"Gil_Artzyeli",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-24"
+		},
+		{
+		"item_id":	"bs5qbf8r7q",
+		"post_link":	"https://twitter.com/Khaledhzakariah/status/1727645216595718244",
+		"post_id":	"1727645216595718244",
+		"post_username":	"Khaledhzakariah",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-24"
+		},
+		{
+		"item_id":	"39bh666nbh",
+		"post_link":	"https://twitter.com/Daniel_Sanz_C/status/1727729231612838159",
+		"post_id":	"1727729231612838159",
+		"post_username":	"Daniel_Sanz_C",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-24"
+		},
+		{
+		"item_id":	"ol7zfo7hv6",
+		"post_link":	"https://www.instagram.com/reel/Cz9W3QBP1AL",
+		"post_id":	"Cz9W3QBP1AL",
+		"post_username":	"kfirgavrieli",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-24"
+		},
+		{
+		"item_id":	"thnk5wyxbs",
+		"post_link":	"https://twitter.com/LawrenceMuscant/status/1727780557923209326",
+		"post_id":	"1727780557923209326",
+		"post_username":	"LawrenceMuscant",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-24"
+		},
+		{
+		"item_id":	"3byjrlq912",
+		"post_link":	"https://twitter.com/EllaTravelsLove/status/1727814465813627050",
+		"post_id":	"1727814465813627050",
+		"post_username":	"EllaTravelsLove",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-24"
+		},
+		{
+		"item_id":	"c6uwbvd5i9",
+		"post_link":	"https://twitter.com/giles_fraser/status/1727799375399677988",
+		"post_id":	"1727799375399677988",
+		"post_username":	"giles_fraser",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-24"
+		},
+		{
+		"item_id":	"2di8apg0a3",
+		"post_link":	"https://twitter.com/AvivaKlompas/status/1727778478177599683",
+		"post_id":	"1727778478177599683",
+		"post_username":	"AvivaKlompas",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-24"
+		},
 		{
 		"item_id":	"4qzzxmluec",
 		"post_link":	"https://www.instagram.com/reel/Cz-CiHbIRhK",
