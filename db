@@ -2,9 +2,79 @@
 "warning_text":	"No permissions to get total amount.",
 "records": 
 	{
-	"items_per_page":	7324,
+	"items_per_page":	7331,
 	"page":	1,
 	"items": [
+		{
+		"item_id":	"6tclkeldat",
+		"post_link":	"https://twitter.com/leekern13/status/1728140926928007259",
+		"post_id":	"1728140926928007259",
+		"post_username":	"leekern13",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-25"
+		},
+		{
+		"item_id":	"33kooglkw4",
+		"post_link":	"https://twitter.com/yashar/status/1728177092221931538",
+		"post_id":	"1728177092221931538",
+		"post_username":	"yashar",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-25"
+		},
+		{
+		"item_id":	"jsptj4dwm0",
+		"post_link":	"https://www.instagram.com/reel/C0DP4qFRVwA",
+		"post_id":	"C0DP4qFRVwA",
+		"post_username":	"drsheilanazarian",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-25"
+		},
+		{
+		"item_id":	"dhpi9logev",
+		"post_link":	"https://twitter.com/AvivaKlompas/status/1728231793994633663",
+		"post_id":	"1728231793994633663",
+		"post_username":	"AvivaKlompas",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-25"
+		},
+		{
+		"item_id":	"fuqq28pdx9",
+		"post_link":	"https://www.instagram.com/reel/C0A8Am8gnKI",
+		"post_id":	"C0A8Am8gnKI",
+		"post_username":	"wolpalestine",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-25"
+		},
+		{
+		"item_id":	"zm0yk3mtmu",
+		"post_link":	"https://www.instagram.com/reel/C0BzP4HoFD2",
+		"post_id":	"C0BzP4HoFD2",
+		"post_username":	"adi_grinbaum_",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-25"
+		},
+		{
+		"item_id":	"4rltq9h00k",
+		"post_link":	"https://twitter.com/LadybugRomy/status/1728234093656375794",
+		"post_id":	"1728234093656375794",
+		"post_username":	"LadybugRomy",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-25"
+		},
 		{
 		"item_id":	"9487ym6xbe",
 		"post_link":	"https://www.instagram.com/reel/C0AScrptMVF",
