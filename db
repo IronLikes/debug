@@ -2,9 +2,49 @@
 "warning_text":	"No permissions to get total amount.",
 "records": 
 	{
-	"items_per_page":	7339,
+	"items_per_page":	7343,
 	"page":	1,
 	"items": [
+		{
+		"item_id":	"rhozhfil8y",
+		"post_link":	"https://twitter.com/MOSSADil/status/1728209810393362917",
+		"post_id":	"1728209810393362917",
+		"post_username":	"MOSSADil",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-25"
+		},
+		{
+		"item_id":	"0fqhp379jy",
+		"post_link":	"https://twitter.com/leekern13/status/1728048911506342368",
+		"post_id":	"1728048911506342368",
+		"post_username":	"leekern13",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-25"
+		},
+		{
+		"item_id":	"3xt4atz4u3",
+		"post_link":	"https://twitter.com/visegrad24/status/1728249949140427215",
+		"post_id":	"1728249949140427215",
+		"post_username":	"visegrad24",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-25"
+		},
+		{
+		"item_id":	"ky7er9ovqb",
+		"post_link":	"https://twitter.com/AvivaKlompas/status/1728091179110068258",
+		"post_id":	"1728091179110068258",
+		"post_username":	"AvivaKlompas",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-25"
+		},
 		{
 		"item_id":	"io00fac4ei",
 		"post_link":	"https://twitter.com/PiersUncensored/status/1727810756794536382",
