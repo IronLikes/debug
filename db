@@ -2,9 +2,49 @@
 "warning_text":	"No permissions to get total amount.",
 "records": 
 	{
-	"items_per_page":	7320,
+	"items_per_page":	7324,
 	"page":	1,
 	"items": [
+		{
+		"item_id":	"9487ym6xbe",
+		"post_link":	"https://www.instagram.com/reel/C0AScrptMVF",
+		"post_id":	"C0AScrptMVF",
+		"post_username":	"mosab_hassanyousef",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-25"
+		},
+		{
+		"item_id":	"zxof0b3c7l",
+		"post_link":	"https://www.instagram.com/reel/C0CeUbOp3b6",
+		"post_id":	"C0CeUbOp3b6",
+		"post_username":	"charliekirk1776",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-25"
+		},
+		{
+		"item_id":	"6tqqur1toq",
+		"post_link":	"https://twitter.com/asaf_ko/status/1728198148982731122",
+		"post_id":	"1728198148982731122",
+		"post_username":	"asaf_ko",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-25"
+		},
+		{
+		"item_id":	"69t2avg34v",
+		"post_link":	"https://twitter.com/Daniel_Brenner/status/1728044575137075495",
+		"post_id":	"1728044575137075495",
+		"post_username":	"Daniel_Brenner",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-25"
+		},
 		{
 		"item_id":	"qt4bzoyk37",
 		"post_link":	"https://www.instagram.com/reel/C0COceZtsfx",
