@@ -2,9 +2,139 @@
 "warning_text":	"No permissions to get total amount.",
 "records": 
 	{
-	"items_per_page":	7376,
+	"items_per_page":	7389,
 	"page":	1,
 	"items": [
+		{
+		"item_id":	"xhn8c4ecmh",
+		"post_link":	"https://twitter.com/StopAntisemites/status/1728445382122746229",
+		"post_id":	"1728445382122746229",
+		"post_username":	"StopAntisemites",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-25"
+		},
+		{
+		"item_id":	"g39uc3yxt6",
+		"post_link":	"https://twitter.com/IsraelRussian/status/1728431668300812585",
+		"post_id":	"1728431668300812585",
+		"post_username":	"IsraelRussian",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-25"
+		},
+		{
+		"item_id":	"gz7qnvuq6r",
+		"post_link":	"https://www.instagram.com/reel/C0EygPnrzey",
+		"post_id":	"C0EygPnrzey",
+		"post_username":	"drsheilanazarian",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-25"
+		},
+		{
+		"item_id":	"vlf272zy3i",
+		"post_link":	"https://twitter.com/leekern13/status/1728275223664005131",
+		"post_id":	"1728275223664005131",
+		"post_username":	"leekern13",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-25"
+		},
+		{
+		"item_id":	"8l513oabtt",
+		"post_link":	"https://www.instagram.com/p/C0Eoj4bLJ5S",
+		"post_id":	"C0Eoj4bLJ5S",
+		"post_username":	"natasharaquel",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-25"
+		},
+		{
+		"item_id":	"0nyouhl8dg",
+		"post_link":	"https://twitter.com/Israel/status/1728349793037214054",
+		"post_id":	"1728349793037214054",
+		"post_username":	"Israel",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-25"
+		},
+		{
+		"item_id":	"6paes6b5j0",
+		"post_link":	"https://twitter.com/AvniItamar/status/1727774523687112783",
+		"post_id":	"1727774523687112783",
+		"post_username":	"AvniItamar",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-25"
+		},
+		{
+		"item_id":	"6dn3pb55rt",
+		"post_link":	"https://twitter.com/AdlerJoelle/status/1727922240417648833",
+		"post_id":	"1727922240417648833",
+		"post_username":	"AdlerJoelle",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-25"
+		},
+		{
+		"item_id":	"sc3h65afy9",
+		"post_link":	"https://www.instagram.com/p/C0DlaGcNccQ",
+		"post_id":	"C0DlaGcNccQ",
+		"post_username":	"evebarlow",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-25"
+		},
+		{
+		"item_id":	"a0h15hdkjv",
+		"post_link":	"https://www.instagram.com/p/C0Cf5cALvMc",
+		"post_id":	"C0Cf5cALvMc",
+		"post_username":	"ritchietorresny15",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-25"
+		},
+		{
+		"item_id":	"073urkghu8",
+		"post_link":	"https://www.instagram.com/p/C0DKS1iLeah",
+		"post_id":	"C0DKS1iLeah",
+		"post_username":	"secular_democratic_middle_east",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-25"
+		},
+		{
+		"item_id":	"l2ozdx8z4p",
+		"post_link":	"https://www.instagram.com/p/C0Dbr2ZxIU0",
+		"post_id":	"C0Dbr2ZxIU0",
+		"post_username":	"thesisterhood.official",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-25"
+		},
+		{
+		"item_id":	"7ewgdvhhia",
+		"post_link":	"https://twitter.com/Vanehites/status/1728453079127728383",
+		"post_id":	"1728453079127728383",
+		"post_username":	"Vanehites",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-25"
+		},
 		{
 		"item_id":	"46u17givlw",
 		"post_link":	"https://twitter.com/Israel/status/1728395061023420429",
