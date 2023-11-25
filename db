@@ -2,9 +2,39 @@
 "warning_text":	"No permissions to get total amount.",
 "records": 
 	{
-	"items_per_page":	7336,
+	"items_per_page":	7339,
 	"page":	1,
 	"items": [
+		{
+		"item_id":	"io00fac4ei",
+		"post_link":	"https://twitter.com/PiersUncensored/status/1727810756794536382",
+		"post_id":	"1727810756794536382",
+		"post_username":	"PiersUncensored",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-25"
+		},
+		{
+		"item_id":	"nk13iryi6a",
+		"post_link":	"https://twitter.com/truthandfiction/status/1728085524835889356",
+		"post_id":	"1728085524835889356",
+		"post_username":	"truthandfiction",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-25"
+		},
+		{
+		"item_id":	"1jubw9ek6m",
+		"post_link":	"https://www.instagram.com/reel/C0CovIFIsft",
+		"post_id":	"C0CovIFIsft",
+		"post_username":	"push.il",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-25"
+		},
 		{
 		"item_id":	"792fxgp0lf",
 		"post_link":	"https://www.instagram.com/reel/C0CsIkuPw4o",
