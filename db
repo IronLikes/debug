@@ -2,9 +2,69 @@
 "warning_text":	"No permissions to get total amount.",
 "records": 
 	{
-	"items_per_page":	7348,
+	"items_per_page":	7354,
 	"page":	1,
 	"items": [
+		{
+		"item_id":	"s7525438yl",
+		"post_link":	"https://twitter.com/noatishby/status/1728146206746939810",
+		"post_id":	"1728146206746939810",
+		"post_username":	"noatishby",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-25"
+		},
+		{
+		"item_id":	"jcravdo80w",
+		"post_link":	"https://twitter.com/LisaStadelbauer/status/1728021225270562971",
+		"post_id":	"1728021225270562971",
+		"post_username":	"LisaStadelbauer",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-25"
+		},
+		{
+		"item_id":	"3fr3kvdj1f",
+		"post_link":	"https://www.instagram.com/p/C0DjLhpNToY",
+		"post_id":	"C0DjLhpNToY",
+		"post_username":	"coolguypaulfaust",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-25"
+		},
+		{
+		"item_id":	"swcutmc114",
+		"post_link":	"https://www.instagram.com/reel/C0ClRQ7P1Gt",
+		"post_id":	"C0ClRQ7P1Gt",
+		"post_username":	"drsheilanazarian",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-25"
+		},
+		{
+		"item_id":	"bqrt4xkv0w",
+		"post_link":	"https://twitter.com/LDNVictimsComm/status/1728336571705823461",
+		"post_id":	"1728336571705823461",
+		"post_username":	"LDNVictimsComm",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-25"
+		},
+		{
+		"item_id":	"pvs7i85izk",
+		"post_link":	"https://www.instagram.com/reel/C0D3CEECztR",
+		"post_id":	"C0D3CEECztR",
+		"post_username":	"miatalias",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-25"
+		},
 		{
 		"item_id":	"nsbuie3w5t",
 		"post_link":	"https://www.instagram.com/p/C0C2rmbtRQg",
