@@ -2,9 +2,69 @@
 "warning_text":	"No permissions to get total amount.",
 "records": 
 	{
-	"items_per_page":	7312,
+	"items_per_page":	7318,
 	"page":	1,
 	"items": [
+		{
+		"item_id":	"01zahef293",
+		"post_link":	"https://twitter.com/rich_goldberg/status/1728155850395496616",
+		"post_id":	"1728155850395496616",
+		"post_username":	"rich_goldberg",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-25"
+		},
+		{
+		"item_id":	"i973ltvioh",
+		"post_link":	"https://www.instagram.com/reel/C0Bb3k6oaFu",
+		"post_id":	"C0Bb3k6oaFu",
+		"post_username":	"mayan2495",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-25"
+		},
+		{
+		"item_id":	"j28cfcd0ek",
+		"post_link":	"https://twitter.com/yashar/status/1728156216046633118",
+		"post_id":	"1728156216046633118",
+		"post_username":	"yashar",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-25"
+		},
+		{
+		"item_id":	"kf9v50he55",
+		"post_link":	"https://twitter.com/Michael_Wgd/status/1728179464041840859",
+		"post_id":	"1728179464041840859",
+		"post_username":	"Michael_Wgd",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-25"
+		},
+		{
+		"item_id":	"oceti04c1k",
+		"post_link":	"https://twitter.com/AvivaKlompas/status/1728180681975501165",
+		"post_id":	"1728180681975501165",
+		"post_username":	"AvivaKlompas",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-25"
+		},
+		{
+		"item_id":	"jxhh5fwn55",
+		"post_link":	"https://twitter.com/mishtal/status/1728192434755305923",
+		"post_id":	"1728192434755305923",
+		"post_username":	"mishtal",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-25"
+		},
 		{
 		"item_id":	"pijymmo0nv",
 		"post_link":	"https://twitter.com/Ostrov_A/status/1728162069122297896",
