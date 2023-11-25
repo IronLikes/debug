@@ -2,9 +2,59 @@
 "warning_text":	"No permissions to get total amount.",
 "records": 
 	{
-	"items_per_page":	7401,
+	"items_per_page":	7406,
 	"page":	1,
 	"items": [
+		{
+		"item_id":	"lqkl2ky8vf",
+		"post_link":	"https://www.instagram.com/reel/C0FRvSiII1x",
+		"post_id":	"C0FRvSiII1x",
+		"post_username":	"visit2israel",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-25"
+		},
+		{
+		"item_id":	"6zs8go15ow",
+		"post_link":	"https://www.instagram.com/p/C0FSyeWIDVX",
+		"post_id":	"C0FSyeWIDVX",
+		"post_username":	"visit2israel",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-25"
+		},
+		{
+		"item_id":	"hm4r19pt4i",
+		"post_link":	"https://twitter.com/geertwilderspvv/status/1728483218297417754",
+		"post_id":	"1728483218297417754",
+		"post_username":	"geertwilderspvv",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-25"
+		},
+		{
+		"item_id":	"eyll51i7ji",
+		"post_link":	"https://twitter.com/ZechariahSharab/status/1728505354571616527",
+		"post_id":	"1728505354571616527",
+		"post_username":	"ZechariahSharab",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-25"
+		},
+		{
+		"item_id":	"6mdl7m0btc",
+		"post_link":	"https://www.instagram.com/reel/C0FR8SNtXCD",
+		"post_id":	"C0FR8SNtXCD",
+		"post_username":	"natalydadon",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-25"
+		},
 		{
 		"item_id":	"7ti2fmm449",
 		"post_link":	"https://twitter.com/EllaTravelsLove/status/1728459692756566495",
