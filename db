@@ -2,9 +2,79 @@
 "warning_text":	"No permissions to get total amount.",
 "records": 
 	{
-	"items_per_page":	7391,
+	"items_per_page":	7398,
 	"page":	1,
 	"items": [
+		{
+		"item_id":	"l8umeyde45",
+		"post_link":	"https://twitter.com/TheMossadIL/status/1728458312977432994",
+		"post_id":	"1728458312977432994",
+		"post_username":	"TheMossadIL",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-25"
+		},
+		{
+		"item_id":	"7an78yuf0x",
+		"post_link":	"https://twitter.com/night_watcher_B/status/1728483904733012051",
+		"post_id":	"1728483904733012051",
+		"post_username":	"night_watcher_B",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-25"
+		},
+		{
+		"item_id":	"km6nti8slf",
+		"post_link":	"https://twitter.com/TheMossadIL/status/1728481681483710801",
+		"post_id":	"1728481681483710801",
+		"post_username":	"TheMossadIL",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-25"
+		},
+		{
+		"item_id":	"53gpsj2dw2",
+		"post_link":	"https://twitter.com/ArutzSheva_En/status/1728480562166313264",
+		"post_id":	"1728480562166313264",
+		"post_username":	"ArutzSheva_En",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-25"
+		},
+		{
+		"item_id":	"lnclik19ru",
+		"post_link":	"https://www.instagram.com/reel/C0C0za5ySQD",
+		"post_id":	"C0C0za5ySQD",
+		"post_username":	"sarahidan",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-25"
+		},
+		{
+		"item_id":	"3wqbin4z1g",
+		"post_link":	"https://twitter.com/AvivaKlompas/status/1728424519021502757",
+		"post_id":	"1728424519021502757",
+		"post_username":	"AvivaKlompas",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-25"
+		},
+		{
+		"item_id":	"d8wqr0b8wm",
+		"post_link":	"https://twitter.com/comjudiachile/status/1728479437555916869",
+		"post_id":	"1728479437555916869",
+		"post_username":	"comjudiachile",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-25"
+		},
 		{
 		"item_id":	"mezt51k8th",
 		"post_link":	"https://twitter.com/LizaRosen0000/status/1728456267356614966",
