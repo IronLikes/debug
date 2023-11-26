@@ -2,9 +2,159 @@
 "warning_text":	"No permissions to get total amount.",
 "records": 
 	{
-	"items_per_page":	7462,
+	"items_per_page":	7477,
 	"page":	1,
 	"items": [
+		{
+		"item_id":	"1l9k55vz2r",
+		"post_link":	"https://twitter.com/Ostrov_A/status/1728608964902899749",
+		"post_id":	"1728608964902899749",
+		"post_username":	"Ostrov_A",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-26"
+		},
+		{
+		"item_id":	"jaqmduh6e9",
+		"post_link":	"https://twitter.com/Israelkicksass/status/1728630794825183665",
+		"post_id":	"1728630794825183665",
+		"post_username":	"Israelkicksass",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-26"
+		},
+		{
+		"item_id":	"f2iy6jy1nd",
+		"post_link":	"https://twitter.com/leekern13/status/1728644999309623759",
+		"post_id":	"1728644999309623759",
+		"post_username":	"leekern13",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-26"
+		},
+		{
+		"item_id":	"kko1tfuuip",
+		"post_link":	"https://twitter.com/AvivaKlompas/status/1728612211096965236",
+		"post_id":	"1728612211096965236",
+		"post_username":	"AvivaKlompas",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-26"
+		},
+		{
+		"item_id":	"xat3hg4a6o",
+		"post_link":	"https://twitter.com/HenMazzig/status/1728561454054363496",
+		"post_id":	"1728561454054363496",
+		"post_username":	"HenMazzig",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-26"
+		},
+		{
+		"item_id":	"zb5qc3iwj8",
+		"post_link":	"https://twitter.com/MarinaMedvin/status/1728585492524945651",
+		"post_id":	"1728585492524945651",
+		"post_username":	"MarinaMedvin",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-26"
+		},
+		{
+		"item_id":	"d3ag9w6v29",
+		"post_link":	"https://twitter.com/AvivaKlompas/status/1728527817191883084",
+		"post_id":	"1728527817191883084",
+		"post_username":	"AvivaKlompas",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-26"
+		},
+		{
+		"item_id":	"akz5djzrqo",
+		"post_link":	"https://twitter.com/AGHamilton29/status/1728605388281622641",
+		"post_id":	"1728605388281622641",
+		"post_username":	"AGHamilton29",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-26"
+		},
+		{
+		"item_id":	"dnb6yhfkzr",
+		"post_link":	"https://twitter.com/visegrad24/status/1728568628755173715",
+		"post_id":	"1728568628755173715",
+		"post_username":	"visegrad24",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-26"
+		},
+		{
+		"item_id":	"m4sd2npdyo",
+		"post_link":	"https://twitter.com/NoaMagid/status/1728564206713151985",
+		"post_id":	"1728564206713151985",
+		"post_username":	"NoaMagid",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-26"
+		},
+		{
+		"item_id":	"d4bw438dn8",
+		"post_link":	"https://www.instagram.com/reel/C0Ffwoft3Te",
+		"post_id":	"C0Ffwoft3Te",
+		"post_username":	"eylonalevy",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-26"
+		},
+		{
+		"item_id":	"ysco6yro8k",
+		"post_link":	"https://twitter.com/AlnaouqA/status/1728586500932313280",
+		"post_id":	"1728586500932313280",
+		"post_username":	"AlnaouqA",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-26"
+		},
+		{
+		"item_id":	"cwpvcw9iqn",
+		"post_link":	"https://www.instagram.com/reel/C0GTRyaoYwm",
+		"post_id":	"C0GTRyaoYwm",
+		"post_username":	"yosephhaddad",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-26"
+		},
+		{
+		"item_id":	"v3ijg1oucf",
+		"post_link":	"https://www.instagram.com/p/C0GTdcANVQh",
+		"post_id":	"C0GTdcANVQh",
+		"post_username":	"eylonalevy",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-26"
+		},
+		{
+		"item_id":	"c10g3xer0v",
+		"post_link":	"https://twitter.com/ShirionOrg/status/1728615275203899612",
+		"post_id":	"1728615275203899612",
+		"post_username":	"ShirionOrg",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-26"
+		},
 		{
 		"item_id":	"cn676qcrqz",
 		"post_link":	"https://twitter.com/OliLondonTV/status/1728223124938698757",
