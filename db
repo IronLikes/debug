@@ -2,9 +2,159 @@
 "warning_text":	"No permissions to get total amount.",
 "records": 
 	{
-	"items_per_page":	7683,
+	"items_per_page":	7698,
 	"page":	1,
 	"items": [
+		{
+		"item_id":	"i7fbzbqqyq",
+		"post_link":	"https://www.instagram.com/reel/C0GcSsFICKY",
+		"post_id":	"C0GcSsFICKY",
+		"post_username":	"magazine_food",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-26"
+		},
+		{
+		"item_id":	"fltqbuvyry",
+		"post_link":	"https://twitter.com/MagiOtsri/status/1728729212285293047",
+		"post_id":	"1728729212285293047",
+		"post_username":	"MagiOtsri",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-26"
+		},
+		{
+		"item_id":	"78wnys3qob",
+		"post_link":	"https://www.instagram.com/reel/C0H5cxbIPhq",
+		"post_id":	"C0H5cxbIPhq",
+		"post_username":	"shirliyalon7",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-26"
+		},
+		{
+		"item_id":	"v9yjpof71z",
+		"post_link":	"https://www.instagram.com/p/C0HlcU7rHPn",
+		"post_id":	"C0HlcU7rHPn",
+		"post_username":	"uricohn",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-26"
+		},
+		{
+		"item_id":	"4d7yvtyt4j",
+		"post_link":	"https://www.instagram.com/reel/C0HVjcVNqli",
+		"post_id":	"C0HVjcVNqli",
+		"post_username":	"mybeautifullandofisrael",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-26"
+		},
+		{
+		"item_id":	"g59tplxtyu",
+		"post_link":	"https://www.instagram.com/reel/C0F5UvwNOFG",
+		"post_id":	"C0F5UvwNOFG",
+		"post_username":	"jewishfactsdaily",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-26"
+		},
+		{
+		"item_id":	"6kjul4gr7h",
+		"post_link":	"https://www.instagram.com/reel/C0H2tHwIkOZ",
+		"post_id":	"C0H2tHwIkOZ",
+		"post_username":	"svetlankaziskin",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-26"
+		},
+		{
+		"item_id":	"fqptybhnuc",
+		"post_link":	"https://www.instagram.com/reel/C0HqBrItX8a",
+		"post_id":	"C0HqBrItX8a",
+		"post_username":	"visionarycode",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-26"
+		},
+		{
+		"item_id":	"5030hpdg1m",
+		"post_link":	"https://www.instagram.com/reel/C0EyD2sNo9l",
+		"post_id":	"C0EyD2sNo9l",
+		"post_username":	"mindsetofpotential",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-26"
+		},
+		{
+		"item_id":	"m3to7gkrmv",
+		"post_link":	"https://www.instagram.com/reel/C0DfB50tZgo",
+		"post_id":	"C0DfB50tZgo",
+		"post_username":	"therealzvi",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-26"
+		},
+		{
+		"item_id":	"lnyhrdq5n9",
+		"post_link":	"https://www.instagram.com/reel/C0HSZkyrEPP",
+		"post_id":	"C0HSZkyrEPP",
+		"post_username":	"shannisuissa",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-26"
+		},
+		{
+		"item_id":	"xrfhqd91r4",
+		"post_link":	"https://www.instagram.com/reel/C0HwHAWsad7",
+		"post_id":	"C0HwHAWsad7",
+		"post_username":	"acom.es",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-26"
+		},
+		{
+		"item_id":	"c09evi6fed",
+		"post_link":	"https://www.instagram.com/p/C0GCC2rNt0v",
+		"post_id":	"C0GCC2rNt0v",
+		"post_username":	"kosherguru",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-26"
+		},
+		{
+		"item_id":	"91z5h54d8r",
+		"post_link":	"https://www.instagram.com/reel/C0HmYQILzcU",
+		"post_id":	"C0HmYQILzcU",
+		"post_username":	"jewishlivesmatter",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-26"
+		},
+		{
+		"item_id":	"2lteqti767",
+		"post_link":	"https://www.instagram.com/p/C0H7cQHN48x",
+		"post_id":	"C0H7cQHN48x",
+		"post_username":	"jewishbreakingnews",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-26"
+		},
 		{
 		"item_id":	"orf9oynpj2",
 		"post_link":	"https://www.instagram.com/reel/C0EZlYxoXnp",
