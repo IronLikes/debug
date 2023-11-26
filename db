@@ -2,9 +2,39 @@
 "warning_text":	"No permissions to get total amount.",
 "records": 
 	{
-	"items_per_page":	7477,
+	"items_per_page":	7480,
 	"page":	1,
 	"items": [
+		{
+		"item_id":	"hv278euho5",
+		"post_link":	"https://twitter.com/DrEliDavid/status/1728518870204379587",
+		"post_id":	"1728518870204379587",
+		"post_username":	"DrEliDavid",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-26"
+		},
+		{
+		"item_id":	"7cyipfk5zw",
+		"post_link":	"https://twitter.com/visegrad24/status/1728518034397319640",
+		"post_id":	"1728518034397319640",
+		"post_username":	"visegrad24",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-26"
+		},
+		{
+		"item_id":	"z8uogcat0g",
+		"post_link":	"https://twitter.com/EllaTravelsLove/status/1728448391733018833",
+		"post_id":	"1728448391733018833",
+		"post_username":	"EllaTravelsLove",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-26"
+		},
 		{
 		"item_id":	"1l9k55vz2r",
 		"post_link":	"https://twitter.com/Ostrov_A/status/1728608964902899749",
