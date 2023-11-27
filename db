@@ -2,9 +2,219 @@
 "warning_text":	"No permissions to get total amount.",
 "records": 
 	{
-	"items_per_page":	7877,
+	"items_per_page":	7898,
 	"page":	1,
 	"items": [
+		{
+		"item_id":	"i7nq7b9oni",
+		"post_link":	"/YosephHaddad/status/1728871491855679916",
+		"post_id":	"1728871491855679916",
+		"post_username":	"YosephHaddad",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-27"
+		},
+		{
+		"item_id":	"vme0cze92g",
+		"post_link":	"/YosephHaddad/status/1728873150186971410",
+		"post_id":	"1728873150186971410",
+		"post_username":	"YosephHaddad",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-27"
+		},
+		{
+		"item_id":	"naiuk54a7i",
+		"post_link":	"/YosephHaddad/status/1729019799114776880",
+		"post_id":	"1729019799114776880",
+		"post_username":	"YosephHaddad",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-27"
+		},
+		{
+		"item_id":	"5r4yi672xj",
+		"post_link":	"/YosephHaddad/status/1729065816644366640",
+		"post_id":	"1729065816644366640",
+		"post_username":	"YosephHaddad",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-27"
+		},
+		{
+		"item_id":	"kjzcu1nf4v",
+		"post_link":	"/YosephHaddad/status/1729072481938309349",
+		"post_id":	"1729072481938309349",
+		"post_username":	"YosephHaddad",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-27"
+		},
+		{
+		"item_id":	"1dwcm5c6fl",
+		"post_link":	"/YosephHaddad/status/1729104195175981523",
+		"post_id":	"1729104195175981523",
+		"post_username":	"YosephHaddad",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-27"
+		},
+		{
+		"item_id":	"n7wln7eb5a",
+		"post_link":	"/YosephHaddad/status/1729104643924664659",
+		"post_id":	"1729104643924664659",
+		"post_username":	"YosephHaddad",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-27"
+		},
+		{
+		"item_id":	"ucv16njyvc",
+		"post_link":	"/YosephHaddad/status/1729105360693403765",
+		"post_id":	"1729105360693403765",
+		"post_username":	"YosephHaddad",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-27"
+		},
+		{
+		"item_id":	"x2gaqstrqk",
+		"post_link":	"/YosephHaddad/status/1729165813918158883",
+		"post_id":	"1729165813918158883",
+		"post_username":	"YosephHaddad",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-27"
+		},
+		{
+		"item_id":	"207dsncfmr",
+		"post_link":	"/YosephHaddad/status/1729166890017456318",
+		"post_id":	"1729166890017456318",
+		"post_username":	"YosephHaddad",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-27"
+		},
+		{
+		"item_id":	"imnse4rni0",
+		"post_link":	"/YosephHaddad/status/1728827013728018747",
+		"post_id":	"1728827013728018747",
+		"post_username":	"YosephHaddad",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-27"
+		},
+		{
+		"item_id":	"s13a19y5k8",
+		"post_link":	"https://www.instagram.com/reel/C0JOa6UoG7c",
+		"post_id":	"C0JOa6UoG7c",
+		"post_username":	"wein.t",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-27"
+		},
+		{
+		"item_id":	"9u46rwvri4",
+		"post_link":	"https://www.instagram.com/p/C0JyQ9NN1OW",
+		"post_id":	"C0JyQ9NN1OW",
+		"post_username":	"jeremy.dery",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-27"
+		},
+		{
+		"item_id":	"hsiry1wlow",
+		"post_link":	"https://www.instagram.com/reel/C0J4PR6ISwq",
+		"post_id":	"C0J4PR6ISwq",
+		"post_username":	"selenaryan",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-27"
+		},
+		{
+		"item_id":	"w1lfko4iuu",
+		"post_link":	"https://www.instagram.com/p/C0HAyprtWc8",
+		"post_id":	"C0HAyprtWc8",
+		"post_username":	"gpoisrael",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-27"
+		},
+		{
+		"item_id":	"bus6wliurn",
+		"post_link":	"https://www.instagram.com/reel/C0J9HRPuxak",
+		"post_id":	"C0J9HRPuxak",
+		"post_username":	"lizzysavetsky",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-27"
+		},
+		{
+		"item_id":	"pz9yulcgej",
+		"post_link":	"https://www.instagram.com/reel/C0J7p2kIZvZ",
+		"post_id":	"C0J7p2kIZvZ",
+		"post_username":	"powerisraelofficial",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-27"
+		},
+		{
+		"item_id":	"j1xrzk22w7",
+		"post_link":	"https://www.instagram.com/p/C0J8hq_oD6H",
+		"post_id":	"C0J8hq_oD6H",
+		"post_username":	"yosephhaddad",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-27"
+		},
+		{
+		"item_id":	"dh93rmhjdp",
+		"post_link":	"https://www.instagram.com/p/C0HZ3QoLIcZ",
+		"post_id":	"C0HZ3QoLIcZ",
+		"post_username":	"kiddushclubpodcast",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-27"
+		},
+		{
+		"item_id":	"h60hhbesey",
+		"post_link":	"https://www.instagram.com/p/C0JCV05rl-H",
+		"post_id":	"C0JCV05rl-H",
+		"post_username":	"benmfreeman",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-27"
+		},
+		{
+		"item_id":	"jaabvg67t5",
+		"post_link":	"/Israel/status/1729044945347264611",
+		"post_id":	"1729044945347264611",
+		"post_username":	"Israel",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-27"
+		},
 		{
 		"item_id":	"pb3jzx34up",
 		"post_link":	"https://twitter.com/c_cassab/status/1729146490961183200",
