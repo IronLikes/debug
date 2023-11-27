@@ -2,9 +2,69 @@
 "warning_text":	"No permissions to get total amount.",
 "records": 
 	{
-	"items_per_page":	7819,
+	"items_per_page":	7825,
 	"page":	1,
 	"items": [
+		{
+		"item_id":	"uasvj1gra1",
+		"post_link":	"https://twitter.com/EllaTravelsLove/status/1728877982822121474",
+		"post_id":	"1728877982822121474",
+		"post_username":	"EllaTravelsLove",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-27"
+		},
+		{
+		"item_id":	"be9oqhfs7q",
+		"post_link":	"https://twitter.com/nypost/status/1728861271712305524",
+		"post_id":	"1728861271712305524",
+		"post_username":	"nypost",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-27"
+		},
+		{
+		"item_id":	"v9y1lbjy85",
+		"post_link":	"https://twitter.com/JewsAgainstINN/status/1728944744099950641",
+		"post_id":	"1728944744099950641",
+		"post_username":	"JewsAgainstINN",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-27"
+		},
+		{
+		"item_id":	"45q6htbfhr",
+		"post_link":	"https://twitter.com/PhillipInIsrael/status/1728735541082927120",
+		"post_id":	"1728735541082927120",
+		"post_username":	"PhillipInIsrael",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-27"
+		},
+		{
+		"item_id":	"mp86fura7l",
+		"post_link":	"https://www.instagram.com/p/C0HnFv9t0se",
+		"post_id":	"C0HnFv9t0se",
+		"post_username":	"n12news",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-27"
+		},
+		{
+		"item_id":	"qbnd6zvrtf",
+		"post_link":	"https://www.instagram.com/reel/C0G74zboaUH",
+		"post_id":	"C0G74zboaUH",
+		"post_username":	"zvi_yechezkeli",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-27"
+		},
 		{
 		"item_id":	"q2jhby34wh",
 		"post_link":	"https://www.instagram.com/reel/C0HAMcsIKjZ",
