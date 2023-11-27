@@ -2,9 +2,99 @@
 "warning_text":	"No permissions to get total amount.",
 "records": 
 	{
-	"items_per_page":	7980,
+	"items_per_page":	7989,
 	"page":	1,
 	"items": [
+		{
+		"item_id":	"n3foi22q45",
+		"post_link":	"https://www.instagram.com/p/C0Jwgn0NXQ7",
+		"post_id":	"C0Jwgn0NXQ7",
+		"post_username":	"israelnews_detaly",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-28"
+		},
+		{
+		"item_id":	"0z7lwur748",
+		"post_link":	"https://www.instagram.com/reel/C0JpXeutr10",
+		"post_id":	"C0JpXeutr10",
+		"post_username":	"lavidapolitica",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-28"
+		},
+		{
+		"item_id":	"pfdrvzz3ei",
+		"post_link":	"https://www.instagram.com/reel/C0KTitcu65u",
+		"post_id":	"C0KTitcu65u",
+		"post_username":	"idf",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-28"
+		},
+		{
+		"item_id":	"hs34vgfrpo",
+		"post_link":	"https://www.instagram.com/p/C0KGgHYC6GC",
+		"post_id":	"C0KGgHYC6GC",
+		"post_username":	"israelivoice",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-28"
+		},
+		{
+		"item_id":	"nkz7wbal8i",
+		"post_link":	"https://www.instagram.com/reel/C0JZcpTMswT",
+		"post_id":	"C0JZcpTMswT",
+		"post_username":	"mako.il",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-28"
+		},
+		{
+		"item_id":	"fif2593ui5",
+		"post_link":	"https://www.instagram.com/p/C0JsgYQtWOE",
+		"post_id":	"C0JsgYQtWOE",
+		"post_username":	"kasimhafeez22",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-28"
+		},
+		{
+		"item_id":	"17khp6pkcy",
+		"post_link":	"https://www.instagram.com/reel/C0KWG6-vcIJ",
+		"post_id":	"C0KWG6-vcIJ",
+		"post_username":	"standwithus",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-28"
+		},
+		{
+		"item_id":	"s5pn84ntn4",
+		"post_link":	"https://www.instagram.com/reel/C0KBY0nIFg5",
+		"post_id":	"C0KBY0nIFg5",
+		"post_username":	"idf",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-28"
+		},
+		{
+		"item_id":	"7n43r5j9vl",
+		"post_link":	"https://www.instagram.com/reel/C0KL20kIgbi",
+		"post_id":	"C0KL20kIgbi",
+		"post_username":	"einav.avizemer",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-28"
+		},
 		{
 		"item_id":	"5shtlqj93z",
 		"post_link":	"https://www.instagram.com/reel/C0J5w5wo_BI",
