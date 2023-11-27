@@ -2,9 +2,29 @@
 "warning_text":	"No permissions to get total amount.",
 "records": 
 	{
-	"items_per_page":	7825,
+	"items_per_page":	7827,
 	"page":	1,
 	"items": [
+		{
+		"item_id":	"7eoy4q7rwj",
+		"post_link":	"/TheMossadIL/status/1728861606921330771",
+		"post_id":	"1728861606921330771",
+		"post_username":	"TheMossadIL",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-27"
+		},
+		{
+		"item_id":	"mhdqxcjebe",
+		"post_link":	"/FadelSoliman/status/1728796648380240050",
+		"post_id":	"1728796648380240050",
+		"post_username":	"FadelSoliman",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-27"
+		},
 		{
 		"item_id":	"uasvj1gra1",
 		"post_link":	"https://twitter.com/EllaTravelsLove/status/1728877982822121474",
