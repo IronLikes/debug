@@ -2,9 +2,109 @@
 "warning_text":	"No permissions to get total amount.",
 "records": 
 	{
-	"items_per_page":	7867,
+	"items_per_page":	7877,
 	"page":	1,
 	"items": [
+		{
+		"item_id":	"pb3jzx34up",
+		"post_link":	"https://twitter.com/c_cassab/status/1729146490961183200",
+		"post_id":	"1729146490961183200",
+		"post_username":	"c_cassab",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-27"
+		},
+		{
+		"item_id":	"esuk4au09d",
+		"post_link":	"https://www.instagram.com/p/C0JviClN7KA",
+		"post_id":	"C0JviClN7KA",
+		"post_username":	"jon_elk",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-27"
+		},
+		{
+		"item_id":	"y9d28136ob",
+		"post_link":	"https://www.instagram.com/p/C0JjaexsV4y",
+		"post_id":	"C0JjaexsV4y",
+		"post_username":	"acom.es",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-27"
+		},
+		{
+		"item_id":	"x4wt91lmmn",
+		"post_link":	"https://www.instagram.com/p/C0JQJCAt4cD",
+		"post_id":	"C0JQJCAt4cD",
+		"post_username":	"jewishbreakingnews",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-27"
+		},
+		{
+		"item_id":	"2efhk1af9l",
+		"post_link":	"https://www.instagram.com/reel/C0JTrVstehy",
+		"post_id":	"C0JTrVstehy",
+		"post_username":	"legardaion",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-27"
+		},
+		{
+		"item_id":	"uh5v4rf68h",
+		"post_link":	"https://www.instagram.com/p/C0JrlUSIOKH",
+		"post_id":	"C0JrlUSIOKH",
+		"post_username":	"israel_bidur",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-27"
+		},
+		{
+		"item_id":	"i6bjxqc2wh",
+		"post_link":	"https://www.instagram.com/reel/C0J0Cv5t6NS",
+		"post_id":	"C0J0Cv5t6NS",
+		"post_username":	"standwithus",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-27"
+		},
+		{
+		"item_id":	"ckn3faxg7x",
+		"post_link":	"https://www.instagram.com/reel/C0JmtpguGSV",
+		"post_id":	"C0JmtpguGSV",
+		"post_username":	"jacquelinefornyc",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-27"
+		},
+		{
+		"item_id":	"sbieh09pkd",
+		"post_link":	"https://www.instagram.com/p/C0IAARMLBo2",
+		"post_id":	"C0IAARMLBo2",
+		"post_username":	"ajewishresistance",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-27"
+		},
+		{
+		"item_id":	"70ktl14hsr",
+		"post_link":	"https://www.instagram.com/reel/C0Jk3dRt8wl",
+		"post_id":	"C0Jk3dRt8wl",
+		"post_username":	"semion",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-27"
+		},
 		{
 		"item_id":	"9h3glfke0j",
 		"post_link":	"https://www.instagram.com/reel/C0JgJUPolr9",
