@@ -2,9 +2,109 @@
 "warning_text":	"No permissions to get total amount.",
 "records": 
 	{
-	"items_per_page":	7857,
+	"items_per_page":	7867,
 	"page":	1,
 	"items": [
+		{
+		"item_id":	"9h3glfke0j",
+		"post_link":	"https://www.instagram.com/reel/C0JgJUPolr9",
+		"post_id":	"C0JgJUPolr9",
+		"post_username":	"travel_with_dafna",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-27"
+		},
+		{
+		"item_id":	"vf8vc6yhk8",
+		"post_link":	"https://twitter.com/aschapire/status/1729070102266712518",
+		"post_id":	"1729070102266712518",
+		"post_username":	"aschapire",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-27"
+		},
+		{
+		"item_id":	"01ljjq6spv",
+		"post_link":	"https://www.instagram.com/reel/C0Jk-DCobMo",
+		"post_id":	"C0Jk-DCobMo",
+		"post_username":	"isaacherzog",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-27"
+		},
+		{
+		"item_id":	"wds11af7cz",
+		"post_link":	"https://www.instagram.com/p/C0JjBkVIBTl",
+		"post_id":	"C0JjBkVIBTl",
+		"post_username":	"visit2israel",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-27"
+		},
+		{
+		"item_id":	"mdudmnx7mh",
+		"post_link":	"https://www.instagram.com/p/C0Jjl33o4Nt",
+		"post_id":	"C0Jjl33o4Nt",
+		"post_username":	"visit2israel",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-27"
+		},
+		{
+		"item_id":	"9k5ksx5s6u",
+		"post_link":	"https://www.instagram.com/p/C0JKwdiuPvt",
+		"post_id":	"C0JKwdiuPvt",
+		"post_username":	"uricohn",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-27"
+		},
+		{
+		"item_id":	"qrhfc53jna",
+		"post_link":	"https://www.instagram.com/p/C0JxtmLom_0",
+		"post_id":	"C0JxtmLom_0",
+		"post_username":	"louder.israel",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-27"
+		},
+		{
+		"item_id":	"hlzjp1b2u5",
+		"post_link":	"https://www.instagram.com/reel/C0JlEKMoZJr",
+		"post_id":	"C0JlEKMoZJr",
+		"post_username":	"nashi_v_israile",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-27"
+		},
+		{
+		"item_id":	"wjoj6kkp2j",
+		"post_link":	"https://www.instagram.com/reel/C0JqcVhstpC",
+		"post_id":	"C0JqcVhstpC",
+		"post_username":	"jewishnewsuk",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-27"
+		},
+		{
+		"item_id":	"iwbvjsn2i9",
+		"post_link":	"https://www.instagram.com/reel/C0I3Z5PoH0S",
+		"post_id":	"C0I3Z5PoH0S",
+		"post_username":	"ann.gelov_bridal",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-27"
+		},
 		{
 		"item_id":	"tuy1d0pxxr",
 		"post_link":	"https://www.instagram.com/reel/C0HxIPioQN2",
