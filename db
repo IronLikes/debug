@@ -2,9 +2,39 @@
 "warning_text":	"No permissions to get total amount.",
 "records": 
 	{
-	"items_per_page":	7709,
+	"items_per_page":	7712,
 	"page":	1,
 	"items": [
+		{
+		"item_id":	"87y032hg4u",
+		"post_link":	"https://twitter.com/DNewsOK/status/1728783590538846321",
+		"post_id":	"1728783590538846321",
+		"post_username":	"DNewsOK",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-27"
+		},
+		{
+		"item_id":	"95fw24092y",
+		"post_link":	"https://twitter.com/AgenciaAJN/status/1728914193531670988",
+		"post_id":	"1728914193531670988",
+		"post_username":	"AgenciaAJN",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-27"
+		},
+		{
+		"item_id":	"bati0gwo6y",
+		"post_link":	"https://www.instagram.com/reel/C0H9a4iIZrY",
+		"post_id":	"C0H9a4iIZrY",
+		"post_username":	"visit2israel",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-27"
+		},
 		{
 		"item_id":	"3lo9vp7ige",
 		"post_link":	"https://www.instagram.com/p/C0Ff7B6rYSI",
