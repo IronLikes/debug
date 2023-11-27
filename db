@@ -2,9 +2,79 @@
 "warning_text":	"No permissions to get total amount.",
 "records": 
 	{
-	"items_per_page":	7712,
+	"items_per_page":	7719,
 	"page":	1,
 	"items": [
+		{
+		"item_id":	"c0q2z3hbgd",
+		"post_link":	"https://www.instagram.com/p/C0INMqCMDsK",
+		"post_id":	"C0INMqCMDsK",
+		"post_username":	"melissaschapman",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-27"
+		},
+		{
+		"item_id":	"jro71sfrm1",
+		"post_link":	"https://twitter.com/GabrielChocron/status/1728919683737268367",
+		"post_id":	"1728919683737268367",
+		"post_username":	"GabrielChocron",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-27"
+		},
+		{
+		"item_id":	"90hrel7eaf",
+		"post_link":	"https://twitter.com/Daniel_Brenner/status/1728905389767606329",
+		"post_id":	"1728905389767606329",
+		"post_username":	"Daniel_Brenner",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-27"
+		},
+		{
+		"item_id":	"jidmbp6gge",
+		"post_link":	"https://www.instagram.com/reel/C0H14iBoRMe",
+		"post_id":	"C0H14iBoRMe",
+		"post_username":	"svetlankaziskin",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-27"
+		},
+		{
+		"item_id":	"6ozmpg3ayx",
+		"post_link":	"https://www.instagram.com/reel/C0HvUAKIj1Y",
+		"post_id":	"C0HvUAKIj1Y",
+		"post_username":	"svetlankaziskin",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-27"
+		},
+		{
+		"item_id":	"f5jzqtnexw",
+		"post_link":	"https://www.instagram.com/reel/C0HzOr7qnpg",
+		"post_id":	"C0HzOr7qnpg",
+		"post_username":	"stand.with.israel",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-27"
+		},
+		{
+		"item_id":	"t65ocp62wf",
+		"post_link":	"https://www.instagram.com/reel/C0HyMJ3P8-y",
+		"post_id":	"C0HyMJ3P8-y",
+		"post_username":	"drsheilanazarian",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-27"
+		},
 		{
 		"item_id":	"87y032hg4u",
 		"post_link":	"https://twitter.com/DNewsOK/status/1728783590538846321",
