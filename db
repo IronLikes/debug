@@ -2,9 +2,119 @@
 "warning_text":	"No permissions to get total amount.",
 "records": 
 	{
-	"items_per_page":	8104,
+	"items_per_page":	8115,
 	"page":	1,
 	"items": [
+		{
+		"item_id":	"0rfut5c911",
+		"post_link":	"https://www.instagram.com/p/C0MIi8Wo8nP",
+		"post_id":	"C0MIi8Wo8nP",
+		"post_username":	"yosephhaddad",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-28"
+		},
+		{
+		"item_id":	"9qdsqkbrye",
+		"post_link":	"https://www.instagram.com/p/C0IzD-PtLga",
+		"post_id":	"C0IzD-PtLga",
+		"post_username":	"therealzvi",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-28"
+		},
+		{
+		"item_id":	"7u1i96kuby",
+		"post_link":	"https://www.instagram.com/reel/C0LGpLzrgJ1",
+		"post_id":	"C0LGpLzrgJ1",
+		"post_username":	"arabsforpeace",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-28"
+		},
+		{
+		"item_id":	"waghf19buv",
+		"post_link":	"https://www.instagram.com/reel/C0MFrPKrOr2",
+		"post_id":	"C0MFrPKrOr2",
+		"post_username":	"antisemitismtoday",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-28"
+		},
+		{
+		"item_id":	"p30dpojsn8",
+		"post_link":	"https://www.instagram.com/reel/C0KvYSQLCk2",
+		"post_id":	"C0KvYSQLCk2",
+		"post_username":	"koshernews",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-28"
+		},
+		{
+		"item_id":	"3a2b7mxx00",
+		"post_link":	"https://www.instagram.com/reel/C0J80-OI193",
+		"post_id":	"C0J80-OI193",
+		"post_username":	"gilsiegal",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-28"
+		},
+		{
+		"item_id":	"c71ztapkxb",
+		"post_link":	"https://www.instagram.com/reel/C0L2v7_NShL",
+		"post_id":	"C0L2v7_NShL",
+		"post_username":	"mybeautifullandofisrael",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-28"
+		},
+		{
+		"item_id":	"cpwpeptfkn",
+		"post_link":	"https://www.instagram.com/reel/C0MNnr6oEWj",
+		"post_id":	"C0MNnr6oEWj",
+		"post_username":	"mako.il",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-28"
+		},
+		{
+		"item_id":	"gfrkt8el0j",
+		"post_link":	"https://www.instagram.com/reel/C0MLwC-IlkD",
+		"post_id":	"C0MLwC-IlkD",
+		"post_username":	"tikva.international",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-28"
+		},
+		{
+		"item_id":	"da38nkejap",
+		"post_link":	"https://www.instagram.com/reel/C0KGrdaoIEJ",
+		"post_id":	"C0KGrdaoIEJ",
+		"post_username":	"tikva.international",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-28"
+		},
+		{
+		"item_id":	"b08zemk2gg",
+		"post_link":	"https://www.instagram.com/p/C0Joq1II8QH",
+		"post_id":	"C0Joq1II8QH",
+		"post_username":	"millionaire_journey_",
+		"active":	false,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-28"
+		},
 		{
 		"item_id":	"gs4edz22ss",
 		"post_link":	"https://www.instagram.com/reel/C0MBK4Lr2iI",
