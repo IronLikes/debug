@@ -2,9 +2,19 @@
 "warning_text":	"No permissions to get total amount.",
 "records": 
 	{
-	"items_per_page":	8250,
+	"items_per_page":	8251,
 	"page":	1,
 	"items": [
+		{
+		"item_id":	"u87scs8nv0",
+		"post_link":	"/YosephHaddad/status/1729796978756776001",
+		"post_id":	"1729796978756776001",
+		"post_username":	"YosephHaddad",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-29"
+		},
 		{
 		"item_id":	"nplqkijrlt",
 		"post_link":	"https://www.instagram.com/reel/C0Now6vIamW",
