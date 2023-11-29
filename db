@@ -6,13 +6,13 @@
 	"page":	1,
 	"items": [
 		{
-		"item_id":	"u87scs8nv0",
-		"post_link":	"/YosephHaddad/status/1729796978756776001",
+		"item_id":	"p54rs0mfol",
+		"post_link":	"https://twitter.com/YosephHaddad/status/1729796978756776001",
 		"post_id":	"1729796978756776001",
 		"post_username":	"YosephHaddad",
 		"active":	true,
-		"is_favorite":	false,
-		"is_favorite_val":	false,
+		"is_favorite":	true,
+		"is_favorite_val":	true,
 		"date":	"2023-11-29"
 		},
 		{
