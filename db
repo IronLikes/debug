@@ -2,9 +2,169 @@
 "warning_text":	"No permissions to get total amount.",
 "records": 
 	{
-	"items_per_page":	8271,
+	"items_per_page":	8287,
 	"page":	1,
 	"items": [
+		{
+		"item_id":	"r0ci2tucd5",
+		"post_link":	"https://www.instagram.com/reel/C0RR_U2re7g",
+		"post_id":	"C0RR_U2re7g",
+		"post_username":	"natebuzz",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-30"
+		},
+		{
+		"item_id":	"l33m35e2k3",
+		"post_link":	"https://www.instagram.com/p/C0RHHFYCCFI",
+		"post_id":	"C0RHHFYCCFI",
+		"post_username":	"standwithus",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-30"
+		},
+		{
+		"item_id":	"hhz1l0tnot",
+		"post_link":	"https://www.instagram.com/p/C0OzyoFN51u",
+		"post_id":	"C0OzyoFN51u",
+		"post_username":	"eitanchitayat_words",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-30"
+		},
+		{
+		"item_id":	"du9vswefvk",
+		"post_link":	"https://www.instagram.com/reel/C0ROWVJoO3V",
+		"post_id":	"C0ROWVJoO3V",
+		"post_username":	"jewishimpact",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-30"
+		},
+		{
+		"item_id":	"siul62jbya",
+		"post_link":	"https://www.instagram.com/reel/C0RolGdLXct",
+		"post_id":	"C0RolGdLXct",
+		"post_username":	"blueandwhiteisrael",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-30"
+		},
+		{
+		"item_id":	"n5oozg5t03",
+		"post_link":	"https://www.instagram.com/reel/C0RDZZkIknm",
+		"post_id":	"C0RDZZkIknm",
+		"post_username":	"freeourkids_il",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-30"
+		},
+		{
+		"item_id":	"y6bx9tw1pt",
+		"post_link":	"https://www.instagram.com/reel/C0R0dQbonAD",
+		"post_id":	"C0R0dQbonAD",
+		"post_username":	"shiri_elgavish",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-30"
+		},
+		{
+		"item_id":	"f79p3u18a2",
+		"post_link":	"https://www.instagram.com/p/C0RrDfAOwVa",
+		"post_id":	"C0RrDfAOwVa",
+		"post_username":	"buttonslives",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-30"
+		},
+		{
+		"item_id":	"x8svrsr0z5",
+		"post_link":	"https://www.instagram.com/reel/C0R1RZFshFI",
+		"post_id":	"C0R1RZFshFI",
+		"post_username":	"acom.es",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-30"
+		},
+		{
+		"item_id":	"suxf3t0oc3",
+		"post_link":	"https://www.instagram.com/p/C0QobbLO2Ue",
+		"post_id":	"C0QobbLO2Ue",
+		"post_username":	"jewishbreakingnews",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-30"
+		},
+		{
+		"item_id":	"5yeebtrm3t",
+		"post_link":	"https://www.instagram.com/reel/C0PHJVrockG",
+		"post_id":	"C0PHJVrockG",
+		"post_username":	"lucyaharish",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-30"
+		},
+		{
+		"item_id":	"p4spl2iogo",
+		"post_link":	"https://www.instagram.com/reel/C0Q43mCuPIi",
+		"post_id":	"C0Q43mCuPIi",
+		"post_username":	"blackandjewishunity",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-30"
+		},
+		{
+		"item_id":	"nflelu2zaf",
+		"post_link":	"https://www.instagram.com/reel/C0R2D0wIHI-",
+		"post_id":	"C0R2D0wIHI-",
+		"post_username":	"eyalnadav",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-30"
+		},
+		{
+		"item_id":	"czdj2drbzz",
+		"post_link":	"https://www.instagram.com/reel/C0OY7QKIcb_",
+		"post_id":	"C0OY7QKIcb_",
+		"post_username":	"mako.il",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-30"
+		},
+		{
+		"item_id":	"p9no0xszjr",
+		"post_link":	"https://www.instagram.com/p/C0SAirfv3te",
+		"post_id":	"C0SAirfv3te",
+		"post_username":	"standwithusesp",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-30"
+		},
+		{
+		"item_id":	"e4sfa5ykz1",
+		"post_link":	"https://www.instagram.com/reel/C0SAinNIKBT",
+		"post_id":	"C0SAinNIKBT",
+		"post_username":	"svetlankaziskin",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-30"
+		},
 		{
 		"item_id":	"yie4qn5k3z",
 		"post_link":	"https://www.instagram.com/p/C0RwrosLedc",
