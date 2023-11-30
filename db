@@ -2,9 +2,89 @@
 "warning_text":	"No permissions to get total amount.",
 "records": 
 	{
-	"items_per_page":	8263,
+	"items_per_page":	8271,
 	"page":	1,
 	"items": [
+		{
+		"item_id":	"yie4qn5k3z",
+		"post_link":	"https://www.instagram.com/p/C0RwrosLedc",
+		"post_id":	"C0RwrosLedc",
+		"post_username":	"henmazzig",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-30"
+		},
+		{
+		"item_id":	"ctpup1zxzh",
+		"post_link":	"https://www.instagram.com/reel/C0ReXlCLr3I",
+		"post_id":	"C0ReXlCLr3I",
+		"post_username":	"jewishfactsdaily",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-30"
+		},
+		{
+		"item_id":	"3k4p5wgb99",
+		"post_link":	"https://www.instagram.com/p/C0RbWOtttC8",
+		"post_id":	"C0RbWOtttC8",
+		"post_username":	"leekern13",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-30"
+		},
+		{
+		"item_id":	"ih0ixv7chf",
+		"post_link":	"https://www.instagram.com/reel/C0Rvq9xIlnr",
+		"post_id":	"C0Rvq9xIlnr",
+		"post_username":	"liel_eli",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-30"
+		},
+		{
+		"item_id":	"ycnti5gbx2",
+		"post_link":	"https://www.instagram.com/reel/C0Ruen6N3Sb",
+		"post_id":	"C0Ruen6N3Sb",
+		"post_username":	"lahatom",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-30"
+		},
+		{
+		"item_id":	"0xpxs6vtpz",
+		"post_link":	"https://www.instagram.com/reel/C0Rt3EvOpf4",
+		"post_id":	"C0Rt3EvOpf4",
+		"post_username":	"abrahamhamra",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-30"
+		},
+		{
+		"item_id":	"ol6ti6uvi1",
+		"post_link":	"https://www.instagram.com/p/C0PGb2_tRI1",
+		"post_id":	"C0PGb2_tRI1",
+		"post_username":	"israel_from_inside",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-30"
+		},
+		{
+		"item_id":	"k29febfoo7",
+		"post_link":	"https://www.instagram.com/reel/C0R7i33PczV",
+		"post_id":	"C0R7i33PczV",
+		"post_username":	"blackandjewishunity",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-11-30"
+		},
 		{
 		"item_id":	"kzsdr4z1gz",
 		"post_link":	"https://www.instagram.com/reel/C0QaHqhMgHe",
