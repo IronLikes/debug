@@ -2,9 +2,89 @@
 "warning_text":	"No permissions to get total amount.",
 "records": 
 	{
-	"items_per_page":	8788,
+	"items_per_page":	8796,
 	"page":	1,
 	"items": [
+		{
+		"item_id":	"vefi84v1pa",
+		"post_link":	"https://www.instagram.com/reel/C0TWFlCOfE9",
+		"post_id":	"C0TWFlCOfE9",
+		"post_username":	"blackandjewishunity",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-12-01"
+		},
+		{
+		"item_id":	"szc0kegq9b",
+		"post_link":	"https://www.instagram.com/reel/C0T-g1huGSI",
+		"post_id":	"C0T-g1huGSI",
+		"post_username":	"elyseerumeld",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-12-01"
+		},
+		{
+		"item_id":	"hgrezjsi47",
+		"post_link":	"https://www.instagram.com/reel/C0T0sX4uRl8",
+		"post_id":	"C0T0sX4uRl8",
+		"post_username":	"maziourlegislator",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-12-01"
+		},
+		{
+		"item_id":	"qrqs8cp7nb",
+		"post_link":	"https://www.instagram.com/p/C0SPV3_Jws3",
+		"post_id":	"C0SPV3_Jws3",
+		"post_username":	"maziourlegislator",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-12-01"
+		},
+		{
+		"item_id":	"vlhzhnbh9n",
+		"post_link":	"https://www.instagram.com/reel/C0UAHm5tFq4",
+		"post_id":	"C0UAHm5tFq4",
+		"post_username":	"noamsevents",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-12-01"
+		},
+		{
+		"item_id":	"5aoelbyp7k",
+		"post_link":	"https://www.instagram.com/p/C0UgQlPo1ik",
+		"post_id":	"C0UgQlPo1ik",
+		"post_username":	"visit2israel",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-12-01"
+		},
+		{
+		"item_id":	"sgbkoy8s4w",
+		"post_link":	"https://www.instagram.com/p/C0UrT2evzMl",
+		"post_id":	"C0UrT2evzMl",
+		"post_username":	"dr__naama",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-12-01"
+		},
+		{
+		"item_id":	"9hf2234hs9",
+		"post_link":	"https://www.instagram.com/reel/C0UoBKooyCO",
+		"post_id":	"C0UoBKooyCO",
+		"post_username":	"haimetgar1",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-12-01"
+		},
 		{
 		"item_id":	"scny0jpzn7",
 		"post_link":	"https://www.instagram.com/p/C0UEXfZoiHu",
