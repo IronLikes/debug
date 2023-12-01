@@ -2,9 +2,219 @@
 "warning_text":	"No permissions to get total amount.",
 "records": 
 	{
-	"items_per_page":	8767,
+	"items_per_page":	8788,
 	"page":	1,
 	"items": [
+		{
+		"item_id":	"scny0jpzn7",
+		"post_link":	"https://www.instagram.com/p/C0UEXfZoiHu",
+		"post_id":	"C0UEXfZoiHu",
+		"post_username":	"ulla_brand",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-12-01"
+		},
+		{
+		"item_id":	"7htxrwepoi",
+		"post_link":	"https://www.instagram.com/p/C0Ttcfus_u-",
+		"post_id":	"C0Ttcfus_u-",
+		"post_username":	"david_collier_il",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-12-01"
+		},
+		{
+		"item_id":	"cnqyyzpo3x",
+		"post_link":	"https://www.instagram.com/reel/C0UcHdpO8IN",
+		"post_id":	"C0UcHdpO8IN",
+		"post_username":	"ikey_chaz",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-12-01"
+		},
+		{
+		"item_id":	"6bhr8f217q",
+		"post_link":	"https://www.instagram.com/reel/C0T8Ls8sFm1",
+		"post_id":	"C0T8Ls8sFm1",
+		"post_username":	"lilaq_logan98",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-12-01"
+		},
+		{
+		"item_id":	"xuav4ww2fb",
+		"post_link":	"https://www.instagram.com/p/C0UgiWhN733",
+		"post_id":	"C0UgiWhN733",
+		"post_username":	"zionistofarabia",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-12-01"
+		},
+		{
+		"item_id":	"t4wyv2cqr4",
+		"post_link":	"https://www.instagram.com/reel/C0UageWI1r4",
+		"post_id":	"C0UageWI1r4",
+		"post_username":	"millermerav",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-12-01"
+		},
+		{
+		"item_id":	"ik2lz1w6pk",
+		"post_link":	"https://www.instagram.com/p/C0UIzFauoRt",
+		"post_id":	"C0UIzFauoRt",
+		"post_username":	"maccabiusa",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-12-01"
+		},
+		{
+		"item_id":	"30apso09nd",
+		"post_link":	"https://www.instagram.com/reel/C0RfEr8OE1t",
+		"post_id":	"C0RfEr8OE1t",
+		"post_username":	"_otomartinez",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-12-01"
+		},
+		{
+		"item_id":	"6uba3c7mlu",
+		"post_link":	"https://www.instagram.com/reel/C0UY9YuuaP1",
+		"post_id":	"C0UY9YuuaP1",
+		"post_username":	"jewishbreakingnews",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-12-01"
+		},
+		{
+		"item_id":	"10xrtza2od",
+		"post_link":	"https://www.instagram.com/reel/C0QG7dfxEvh",
+		"post_id":	"C0QG7dfxEvh",
+		"post_username":	"didjewknow18",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-12-01"
+		},
+		{
+		"item_id":	"7vlov7qgog",
+		"post_link":	"https://www.instagram.com/reel/C0UjreLOFnQ",
+		"post_id":	"C0UjreLOFnQ",
+		"post_username":	"factsforpeace",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-12-01"
+		},
+		{
+		"item_id":	"97etsa90h6",
+		"post_link":	"https://www.instagram.com/reel/C0Uh3Oaoqwn",
+		"post_id":	"C0Uh3Oaoqwn",
+		"post_username":	"eize.makom",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-12-01"
+		},
+		{
+		"item_id":	"ig48sk1zyw",
+		"post_link":	"https://www.instagram.com/p/C0UCXRbsSx9",
+		"post_id":	"C0UCXRbsSx9",
+		"post_username":	"iton_gadol_israel_jewish_judio",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-12-01"
+		},
+		{
+		"item_id":	"t3ogkui6wt",
+		"post_link":	"https://www.instagram.com/p/C0SCFDwxxQi",
+		"post_id":	"C0SCFDwxxQi",
+		"post_username":	"sephardicsoul",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-12-01"
+		},
+		{
+		"item_id":	"0uufpu90yf",
+		"post_link":	"https://www.instagram.com/p/C0UgyFQPSpZ",
+		"post_id":	"C0UgyFQPSpZ",
+		"post_username":	"afshineemrani",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-12-01"
+		},
+		{
+		"item_id":	"905m9lfi0v",
+		"post_link":	"https://www.instagram.com/p/C0UlYEMoFA7",
+		"post_id":	"C0UlYEMoFA7",
+		"post_username":	"beyondtouristyitaly",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-12-01"
+		},
+		{
+		"item_id":	"t2rgsjetv1",
+		"post_link":	"https://www.instagram.com/p/C0S11Ixu1tP",
+		"post_id":	"C0S11Ixu1tP",
+		"post_username":	"jewishbreakingnews",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-12-01"
+		},
+		{
+		"item_id":	"nwo28tg9vo",
+		"post_link":	"https://www.instagram.com/reel/C0UaapsLdCw",
+		"post_id":	"C0UaapsLdCw",
+		"post_username":	"ajc.global",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-12-01"
+		},
+		{
+		"item_id":	"448ul262db",
+		"post_link":	"https://www.instagram.com/reel/C0RhaOAIg2N",
+		"post_id":	"C0RhaOAIg2N",
+		"post_username":	"westandwithisrael_",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-12-01"
+		},
+		{
+		"item_id":	"fg0ghen3oy",
+		"post_link":	"https://www.instagram.com/reel/C0Q2VhvuzNQ",
+		"post_id":	"C0Q2VhvuzNQ",
+		"post_username":	"mariaos.music",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-12-01"
+		},
+		{
+		"item_id":	"h18jj4elu5",
+		"post_link":	"https://www.instagram.com/reel/C0TSE-COFPb",
+		"post_id":	"C0TSE-COFPb",
+		"post_username":	"mariaos.music",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-12-01"
+		},
 		{
 		"item_id":	"6kbp7p1d8g",
 		"post_link":	"https://www.instagram.com/p/C0T8O1-McIp",
