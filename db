@@ -2,9 +2,249 @@
 "warning_text":	"No permissions to get total amount.",
 "records": 
 	{
-	"items_per_page":	8459,
+	"items_per_page":	8483,
 	"page":	1,
 	"items": [
+		{
+		"item_id":	"s4hxaxemv2",
+		"post_link":	"https://www.instagram.com/p/C0SDCkrvxJS",
+		"post_id":	"C0SDCkrvxJS",
+		"post_username":	"thatjewishfamily",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-12-01"
+		},
+		{
+		"item_id":	"efbllgfsnb",
+		"post_link":	"https://www.instagram.com/p/C0Svl6wh9f-",
+		"post_id":	"C0Svl6wh9f-",
+		"post_username":	"worldjewishcongress",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-12-01"
+		},
+		{
+		"item_id":	"4zcptt0qb2",
+		"post_link":	"https://www.instagram.com/reel/C0OyAspI-it",
+		"post_id":	"C0OyAspI-it",
+		"post_username":	"doronako",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-12-01"
+		},
+		{
+		"item_id":	"briqqmn5gd",
+		"post_link":	"https://www.instagram.com/p/C0R_E8QIkPM",
+		"post_id":	"C0R_E8QIkPM",
+		"post_username":	"eliran_ben_yair_",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-12-01"
+		},
+		{
+		"item_id":	"rygqp57fvp",
+		"post_link":	"https://www.instagram.com/reel/C0SE_O8CUA3",
+		"post_id":	"C0SE_O8CUA3",
+		"post_username":	"yallala26",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-12-01"
+		},
+		{
+		"item_id":	"s4kisr24i9",
+		"post_link":	"https://www.instagram.com/reel/C0R6Q_SN3Og",
+		"post_id":	"C0R6Q_SN3Og",
+		"post_username":	"zionistofarabia",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-12-01"
+		},
+		{
+		"item_id":	"nhx879chh8",
+		"post_link":	"https://www.instagram.com/reel/C0PlpKmi7is",
+		"post_id":	"C0PlpKmi7is",
+		"post_username":	"yallala26",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-12-01"
+		},
+		{
+		"item_id":	"uc8pzylx0f",
+		"post_link":	"https://www.instagram.com/p/C0Pn7usv3WH",
+		"post_id":	"C0Pn7usv3WH",
+		"post_username":	"wjcnextgen",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-12-01"
+		},
+		{
+		"item_id":	"4346bk0wsr",
+		"post_link":	"https://www.instagram.com/reel/C0RuymtI1hN",
+		"post_id":	"C0RuymtI1hN",
+		"post_username":	"kan_news",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-12-01"
+		},
+		{
+		"item_id":	"gaum3njpsf",
+		"post_link":	"https://www.instagram.com/reel/C0Oe0I-IdqY",
+		"post_id":	"C0Oe0I-IdqY",
+		"post_username":	"israelnews_detaly",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-12-01"
+		},
+		{
+		"item_id":	"dr0h7unomf",
+		"post_link":	"https://www.instagram.com/reel/C0ODuj7oGK9",
+		"post_id":	"C0ODuj7oGK9",
+		"post_username":	"yosephhaddad",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-12-01"
+		},
+		{
+		"item_id":	"o5tvjqewjf",
+		"post_link":	"https://www.instagram.com/reel/C0SIifsICXC",
+		"post_id":	"C0SIifsICXC",
+		"post_username":	"eliran_ben_yair_",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-12-01"
+		},
+		{
+		"item_id":	"2zrj0e1zzd",
+		"post_link":	"https://www.instagram.com/p/C0RdRbRN_NA",
+		"post_id":	"C0RdRbRN_NA",
+		"post_username":	"israelarabic",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-12-01"
+		},
+		{
+		"item_id":	"rt3r1rv4vf",
+		"post_link":	"https://www.instagram.com/reel/C0Ob3YlibvE",
+		"post_id":	"C0Ob3YlibvE",
+		"post_username":	"israel_in_kazakhstan",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-12-01"
+		},
+		{
+		"item_id":	"8x69tl5lwt",
+		"post_link":	"https://www.instagram.com/reel/C0R6BrroIeZ",
+		"post_id":	"C0R6BrroIeZ",
+		"post_username":	"push.il",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-12-01"
+		},
+		{
+		"item_id":	"2rxe50wlb8",
+		"post_link":	"https://www.instagram.com/reel/C0Rgb1PIAqe",
+		"post_id":	"C0Rgb1PIAqe",
+		"post_username":	"kan_news",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-12-01"
+		},
+		{
+		"item_id":	"1xfrzo1a8a",
+		"post_link":	"https://www.instagram.com/reel/C0R0EGBBAOH",
+		"post_id":	"C0R0EGBBAOH",
+		"post_username":	"i24news",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-12-01"
+		},
+		{
+		"item_id":	"5epncwqxfk",
+		"post_link":	"https://www.instagram.com/reel/C0RFk58Rncq",
+		"post_id":	"C0RFk58Rncq",
+		"post_username":	"cursor_israel",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-12-01"
+		},
+		{
+		"item_id":	"o5bk79n126",
+		"post_link":	"https://www.instagram.com/p/C0O20FroUqv",
+		"post_id":	"C0O20FroUqv",
+		"post_username":	"eliran_ben_yair_",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-12-01"
+		},
+		{
+		"item_id":	"zvrpic8kkl",
+		"post_link":	"https://www.instagram.com/reel/C0Rv3aItOlA",
+		"post_id":	"C0Rv3aItOlA",
+		"post_username":	"eitanlevi",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-12-01"
+		},
+		{
+		"item_id":	"qfqeln2g02",
+		"post_link":	"https://www.instagram.com/reel/C0RqFKYtn-t",
+		"post_id":	"C0RqFKYtn-t",
+		"post_username":	"blackjewishmagic",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-12-01"
+		},
+		{
+		"item_id":	"x9p2t2jv1e",
+		"post_link":	"https://www.instagram.com/reel/C0S07P1rnA4",
+		"post_id":	"C0S07P1rnA4",
+		"post_username":	"samanthaettus",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-12-01"
+		},
+		{
+		"item_id":	"8zh2khzql0",
+		"post_link":	"https://www.instagram.com/p/C0SdA5lR8wd",
+		"post_id":	"C0SdA5lR8wd",
+		"post_username":	"standuptojewishhate",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-12-01"
+		},
+		{
+		"item_id":	"lrx42ervfd",
+		"post_link":	"https://www.instagram.com/p/C0Qw4oyCtPU",
+		"post_id":	"C0Qw4oyCtPU",
+		"post_username":	"israel_in_kazakhstan",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-12-01"
+		},
 		{
 		"item_id":	"iq2vfxt3w5",
 		"post_link":	"https://www.instagram.com/p/C0SsgXtukOy",
