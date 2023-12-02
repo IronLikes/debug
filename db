@@ -2,9 +2,119 @@
 "warning_text":	"No permissions to get total amount.",
 "records": 
 	{
-	"items_per_page":	8987,
+	"items_per_page":	8998,
 	"page":	1,
 	"items": [
+		{
+		"item_id":	"helkjuo69x",
+		"post_link":	"https://www.instagram.com/reel/C0R8M9APicV",
+		"post_id":	"C0R8M9APicV",
+		"post_username":	"blackandjewishunity",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-12-02"
+		},
+		{
+		"item_id":	"u32qm0ga3b",
+		"post_link":	"https://www.instagram.com/reel/C0VdrbusaS6",
+		"post_id":	"C0VdrbusaS6",
+		"post_username":	"iton_gadol_israel_jewish_judio",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-12-02"
+		},
+		{
+		"item_id":	"s4d42s2a0h",
+		"post_link":	"https://www.instagram.com/p/C0T5pVqMPNJ",
+		"post_id":	"C0T5pVqMPNJ",
+		"post_username":	"iton_gadol_israel_jewish_judio",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-12-02"
+		},
+		{
+		"item_id":	"rtrc8e8vbl",
+		"post_link":	"https://www.instagram.com/p/C0VcsGtspPn",
+		"post_id":	"C0VcsGtspPn",
+		"post_username":	"iton_gadol_israel_jewish_judio",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-12-02"
+		},
+		{
+		"item_id":	"jlo13osxx6",
+		"post_link":	"https://www.instagram.com/p/C0USjM0Mq_v",
+		"post_id":	"C0USjM0Mq_v",
+		"post_username":	"iton_gadol_israel_jewish_judio",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-12-02"
+		},
+		{
+		"item_id":	"a2pb1lqjb2",
+		"post_link":	"https://www.instagram.com/p/C0U1FQFJ7r6",
+		"post_id":	"C0U1FQFJ7r6",
+		"post_username":	"iton_gadol_israel_jewish_judio",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-12-02"
+		},
+		{
+		"item_id":	"grbuo1jq12",
+		"post_link":	"https://www.instagram.com/p/C0R9sT-t63O",
+		"post_id":	"C0R9sT-t63O",
+		"post_username":	"raqraiz",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-12-02"
+		},
+		{
+		"item_id":	"xh2mf9ym9q",
+		"post_link":	"https://www.instagram.com/p/C0Tw4-mrbWj",
+		"post_id":	"C0Tw4-mrbWj",
+		"post_username":	"iton_gadol_israel_jewish_judio",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-12-02"
+		},
+		{
+		"item_id":	"qiu1j2c3mo",
+		"post_link":	"https://www.instagram.com/reel/C0UET7fOL6_",
+		"post_id":	"C0UET7fOL6_",
+		"post_username":	"ikey_chaz",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-12-02"
+		},
+		{
+		"item_id":	"ea0s2w60gf",
+		"post_link":	"https://www.instagram.com/reel/C0RyWmHozQi",
+		"post_id":	"C0RyWmHozQi",
+		"post_username":	"ronitaharoni",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-12-02"
+		},
+		{
+		"item_id":	"sbn0v6664f",
+		"post_link":	"https://www.instagram.com/reel/C0WTxwYMTOO",
+		"post_id":	"C0WTxwYMTOO",
+		"post_username":	"mako.il",
+		"active":	true,
+		"is_favorite":	false,
+		"is_favorite_val":	false,
+		"date":	"2023-12-02"
+		},
 		{
 		"item_id":	"r3gqxg4uys",
 		"post_link":	"https://www.instagram.com/reel/C0V2wC1NjCX",
